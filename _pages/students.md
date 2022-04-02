@@ -9,25 +9,24 @@ author_profile: true
 
 ### Doctoral Students
 
-| Name | Year | Topic | Current Affiliation |
+| Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
-| Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila |
-| Ivan Zvonkov | 2023\* | Scaling ML ops and vegetation forecasting in satelilte data| UMD CS |
-| Kevin Yoo | 2023\* | Vegetation forecasting in satellite data | UMD CS |
+| Udit Paul | 2018-* | Characterizing Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
+| Sanjay Chandrasekaran | 2019-* | Democratizing Networking Research | UCSB |
+| Jiamo Liu | 2020 | QoE Optimization for Satellite Networks | UCSB |
+| Roman Beltiukov | 2021-* | Interpretable ML | UCSB (co-advised with Prof. Belding)|
+| Punnal Ismail Khan | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
+
 
 <sub><sup>\* Planned graduation year</sup></sub>
 
 ### Masters Students
 
-| Name | Year\* | Topic | Current Affiliation |
+| Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
 | David Adamkiewicz | Spring 2021 | Shedding Light on Opaque Statistics of the World’s Largest Agricultural Consumer (China) | NGA |
 | Ryan McWeeney | Spring 2021 | Inter-comparison of cropland detection accuracy in public land cover products | Maxar |
-| Amanda Lopez | Spring 2021 | Assessing impact of conflict on planted area change in Tigray Region, Ethiopia | USDA |
-| Adam Martin | Fall 2021 | Leveraging Machine Learning to Map Salient Classes in Jezero Crater, Mars | Leidos |
-| Afolarin Lawal | Spring 2020 | Mapping prevent plant acres due to US Midwest 2019 flooding | Cloud to Street |
 
-<sub><sup>\* Capstone semester and year</sup></sub>
 
 ### Undergraduate Students
 
