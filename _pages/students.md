@@ -17,9 +17,6 @@ author_profile: true
 | Roman Beltiukov | 2021-* | Interpretable ML | UCSB (co-advised with Prof. Belding)|
 | Punnal Ismail Khan | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
 
-
-<sub><sup>\* Planned graduation year</sup></sub>
-
 ### Masters Students
 
 | Name | Year(s) | Topic | Current Affiliation |
@@ -51,7 +48,7 @@ author_profile: true
 | Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| IIT Roorkee (Thesis) --> Tournafest (Founder)|
 | Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft|
 | Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft --> UCSB |
-| Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation | Microsoft (Research Fellow) |
+| Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation |  IIT Roorkee (Thesis) --> Microsoft (Research Fellow) |
 
 
 <!-- ### High School Students
