@@ -33,11 +33,23 @@ Investigate Network Ephemeral Events | UCSB |
 
 ### Undergraduate Students
 
-| Name | Year\* | Topic | Last Known Affiliation |
+| Name | Year(s) | Topic | Last Known Affiliation |
 | --- | --- |
-| Arushi Patel | 2022 | Out-of-distribution detection for science applications | UMD CS |
-| Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
-| Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | UMD CS |
+| Sam Liang | 2021-* | QoE Optimization for Video Conferencing Applications | UCSB (ESRP)|
+| Ethan Wu | 2021-* | QoE Optimization for Video Conferencing Applications | UCSB (ESRP)|
+| Mateo Wang | 2021-* | Characterizing Broadband Offerings in US | UCSB (ESRP)|
+| Anmol Khemuka | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
+| Hemil Panchiwala | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
+| Hemant | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
+| Arnesh Agrawal | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
+| Aseem Verma | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
+| Divyanshu Setia | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
+| Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | Salesforce |
+| Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| Tournafest (Founder)|
+| Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | Microsoft|
+| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | UCSB |
+| Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation | Microsoft (Research Fellow) |
+
 
 <!-- ### High School Students
 
@@ -49,11 +61,11 @@ Investigate Network Ephemeral Events | UCSB |
 
 <sub><sup>\* Latest year working with me</sup></sub> -->
 
-### Other research advising
+<!-- ### Other research advising
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
 | NDspace team | 2022 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
 | Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
 
-<sub><sup>\* Latest year working with me</sup></sub>
+<sub><sup>\* Latest year working with me</sup></sub> -->
