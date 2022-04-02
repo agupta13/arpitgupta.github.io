@@ -18,7 +18,7 @@ arXiv: Report 2106.05420, 2021.
 
 19. [Characterizing Performance Inequity Across US Ookla Speedtest Users](https://arxiv.org/pdf/2110.12038.pdf)\
 U Paul, J Liu, V Adarsh, M Gu, A Gupta, E Belding\
-arXiv preprint arXiv:2110.12038
+arXiv preprint arXiv:2110.12038, 2021.
 
 18. [Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts](https://par.nsf.gov/servlets/purl/10294011)\
 V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding\
@@ -27,6 +27,10 @@ International Conference on Computer Communications and Networks (ICCCN), 2021
 17. [Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts](https://par.nsf.gov/servlets/purl/10294011)\
 V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding\
 International Conference on Passive and Active Network Measurement, 2021
+
+17. [Carpe Elephants: Seize the Global Heavy Hitters](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/carpe20.pdf) \
+Rob Harrison, Shir L. Feibish, Arpit Gupta, Ross Teixeira, S. Muthukrishnan, Jennifer Rexford\
+ACM SIGCOMM SPIN, 2020.
 
 16. [PacketScope: Monitoring the Packet Lifecycle Inside a Switch](#)\
 R. Teixeira, R. Harrison, A. Gupta, J. Rexford\

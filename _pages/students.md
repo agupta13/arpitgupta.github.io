@@ -24,8 +24,11 @@ author_profile: true
 
 | Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
-| David Adamkiewicz | Spring 2021 | Shedding Light on Opaque Statistics of the World’s Largest Agricultural Consumer (China) | NGA |
-| Ryan McWeeney | Spring 2021 | Inter-comparison of cropland detection accuracy in public land cover products | Maxar |
+| Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | Google |
+| Irene Pattarachanyakul | 2020-21 | Measuring TCP RoundTrip Time to
+Investigate Network Ephemeral Events | UCSB |
+| Rohan Bhatia | 2020-* | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB |
+
 
 
 ### Undergraduate Students
@@ -35,20 +38,8 @@ author_profile: true
 | Arushi Patel | 2022 | Out-of-distribution detection for science applications | UMD CS |
 | Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
 | Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | UMD CS |
-| Eva Utzschneider | 2022 | Cropland mapping for planted area change assessment | UMD CS |
-| Logan Daytner | 2022 | Label annotation for satellite images | UMD GEOG |
-| Sophia Owens | 2022 | Label annotation for satellite images | UMD GEOG |
-| Chin-Yun Kuei | 2022 | Label annotation for satellite images | UMD GEOG |
-| Kevin Liu | 2021 | Street2Sat object detection and data visualization | UMD CS |
-| Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | DeepCell |
-| Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | UMD CS |
-| Yao Poudima | 2021 | Cropland mapping in Mali | UMD iSchool |
-| Bissaka Kenah | 2021 | Segmentation for crop type mapping in US Midwest | Morgan Stanley |
-| Favour Nerrise | 2020 | Novelty-guided targeting for Mars rovers | Stanford CS |
 
-<sub><sup>\* Latest year working with me</sup></sub>
-
-### High School Students
+<!-- ### High School Students
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
@@ -56,7 +47,7 @@ author_profile: true
 | Vinay Raman | 2022 | DORA pipeline for outlier detection, ground annotations with noisy labels | Montgomery Blair High School |
 | Saketh Sundar | 2022 | Field boundary delineation in satellite images | River Hill High School |
 
-<sub><sup>\* Latest year working with me</sup></sub>
+<sub><sup>\* Latest year working with me</sup></sub> -->
 
 ### Other research advising
 
