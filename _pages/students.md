@@ -25,8 +25,7 @@ author_profile: true
 | Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
 | Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | Google |
-| Irene Pattarachanyakul | 2020-21 | Measuring TCP RoundTrip Time to
-Investigate Network Ephemeral Events | UCSB |
+| Irene Pattarachanyakul | 2020-21 | Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events | UCSB |
 | Rohan Bhatia | 2020-* | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB |
 
 
@@ -45,9 +44,13 @@ Investigate Network Ephemeral Events | UCSB |
 | Aseem Verma | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
 | Divyanshu Setia | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
 | Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | Salesforce |
-| Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| Tournafest (Founder)|
-| Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | Microsoft|
-| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | UCSB |
+| Jake Miller| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
+| Ruchika Saswade| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
+| John-Michael Kirchner| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
+| Matthew Aragaw | 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
+| Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| IIT Roorkee (Thesis) --> Tournafest (Founder)|
+| Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft|
+| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft --> UCSB |
 | Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation | Microsoft (Research Fellow) |
 
 
