@@ -11,10 +11,10 @@ author_profile: true
 
 | Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
-| Udit Paul | 2018-* | Characterizing Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
+| Udit Paul | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
 | Sanjay Chandrasekaran | 2019-* | Democratizing Networking Research | UCSB |
 | Jiamo Liu | 2020 | QoE Optimization for Satellite Networks | UCSB |
-| Roman Beltiukov | 2021-* | Interpretable ML | UCSB (co-advised with Prof. Belding)|
+| Roman Beltiukov | 2021-* | Trustworthy Self-driving Networks | UCSB (co-advised with Prof. Belding)|
 | Punnal Ismail Khan | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
 
 ### Masters Students
@@ -31,8 +31,8 @@ author_profile: true
 
 | Name | Year(s) | Topic | Last Known Affiliation |
 | --- | --- |
-| Sam Liang | 2021-* | QoE Optimization for Video Conferencing Applications | UCSB (ESRP)|
-| Ethan Wu | 2021-* | QoE Optimization for Video Conferencing Applications | UCSB (ESRP)|
+| Sam Liang | 2021-* | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
+| Ethan Wu | 2021-* | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
 | Mateo Wang | 2021-* | Characterizing Broadband Offerings in US | UCSB (ESRP)|
 | Anmol Khemuka | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
 | Hemil Panchiwala | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|

@@ -11,9 +11,9 @@ title                    : "Arpit Gupta"
 title_separator          : "-"
 name                     : &name "Arpit Gupta"
 description              : &description "Assistant Professor, Computer Science at UCSB"
-url                      : https://agupta13.github.io/arpitgupta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "agupta13/arpitgupta.github.io"
+url                      : "https://sites.cs.ucsb.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/~arpitgupta" # the subpath of your site, e.g. "/blog"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -182,9 +182,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,14 +231,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

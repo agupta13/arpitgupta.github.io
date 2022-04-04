@@ -28,6 +28,17 @@ You can download my CV [here](#).
 - USENIX **Community Contribution Award**, USENIX NSDI, 2016
 - Internet-2 Innovation Award winner, 2013
 
+## Services
+- Organized workshops for NSF
+  - [NSF Workshop on Internet Frontiers & Opportunities](https://datascience.uchicago.edu/events/internet-frontiers-and-opportunities-workshop), Nov 2021
+  - [NSF Workshop on NextG Security](https://nsf-nextg-security.cs.ucsb.edu/), Oct 2020
+  - [NSF Workshop on Measurements for Self-driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/measure_selfdn_workshop.pdf), Apr 2019
+- Program Committee Member
+  - ACM SIGCOMM: 2021, 2020
+  - USENIX NSDI: 2023, 2021, 2020
+  - ACM SOSR: 2021, 2019
+  - ACM CoNEXT: 2019
+
 ## News
 - `Apr 2022`: Congcong Miao (Tencent) will present our work on detecting ephemeral network events in optical transport network at NSDI 2022.
 - `Feb 2022`: I talked about our efforts to democratize networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/#content).
