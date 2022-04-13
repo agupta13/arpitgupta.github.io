@@ -11,7 +11,7 @@ author_profile: true
 
 | Name | Year(s) | Topic | Current Affiliation |
 | --- | --- |
-| Udit Paul | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
+| [Udit Paul](#) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
 | Sanjay Chandrasekaran | 2019-* | Democratizing Networking Research | UCSB |
 | Jiamo Liu | 2020 | QoE Optimization for Satellite Networks | UCSB |
 | Roman Beltiukov | 2021-* | Trustworthy Self-driving Networks | UCSB (co-advised with Prof. Belding)|
