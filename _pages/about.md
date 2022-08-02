@@ -15,11 +15,12 @@ As a systems researcher, I design and build flexible, scalable, and deployable s
 You can download my CV [here](#).
 
 ## Selected Publications
-- [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/Optel_camera_ready.pdf), NSDI 2022
-- [(How Much) Does a Private WAN Improve Cloud Performance?](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cloud_infocom_2020.pdf), INFOCOM 2020
-- [Sonata: Query-Driven Streaming Network Telemetry](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), SIGCOMM 2018
-- [iSDX: An Industrial-Scale Software Defined Internet Exchange Point](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf), NSDI 2016
-- [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), SIGCOMM 2014
+- [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.
+- [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022
+- [(How Much) Does a Private WAN Improve Cloud Performance?](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cloud_infocom_2020.pdf), IEEE INFOCOM 2020
+- [Sonata: Query-Driven Streaming Network Telemetry](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), ACM SIGCOMM 2018
+- [iSDX: An Industrial-Scale Software Defined Internet Exchange Point](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf), USENIX NSDI 2016
+- [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), ACM SIGCOMM 2014
 
 ## Recognition
 - Honorable Mention, **SIGCOMM Dissertation Award**, 2018
