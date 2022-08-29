@@ -9,57 +9,48 @@ author_profile: true
 
 ### Doctoral Students
 
-| Name | Year(s) | Topic | Current Affiliation |
+| Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| [Udit Paul]() | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
-| Sanjay Chandrasekaran | 2019-* | Democratizing Networking Research | UCSB |
-| Jiamo Liu | 2020 | QoE Optimization for Satellite Networks | UCSB |
-| Roman Beltiukov | 2021-* | Trustworthy Self-driving Networks | UCSB (co-advised with Prof. Belding)|
-| Punnal Ismail Khan | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
+| [Udit Paul](#) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
+| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | Democratizing Networking Research | UCSB |
+| [Jiamo Liu](https://jiamoliu.github.io/) | 2020-* | QoE Optimization for Satellite Networks | UCSB (co-advised with Prof. Belding)|
+| [Roman Beltiukov](#) | 2021-* | Trustworthy Self-driving Networks | UCSB |
+| [Punnal Ismail Khan](#) | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
 
 ### Masters Students
 
-| Name | Year(s) | Topic | Current Affiliation |
+| Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | Google |
+| Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | UCSB --> Google |
 | Irene Pattarachanyakul | 2020-21 | Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events | UCSB |
-| Rohan Bhatia | 2020-* | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB |
+| Rohan Bhatia | 2020-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Google |
 
 
 
 ### Undergraduate Students
 
-| Name | Year(s) | Topic | Last Known Affiliation |
+| Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| Sam Liang | 2021-* | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
-| Ethan Wu | 2021-* | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
-| Mateo Wang | 2021-* | Characterizing Broadband Offerings in US | UCSB (ESRP)|
-| Anmol Khemuka | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
-| Hemil Panchiwala | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
-| Hemant | 2021-* | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
-| Arnesh Agrawal | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
-| Aseem Verma | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
-| Divyanshu Setia | 2021-* | QoE estimation in the wild | IIT Roorkee (Thesis)|
-| Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | Salesforce |
-| Jake Miller| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
-| Ruchika Saswade| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
-| John-Michael Kirchner| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
-| Matthew Aragaw | 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
+| Sam Liang, Ethan Wu | 2021-22 | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
+| Anmol Khemuka, Hemil Panchiwala, Hemant | 2021-22 | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
+| Arnesh Agrawal, Aseem Verma, Divyanshu Setia | 2021-22 | QoE estimation in the wild | IIT Roorkee (Thesis)|
+| Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Salesforce --> UC Berkeley |
+| Jake Miller, Ruchika Saswade, John-Michael Kirchner, Matthew Aragaw| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
 | Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| IIT Roorkee (Thesis) --> Tournafest (Founder)|
 | Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft|
-| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft --> UCSB |
+| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft --> **UCSB** |
 | Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation |  IIT Roorkee (Thesis) --> Microsoft (Research Fellow) |
 
+<!-- | Mateo Wang | 2021-22 | Characterizing Broadband Offerings in US | UCSB (ESRP)| -->
 
-<!-- ### High School Students
 
-| Name | Year\* | Topic | Last Known Affiliation |
+### High School Students
+
+| Name | Year\* | Topic | Affiliation |
 | --- | --- |
-| Dhruv Pai | 2022 | In-season crop type mapping, WASDE report explorer tool | Montgomery Blair High School |
-| Vinay Raman | 2022 | DORA pipeline for outlier detection, ground annotations with noisy labels | Montgomery Blair High School |
-| Saketh Sundar | 2022 | Field boundary delineation in satellite images | River Hill High School |
+| Grant Withee | 2021-22 | Last-mile RTT for Campus Networks | Laguna Blanca School, Santa Barbara |
 
-<sub><sup>\* Latest year working with me</sup></sub> -->
+<sub><sup>\* Latest year working with me</sup></sub>
 
 <!-- ### Other research advising
 

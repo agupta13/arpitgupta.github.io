@@ -8,17 +8,33 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-23. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
+26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
-ACM CCS, Nov 2022.
+ACM CCS, Nov 2022 (to appear)
 
-22. 🆕 [Understanding Internet Inequity in Chicago: Is it an availability, affordability, or adoption issue?](#)\
+27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](#)\
+U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding\
+ACM IMC, Nov 2022 (to appear)
+
+25. 🆕 [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
 T. Mangla, U. Paul, A. Gupta and N. Marwell\
-TPRC, Sept 2022.
+TPRC, Sept 2022 (to appear)
 
-21. 🆕 [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
+24. 🆕 [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
 C. Miao, M. Chen, A. Gupta, Z. Meng, L. Ye, J. Xiao, J. Chen, Z. He, X. Luo, J. Wang, H. Yu\
-USENIX NSDI, April 2022.
+USENIX NSDI, April 2022
+
+21. 🆕 [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](#)\
+U. Paul, J. Liu, D. Farias-llerenas, V. Adarsh, A. Gupta, E. Belding\
+ACM COMPASS 2022
+
+23. 🆕 [Towards client-side active measurements without application control.](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/clam_a.pdf)\
+P. Goenka, K. Zarifis, A. Gupta, M. Calder\
+ACM SIGCOMM CCR, Jan 2022
+
+22. [Continuous Flow Measurement with SuperFlow](#)\
+Z. Zhao, X. Shi, A. Gupta, Q. Li, Z. Wang, B. Xiong, X. Yin\
+IEEE/ACM IWQoS, June 2021 (virtual)
 
 20. [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf)\
 R. Bhatia, A. Gupta, R. Harrison, D. Lokshtanov, W. Willinger\
