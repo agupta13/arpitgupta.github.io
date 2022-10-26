@@ -16,10 +16,10 @@ As a systems researcher, I design and build flexible, scalable, and trustworthy
 systems that solve the real-world problems at the intersection of networking,
 security, and machine learning. Specifically, I am interested in developing
 **self-driving networks** that use **programmable data planes** and **machine
-learning** to provide highly *available*, *reliable*, *performant* and *secure*
+learning** to provide highly available, reliable, performant and secure
 network connectivity at *lower costs* to **under-served** communities.
 
-I regularly work with different industry partners, such as Microsoft Research, Verizon, ViaSat, ATT, Intel, Ookla, etc., on problems related to development and deployment of ML-based artifacts for networking.
+I work with different industry partners, such as Microsoft Research, Tencent, Verizon, ViaSat, ATT, Intel, Ookla, etc., on problems related to development and deployment of ML-based artifacts for networking.
 
 
 Please find more details about my current research [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
@@ -35,7 +35,7 @@ Please don't hesitate to contact me if you have any questions.
 
 ## Selected Publications
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.
-- [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](#) ACM IMC, 2022. \
+- [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) ACM IMC, 2022. \
 🏆 **Best Paper Award (Long)**
 - [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.
 - [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019.
@@ -69,9 +69,10 @@ Please don't hesitate to contact me if you have any questions.
   - ACM CoNEXT: 2019
 
 ## News
-- `June 2022`: Sanjay Chandrasekaran received the [Computer Science Outstanding Graduate Research Award](https://twitter.com/ucsbcs/status/1536401430885502977?s=20&t=MI_TLmE3VPdooGWmEWqLXQ).
-- `June 2022`: Rohan Bhatia received the [Computer Science Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976).
-- `June 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).
+- `Oct 2022`: Our paper, [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) received the **Best Paper Award** at ACM SIGCOMM Internet Measurements Conference (IMC), 2022. Special congratulations to my student, [Udit Paul](https://u-paul.github.io/)! 🏆  
+-  `June 2022`: Sanjay Chandrasekaran received the [Computer Science Outstanding Graduate Research Award](https://twitter.com/ucsbcs/status/1536401430885502977?s=20&t=MI_TLmE3VPdooGWmEWqLXQ). 🏆  
+- `June 2022`: Rohan Bhatia received the [Computer Science Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976).  🏆  
+- `June 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).  🏆  
 - `Apr 2022`: Congcong Miao (Tencent) will present our work on detecting ephemeral network events in optical transport network at NSDI 2022.
 - `Feb 2022`: I talked about our efforts to democratize networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/#content).
-- `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network.
+-  `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network. 🏆  
