@@ -10,29 +10,32 @@ author_profile: true
 
 26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
-ACM CCS, Nov 2022 (to appear)
+ACM CCS, Nov 2022 (to appear)\
+[Project Website](https://trusteeml.github.io)
 
-27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](#)\
+27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)\
 U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding\
-ACM IMC, Nov 2022 (to appear)
+ACM IMC, Nov 2022\
+🏆 **Best Paper Award**\
+[Project Website](https://address.cs.ucsb.edu/)
 
 25. 🆕 [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
 T. Mangla, U. Paul, A. Gupta and N. Marwell\
-TPRC, Sept 2022 (to appear)
+TPRC, Sept 2022
 
 24. 🆕 [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
 C. Miao, M. Chen, A. Gupta, Z. Meng, L. Ye, J. Xiao, J. Chen, Z. He, X. Luo, J. Wang, H. Yu\
 USENIX NSDI, April 2022
 
-21. 🆕 [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](#)\
+21. 🆕 [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf)\
 U. Paul, J. Liu, D. Farias-llerenas, V. Adarsh, A. Gupta, E. Belding\
 ACM COMPASS 2022
 
-23. 🆕 [Towards client-side active measurements without application control.](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/clam_a.pdf)\
+23. 🆕[Towards client-side active measurements without application control.](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/clam_a.pdf)\
 P. Goenka, K. Zarifis, A. Gupta, M. Calder\
 ACM SIGCOMM CCR, Jan 2022
 
-22. [Continuous Flow Measurement with SuperFlow](#)\
+22. [Continuous Flow Measurement with SuperFlow](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/superflow.pdf)\
 Z. Zhao, X. Shi, A. Gupta, Q. Li, Z. Wang, B. Xiong, X. Yin\
 IEEE/ACM IWQoS, June 2021 (virtual)
 
@@ -79,6 +82,7 @@ ACM NetAI, Beijing, China, August 2019.
 11. [Sonata: Query-Driven Network Telemetry](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf)\
 Arpit Gupta, Rob Harrison, Ankita Pawar, Marco Canini, Nick Feamster, Jennifer Rexford, Walter Willinger\
 ACM SIGCOMM, Budapest, Hungary, August 2018.
+[Project Website](https://sonata-princeton.github.io/)
 
 10. [Preserving Privacy at IXPs](#)\
 Xiaohe Hu, Arpit Gupta, Aurojit Panda, Nick Feamster, Scott Shenker\
@@ -94,7 +98,8 @@ ACM Symposium on SDN Research (SOSR), Santa Clara, CA, April 2017.
 
 7. [Concise Encoding of Flow Attributes in SDN Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pathsets.pdf)\
 Robert MacDavid, Rüdiger Birkner, Ori Rottenstreich, Arpit Gupta, Nick Feamster, Jennifer Rexford\
-ACM Symposium on SDN Research (SOSR), Santa Clara, CA, April 2017.
+ACM Symposium on SDN Research (SOSR), Santa Clara, CA, April 2017.\
+🏆 **Best Paper Award**
 
 6. [Network Monitoring as a Streaming Analytics Problem](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata-hotnets16.pdf)\
 Arpit Gupta, Rüdiger Birkner, Marco Canini, Nick Feamster, Chris Mac-Stoker, Walter Willinger\
@@ -102,7 +107,8 @@ ACM HotNets, Atlanta, GA, November 2016.
 
 5. [An Industrial-Scale Software Defined Internet Exchange Point](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf)\
 Arpit Gupta, Robert MacDavid, Rüdiger Birkner, Marco Canini, Nick Feamster, Jennifer Rexford, Laurent Vanbever\
-USENIX NSDI 2016, Santa Clara, CA, March 2016.
+USENIX NSDI 2016, Santa Clara, CA, March 2016.\
+🏆 **USENIX Best of the Rest** **USENIX NSDI Community Contribution Award**
 
 4. [Authorizing Network Control at Software Defined Internet Exchange Points](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/flanc.pdf)\
 Arpit Gupta, Nick Feamster, Laurent Vanbever\
@@ -115,7 +121,8 @@ NSDI 2015, Oakland, CA, May 2015.
 
 2. [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf)\
 Arpit Gupta, Laurent Vanbever, Muhammad Shahbaz, Sean Patrick Donovan, Brandon Schlinker, Nick Feamster, Jennifer Rexford, Scott Shenker, Russ Clark, Ethan Katz-Bassett\
-ACM SIGCOMM 2014, Chicago, IL, August 2014.
+ACM SIGCOMM 2014, Chicago, IL, August 2014.\
+🏆 **Internet-2 Innovation Award**
 
 1. [Peering at the Internet's Frontier: A First Look at ISP Interconnectivity in Africa](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/african_interconns.pdf)\
 Arpit Gupta, Matt Calder, Nick Feamster, Marshini Chetty, Enrico Calandro, Ethan Katz-Bassett\

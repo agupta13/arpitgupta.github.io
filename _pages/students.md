@@ -11,11 +11,11 @@ author_profile: true
 
 | Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| [Udit Paul](#) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
+| [Udit Paul](https://u-paul.github.io/) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
 | [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | Democratizing Networking Research | UCSB |
-| [Jiamo Liu](https://jiamoliu.github.io/) | 2020-* | QoE Optimization for Satellite Networks | UCSB (co-advised with Prof. Belding)|
-| [Roman Beltiukov](#) | 2021-* | Trustworthy Self-driving Networks | UCSB |
-| [Punnal Ismail Khan](#) | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
+| [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Trustworthy Self-driving Networks | UCSB |
+| [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
+| [Satyandra Guthula](#) | 2022-* | Representation Learning for Network Traffic Data | UCSB |
 
 ### Masters Students
 
