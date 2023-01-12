@@ -7,22 +7,18 @@ author_profile: true
 
 ## Self-Driving Networks
 
-The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to
-develop **self-driving networks**, i.e., build networks that can run themselves
-with minimal intervention. Specifically, our goal is to develop self-driving
-last-mile networks (e.g., cable, mobile, satellite, etc.) that can provide
-highly *available*, *reliable*, *performant* and *secure* network connectivity
-to **under-served** communities.
+The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks**, i.e., build networks that can run themselves with minimal intervention. Specifically, our goal is to build self-driving last-mile networks (e.g., cable, mobile, satellite, etc.) that can lower the cost of operating highly *available*, *reliable*, *performant*, and *secure* network connectivity, highly desired for **under-served** communities.
 
-To this end, our group explores (1) how we can leverage the flexibility of
-**programmable data-plane targets** and the intelligibility of **ML
-algorithms** to solve different learning problems in networking; and
-(2) how we can **establish trust** in ML-based artifacts for networking, such that network operators feel confident relinquishing control to these artifacts in production settings.
+To this end, our group explores how we can
+(1) enable **accurate and flexible (streaming) analytics** over network data at scale;
+(2) lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale;
+(3) develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure; and
+(4) **establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings.
 
 ### Related Publications
-Some of the recent works that best represent some of the ongoing projects at SNL:
+Some of the recently published works that provide a sample of some of the ongoing activities at SNL:
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.
-- [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](#), ACM IMC, 2022.
+- [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), ACM IMC, 2022.
 - [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.
 - [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf), TPRC, 2022.
 - [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf),
