@@ -35,7 +35,7 @@ Please don't hesitate to contact me if you have any questions.
 
 ## Selected Publications
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.\
-🏆 **Best Paper Honorable Mention**
+🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
 - [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) ACM IMC, 2022. \
 🏆 **Distinguished Paper Award (Long)**

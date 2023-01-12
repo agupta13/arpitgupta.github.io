@@ -12,7 +12,8 @@ author_profile: true
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
 ACM CCS, Nov 2022 (to appear)\
 [Project Website](https://trusteeml.github.io)\
-🏆 **Best Paper Honorable Mention**
+🏆 **Best Paper Honorable Mention**\
+🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
 
 27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)\
 U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding\
