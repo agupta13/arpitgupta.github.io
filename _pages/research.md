@@ -7,7 +7,7 @@ author_profile: true
 
 ## Self-Driving Networks
 
-The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks**, i.e., build networks that can run themselves with minimal intervention. Specifically, our goal is to build self-driving last-mile networks (e.g., cable, mobile, satellite, etc.) that can lower the cost of operating highly *available*, *reliable*, *performant*, and *secure* network connectivity, highly desired for **under-served** communities.
+The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks** that leverage advances in different research areas (i.e., networking, machine learning, security, and computer architecture) to address the digital inequity issues. Specifically, our goal is to build self-driving last-mile networks (e.g., cable, mobile, satellite, etc.) that can lower the cost of operating highly *available*, *reliable*, *performant*, and *secure* network connectivity, highly desired for **under-served** communities.
 
 To this end, our group explores how we can
 (1) enable **accurate and flexible (streaming) analytics** over network data at scale;
