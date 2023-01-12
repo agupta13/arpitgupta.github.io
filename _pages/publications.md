@@ -11,12 +11,13 @@ author_profile: true
 26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
 ACM CCS, Nov 2022 (to appear)\
-[Project Website](https://trusteeml.github.io)
+[Project Website](https://trusteeml.github.io)\
+🏆 **Best Paper Honorable Mention**
 
 27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)\
 U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding\
 ACM IMC, Nov 2022\
-🏆 **Best Paper Award**\
+🏆 **Distinguished Paper Award**\
 [Project Website](https://address.cs.ucsb.edu/)
 
 25. 🆕 [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
@@ -108,7 +109,8 @@ ACM HotNets, Atlanta, GA, November 2016.
 5. [An Industrial-Scale Software Defined Internet Exchange Point](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf)\
 Arpit Gupta, Robert MacDavid, Rüdiger Birkner, Marco Canini, Nick Feamster, Jennifer Rexford, Laurent Vanbever\
 USENIX NSDI 2016, Santa Clara, CA, March 2016.\
-🏆 **USENIX Best of the Rest** **USENIX NSDI Community Contribution Award**
+🏆 **USENIX Best of the Rest** \
+🏆 **USENIX NSDI Community Contribution Award**
 
 4. [Authorizing Network Control at Software Defined Internet Exchange Points](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/flanc.pdf)\
 Arpit Gupta, Nick Feamster, Laurent Vanbever\
