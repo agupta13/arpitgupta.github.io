@@ -13,9 +13,9 @@ author_profile: true
 | --- | --- |
 | [Udit Paul](https://u-paul.github.io/) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
 | [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | Democratizing Networking Research | UCSB |
-| [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Trustworthy Self-driving Networks | UCSB |
-| [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | Closed-loop Network Telemetry System(s) | UCSB |
-| [Satyandra Guthula](#) | 2022-* | Representation Learning for Network Traffic Data | UCSB |
+| [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | TBD | UCSB |
+| [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | TBD | UCSB |
+| [Satyandra Guthula](#) | 2022-* | TBD | UCSB |
 
 ### Masters Students
 
