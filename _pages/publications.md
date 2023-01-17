@@ -8,9 +8,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+27. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
+F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
+VLDB, Aug 2023 (to appear)
+
+
 26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
-ACM CCS, Nov 2022 (to appear)\
+ACM CCS, Nov 2022\
 [Project Website](https://trusteeml.github.io)\
 🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
@@ -21,19 +26,19 @@ ACM IMC, Nov 2022\
 🏆 **Distinguished Paper Award**\
 [Project Website](https://address.cs.ucsb.edu/)
 
-25. 🆕 [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
+25. [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
 T. Mangla, U. Paul, A. Gupta and N. Marwell\
 TPRC, Sept 2022
 
-24. 🆕 [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
+24. [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
 C. Miao, M. Chen, A. Gupta, Z. Meng, L. Ye, J. Xiao, J. Chen, Z. He, X. Luo, J. Wang, H. Yu\
 USENIX NSDI, April 2022
 
-21. 🆕 [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf)\
+21. [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf)\
 U. Paul, J. Liu, D. Farias-llerenas, V. Adarsh, A. Gupta, E. Belding\
 ACM COMPASS 2022
 
-23. 🆕[Towards client-side active measurements without application control.](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/clam_a.pdf)\
+23. [Towards client-side active measurements without application control.](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/clam_a.pdf)\
 P. Goenka, K. Zarifis, A. Gupta, M. Calder\
 ACM SIGCOMM CCR, Jan 2022
 
