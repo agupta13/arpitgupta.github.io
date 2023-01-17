@@ -68,11 +68,12 @@ Please don't hesitate to contact me if you have any questions.
   - [NSF Workshop on Measurements for Self-driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/measure_selfdn_workshop.pdf), Apr 2019
 - Program Committee Member
   - ACM SIGCOMM: 2021, 2020
-  - USENIX NSDI: 2023, 2021, 2020
+  - USENIX NSDI: 2024, 2023, 2021, 2020
   - ACM SOSR: 2021, 2019
   - ACM CoNEXT: 2019
 
 ## News
+- `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](#), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
 - `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
 - `Nov 2022`: Our paper, [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), received the **Best Paper Honorable Mention** at ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. It was rated as the best paper in the `Machine Learning and Security` track. Special congratulations to [Roman Beltiukov](https://maybe-hello-world.github.io/) and [Arthur Jacobs](https://asjacobs92.github.io/)! 🏆
 - `Nov 2022`: I had the privilege to visit Lawrence Berkeley National Lab (LBNL). Special thanks to [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/) for hosting me.

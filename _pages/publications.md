@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-27. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
+27. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](#)\
 F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
 VLDB, Aug 2023 (to appear)
 
