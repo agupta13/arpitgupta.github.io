@@ -39,7 +39,8 @@ Please don't hesitate to contact me if you have any questions.
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
 - [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) ACM IMC, 2022. \
 🏆 **Distinguished Paper Award (Long)**
-- [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.
+- [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.\
+**Deployed at Tencent**
 - [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019.
 <!-- - [(How Much) Does a Private WAN Improve Cloud Performance?](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cloud_infocom_2020.pdf), IEEE INFOCOM 2020 -->
 - [Flexible and Scalable Systems for Network Management](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis.pdf), Dissertation, Princeton University, 2018. \
