@@ -25,11 +25,12 @@ I work with different industry partners, such as Microsoft Research, Tencent, Ve
 Please find more details about my current research [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
 
 ### Prospective Students
-If you are interested in learning how to develop and deploy production-ready ML-based solutions for networking, come work with us.
+If you are interested in learning how to develop and deploy self-driving systems for network measurements and network management, come work with us.
 
 🆕 I am actively looking for Ph.D. students and post-docs for my group.
 
-I also actively work with undergraduate students at UCSB through different programs (DIMAP, ERSP, etc.). I mentor students outside UCSB on their undergraduate thesis projects and regularly host visiting students.  
+I also actively work with undergraduate students through different existing programs, such as DIMAP, ERSP, Cal-Bridge, etc.
+I also mentor students outside UCSB on their undergraduate thesis projects and regularly host visiting students.  
 
 Please don't hesitate to contact me if you have any questions.
 
