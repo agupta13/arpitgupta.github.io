@@ -14,7 +14,7 @@ Our goal is to lower the cost of deploying and operating highly *available*, *re
 Achieving this goal requires solving various fundamental research problems, which includes answering how we can
 * Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](#), [DynamiQ](#), [Panakos](#), [OpTel](#));
 * Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](#), [netUnicorn](#));
-* Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](#), [Trustee](#)); and\
+* Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](#), [Trustee](#)); and
 * **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](#)).
 
 ### Related Projects
