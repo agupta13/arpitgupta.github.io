@@ -50,6 +50,8 @@ Please don't hesitate to contact me if you have any questions. -->
 - [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), ACM SIGCOMM 2014. \
 🏆 **Internet2 Innovation Award**
 
+Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of publications. 
+
 ## Ongoing Projects
 - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
 - [BQT](https://address.cs.ucsb.edu/bqt/): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.

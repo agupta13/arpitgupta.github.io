@@ -90,6 +90,9 @@ You can find more details about some of the funded projects here:
 * [MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257) (NSF and Intel)
 * [Scaling Cybersecurity Infrastructure using Programmable Data Planes](https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security) (Verizon)
 
+### Consulting
+I have been offering consulting services to a startup, [Beegol](https://beegol.com/), which employs ML for real-time network diagnostics. 
+
 
 
 
