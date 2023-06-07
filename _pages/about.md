@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in computer science at UC Santa Barbara. At UCSB, I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/).
+I am an assistant professor in computer science at UC Santa Barbara.
+I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/).
 
 <!-- I received my Ph.D. in computer science from Princeton University. -->
 
