@@ -5,24 +5,48 @@ permalink: /research/
 author_profile: true
 ---
 
-## Self-Driving Networks
+## Research Philosophy
 
-The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks** that can run themselves with minimal intervention.
-Given our group's focus on digital equity issues, we focus primarily on building self-driving network for last-mile community networks.
-Our goal is to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities.
+The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop an equitable digital future.
+To this end, our group focuses on two key research themes.
 
-Achieving this goal requires solving various fundamental research problems, which includes answering how we can
+### Data-driven Policy Interventions
+The goal here is to develop tools and infrastructures that enable collecting the *right* data that can inform policy interventions targeting digital equity, including consumer subsidy programs, rate regulations, infrastructure funding, etc.
+
+Addressing the data problem for policymakers entails solving various fundamental research problems, which includes answering
+* What broadband plans, which includes both speed and price, are available in a region? See our upcoming [SIGCOMM paper](https://arxiv.org/pdf/2302.14216.pdf) for details.
+* How to make the best use of noisy crowdsourced network measurement data? See our [IMC paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) on this topic for more details.
+* How to quantify the efficacy of different policy interventions (e.g., consumer subsidies, rate regulations, etc.)?
+
+
+### Self-driving Networks
+The goal is to develop networks that can run themselves with minimal intervention. Specifically, we explore how to leverage machine learning (ML) and software-defined networks (SDN) to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities.
+
+<!-- The two research themes complement each other as one helps identify underserved communities that require any policy interventions, and the second helps realize a subset of interventions (e.g., sustainable community networks).  -->
+
+
+
+ <!-- **self-driving networks** that can run themselves with minimal intervention.
+Given our group's focus on **digital equity** issues, we focus primarily on building self-driving network for **last-mile (community) networks**.
+Our goal is to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities. -->
+
+Developing self-driving networks requires solving various fundamental research problems, which includes answering how we can
 * Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), [DynamiQ](https://arxiv.org/pdf/2106.05420.pdf), [Panakos](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), [OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf));
 * Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](https://pinot.cs.ucsb.edu/), [netUnicorn](https://netunicorn.cs.ucsb.edu/));
 * Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](https://netunicorn.cs.ucsb.edu/), [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)); and
 * **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)).
 
-### Related Projects
+### Ongoing Projects
 Some of the projects that provide a decent sample of ongoing research activities at SNL:
 
 - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
+- [BQT](https://address.cs.ucsb.edu/bqt/): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
 - [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
 - [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
+
+<!-- - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
+- [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
+- [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments. -->
 
 
 

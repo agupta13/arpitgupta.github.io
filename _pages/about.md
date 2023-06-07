@@ -51,12 +51,12 @@ Please don't hesitate to contact me if you have any questions. -->
 
 ## Ongoing Projects
 - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
-- [BQT](#): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity. 
+- [BQT](https://address.cs.ucsb.edu/bqt/): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
 - [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
 - [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
 
 
-## Recognition
+<!-- ## Recognition
 - **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2023.
 - **Best Paper Honorable Mention**, ACM CCS, 2022.
 - **Best Paper Award**, ACM SIGCOMM IMC, 2022
@@ -64,7 +64,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - **Best Paper Award**, ACM SOSR, 2017
 - **Best of the Rest Paper Award** for Best Paper in all USENIX Conferences, 2016
 - **Community Contribution Award**, USENIX NSDI, 2016
-- **Internet-2 Innovation Award**, 2013
+- **Internet-2 Innovation Award**, 2013 -->
 
 <!-- ## Services
 - Organized workshops for NSF
