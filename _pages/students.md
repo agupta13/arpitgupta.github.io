@@ -7,6 +7,12 @@ author_profile: true
 
 <!-- <img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.jpg" width=500> -->
 
+### Postdocs
+* [Hooman Mohajeri](https://hoomanm.info/), Ph.D., Princeton University
+<!-- | Name | Year(s) |  |
+| --- | --- |
+| [Hooman Mohajeri](https://hoomanm.info/) | 2023-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) | -->
+
 ### Doctoral Students
 
 | Name | Year(s) | Topic | Affiliation |
@@ -15,7 +21,7 @@ author_profile: true
 | [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | Democratizing Networking Research | UCSB |
 | [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | TBD | UCSB |
 | [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | TBD | UCSB |
-| [Satyandra Guthula](#) | 2022-* | TBD | UCSB |
+| [Satyandra Guthula](https://www.linkedin.com/in/satyandra-guthula-59b25363/) | 2022-* | TBD | UCSB |
 
 ### Masters Students
 

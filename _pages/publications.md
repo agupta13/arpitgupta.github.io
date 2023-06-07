@@ -8,9 +8,17 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-27. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](#)\
+29. [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf)\
+U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding\
+ACM SIGCOMM, Aug 2023 (to appear)
+
+28. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147)\
 F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
-VLDB, Aug 2023 (to appear)
+ACM VLDB, Aug 2023 (to appear)
+
+27. 🆕 [Challenges and Opportunities for Beyond-5G Wireless Security](https://arxiv.org/pdf/2303.00727.pdf)\
+E. Ruzomberka, D. Love, C. Brinton, A. Gupta, C. Wang, V. Poor\
+IEEE Security and Privacy, 2023. 
 
 
 26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\

@@ -7,15 +7,25 @@ author_profile: true
 
 ## Self-Driving Networks
 
-The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks** that leverage advances in different research areas (i.e., networking, machine learning, security, and computer architecture) to address the digital inequity issues. Specifically, our goal is to build self-driving last-mile networks (e.g., cable, mobile, satellite, etc.) that can lower the cost of operating highly *available*, *reliable*, *performant*, and *secure* network connectivity, highly desired for **under-served** communities.
+The long-term research goal for [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) is to develop **self-driving networks** that can run themselves with minimal intervention.
+Given our group's focus on digital equity issues, we focus primarily on building self-driving network for last-mile community networks.
+Our goal is to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities.
 
-To this end, our group explores how we can
-(1) enable **accurate and flexible (streaming) analytics** over network data at scale;
-(2) lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale;
-(3) develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure; and
-(4) **establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings.
+Achieving this goal requires solving various fundamental research problems, which includes answering how we can
+* Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](#), [DynamiQ](#), [Panakos](#), [OpTel](#));
+* Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](#), [netUnicorn](#));
+* Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](#), [Trustee](#)); and\
+* **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](#)).
 
-### Related Publications
+### Related Projects
+Some of the projects that provide a decent sample of ongoing research activities at SNL:
+
+- [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
+- [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
+- [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
+
+
+<!-- ### Related Publications
 Some of the recently published works that provide a sample of some of the ongoing activities at SNL:
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.
 - [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), ACM IMC, 2022.
@@ -23,7 +33,7 @@ Some of the recently published works that provide a sample of some of the ongoin
 - [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf), TPRC, 2022.
 - [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf),
 arXiv: Report 2106.05420, 2021.
-- [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019.
+- [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019. -->
 
 
 

@@ -9,32 +9,28 @@ redirect_from:
 ---
 
 I am currently an assistant professor in computer science at UC Santa Barbara. At UCSB, I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/).
-<!-- I am also affiliated with UCSB's Center for Responsible Machine Learning (CRML).  -->
-I received my Ph.D. in computer science from Princeton University.
+
+<!-- I received my Ph.D. in computer science from Princeton University. -->
 
 As a systems researcher, I design and build flexible, scalable, and trustworthy
 systems that solve the real-world problems at the intersection of networking, Internet measurements, and machine learning.
-<!-- Specifically, I am interested in developing
-**self-driving networks** that use **software-defined networks (SDNs)** and **machine learning (ML)** to provide highly available, reliable, performant and secure
-network connectivity at *lower costs* to **under-served** communities. -->
-
-<!-- I work with different industry partners, such as Microsoft Research, Tencent, Verizon, ViaSat, ATT, Intel, Ookla, etc., on problems related to development and deployment of ML-based artifacts for networking. -->
-
-
 
 
 ### Prospective Students
-If you are interested in learning how to develop and deploy self-driving systems for network measurements and network management, come work with us.
+Join us in shaping a more equitable digital world!
+If you are interested in building systems for network measurements and management for a more inclusive digital future, come work with us.
 Please find more details about my current research [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
 
 <!-- 🆕 I am actively looking for Ph.D. students and post-docs for my group. -->
 
-I also actively work with undergraduate students through different existing programs, such as DIMAP, ERSP, Cal-Bridge, etc.
+<!-- I also actively work with undergraduate students through different existing programs, such as DIMAP, ERSP, Cal-Bridge, etc.
 I also mentor students outside UCSB on their undergraduate thesis projects and regularly host visiting students.  
 
-Please don't hesitate to contact me if you have any questions.
+Please don't hesitate to contact me if you have any questions. -->
 
 ## Selected Publications
+- 🆕 [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), ACM SIGCOMM, 2023.
+- 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), ACM VLDB, 2023.
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.\
 🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
@@ -53,17 +49,24 @@ Please don't hesitate to contact me if you have any questions.
 - [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), ACM SIGCOMM 2014. \
 🏆 **Internet2 Innovation Award**
 
+## Ongoing Projects
+- [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
+- [BQT](#): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity. 
+- [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
+- [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
+
+
 ## Recognition
 - **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2023.
 - **Best Paper Honorable Mention**, ACM CCS, 2022.
 - **Best Paper Award**, ACM SIGCOMM IMC, 2022
-- Honorable Mention, **SIGCOMM Dissertation Award**, 2018
+- **SIGCOMM Dissertation Award Honorable Mention**, 2018
 - **Best Paper Award**, ACM SOSR, 2017
-- USENIX **Best of the Rest Paper Award** for Best Paper in all USENIX Conferences, 2016
-- USENIX **Community Contribution Award**, USENIX NSDI, 2016
+- **Best of the Rest Paper Award** for Best Paper in all USENIX Conferences, 2016
+- **Community Contribution Award**, USENIX NSDI, 2016
 - **Internet-2 Innovation Award**, 2013
 
-## Services
+<!-- ## Services
 - Organized workshops for NSF
   - [NSF Workshop on Internet Frontiers & Opportunities](https://datascience.uchicago.edu/events/internet-frontiers-and-opportunities-workshop), Nov 2021
   - [NSF Workshop on NextG Security](https://nsf-nextg-security.cs.ucsb.edu/), Oct 2020
@@ -72,10 +75,12 @@ Please don't hesitate to contact me if you have any questions.
   - ACM SIGCOMM: 2021, 2020
   - USENIX NSDI: 2024, 2023, 2021, 2020
   - ACM SOSR: 2021, 2019
-  - ACM CoNEXT: 2019
+  - ACM CoNEXT: 2019 -->
 
 ## News
-- `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](#), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
+- `May 2023`: Our paper, [Characterizing Performance Inequity Across U.S. Ookla
+Speedtest Users](https://arxiv.org/pdf/2110.12038.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work!
+- `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
 - `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
 - `Nov 2022`: Our paper, [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), received the **Best Paper Honorable Mention** at ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. It was rated as the best paper in the `Machine Learning and Security` track. Special congratulations to [Roman Beltiukov](https://maybe-hello-world.github.io/) and [Arthur Jacobs](https://asjacobs92.github.io/)! 🏆
 - `Nov 2022`: I had the privilege to visit Lawrence Berkeley National Lab (LBNL). Special thanks to [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/) for hosting me.
