@@ -12,17 +12,18 @@ Given our group's focus on digital equity issues, we focus primarily on building
 Our goal is to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities.
 
 Achieving this goal requires solving various fundamental research problems, which includes answering how we can
-* Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](#), [DynamiQ](#), [Panakos](#), [OpTel](#));
-* Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](#), [netUnicorn](#));
-* Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](#), [Trustee](#)); and
-* **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](#)).
+* Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), [DynamiQ](https://arxiv.org/pdf/2106.05420.pdf), [Panakos](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), [OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf));
+* Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](https://pinot.cs.ucsb.edu/), [netUnicorn](https://netunicorn.cs.ucsb.edu/));
+* Develop **generalizable and robust learning models** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](https://netunicorn.cs.ucsb.edu/), [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)); and
+* **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)).
 
 ### Related Projects
 Some of the projects that provide a decent sample of ongoing research activities at SNL:
 
+- [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
 - [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
 - [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
-- [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
+
 
 
 <!-- ### Related Publications

@@ -13,7 +13,7 @@ U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding\
 ACM SIGCOMM, Aug 2023 (to appear)\
 [Project Website](https://address.cs.ucsb.edu/)
 
-28. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147)\
+28. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/Panakos.pdf)\
 F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
 ACM VLDB, Aug 2023 (to appear)
 
