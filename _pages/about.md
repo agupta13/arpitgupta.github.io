@@ -13,14 +13,13 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/).
 
 <!-- I received my Ph.D. in computer science from Princeton University. -->
 
-As a systems researcher, I design and build flexible, scalable, and trustworthy
-systems that solve the real-world problems at the intersection of networking, Internet measurements, and machine learning.
+As a systems researcher, I design and build systems that solve the real-world problems at the intersection of networking, internet measurements, and machine learning.
 
 
 ### Prospective Students
 Join us in shaping a more equitable digital world!
 If you are interested in building systems for network measurements and management for a more inclusive digital future, come work with us.
-Please find more details about my current research [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
+Please find more details about my **research** [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
 
 <!-- 🆕 I am actively looking for Ph.D. students and post-docs for my group. -->
 
@@ -50,7 +49,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), ACM SIGCOMM 2014. \
 🏆 **Internet2 Innovation Award**
 
-Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of publications. 
+Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of **publications**.
 
 ## Ongoing Projects
 - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
@@ -81,8 +80,7 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
   - ACM CoNEXT: 2019 -->
 
 ## News
-- `May 2023`: Our paper, [Characterizing Performance Inequity Across U.S. Ookla
-Speedtest Users](https://arxiv.org/pdf/2110.12038.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work!
+- `May 2023`: Our paper, [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work!
 - `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
 - `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
 - `Nov 2022`: Our paper, [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), received the **Best Paper Honorable Mention** at ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. It was rated as the best paper in the `Machine Learning and Security` track. Special congratulations to [Roman Beltiukov](https://maybe-hello-world.github.io/) and [Arthur Jacobs](https://asjacobs92.github.io/)! 🏆
