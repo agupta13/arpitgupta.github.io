@@ -29,8 +29,9 @@ I also mentor students outside UCSB on their undergraduate thesis projects and r
 Please don't hesitate to contact me if you have any questions. -->
 
 ## Selected Publications
+- 🆕 [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), ACM CCS, 2023.
 - 🆕 [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), ACM SIGCOMM, 2023.
-- 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), ACM VLDB, 2023.
+- [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), ACM VLDB, 2023.
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.\
 🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
@@ -41,7 +42,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019.
 <!-- - [(How Much) Does a Private WAN Improve Cloud Performance?](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cloud_infocom_2020.pdf), IEEE INFOCOM 2020 -->
 - [Flexible and Scalable Systems for Network Management](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis.pdf), Dissertation, Princeton University, 2018. \
-🏆 **Honorary Mention, ACM Doctoral Dissertation Award**
+🏆 **ACM Doctoral Dissertation Award Honorable Mention**
 - [Sonata: Query-Driven Streaming Network Telemetry](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), ACM SIGCOMM 2018.
 - [iSDX: An Industrial-Scale Software Defined Internet Exchange Point](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf), USENIX NSDI 2016. \
 🏆 **USENIX NSDI Community Contribution Award**\
@@ -53,9 +54,18 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
 
 ## Ongoing Projects
 - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
-- [BQT](https://address.cs.ucsb.edu/bqt/): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
+- [BQT](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
 - [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
 - [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
+
+## Service
+As a junior researcher, it has been an absolute honor and privilege to get the opportunities to organize different workshops (and tutorials) on topics related to digital equity and self-driving networks.
+- [ACM SIGCOMM 2023 Tutorial: Closed-Loop ML (for Networks) Pipelines](https://conferences.sigcomm.org/sigcomm/2023/tutorial-ml4nets.html), Sep 2023 (upcoming)
+- [Bridging the Divide: Answering Internet Policy Questions with Cutting-Edge Network Measurement Algorithms, Datasets, and Platforms](https://www.law.berkeley.edu/research/bclt/bcltevents/bridging-the-divide-answering-internet-policy-questions-with-cutting-edge-network-measurement-algorithms-datasets-and-platforms/), June 2023
+- [ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, 2023](https://measure-selfdn23.cs.ucsb.edu/), June 2023
+- [NSF Workshop on Internet Frontiers & Opportunities](https://datascience.uchicago.edu/events/internet-frontiers-and-opportunities-workshop), Nov 2021
+- [NSF Workshop on NextG Security](https://nsf-nextg-security.cs.ucsb.edu/), Oct 2020
+- [NSF Workshop on Measurements for Self-driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/measure_selfdn_workshop.pdf), Apr 2019
 
 
 <!-- ## Recognition
@@ -80,7 +90,10 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
   - ACM CoNEXT: 2019 -->
 
 ## News
-- `May 2023`: Our paper, [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work!
+- `Aug 2023`: Our paper, [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), got accepted at **ACM CCS'23**. Kudos to [Roman](https://maybe-hello-world.github.io/) for developing such an impressive and useful system! Please find more information about the project [here](https://netunicorn.cs.ucsb.edu/).
+- `June 2023`: Udit Paul received the [Computer Science Outstanding Publication Award](#).  🏆
+- `June 2023`: Udit Paul received the [Computer Science Outstanding Dissertation Award](#).  🏆
+- `May 2023`: Our paper, [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work! Please find more information about our BQT tool [here](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt).
 - `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
 - `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
 - `Nov 2022`: Our paper, [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), received the **Best Paper Honorable Mention** at ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. It was rated as the best paper in the `Machine Learning and Security` track. Special congratulations to [Roman Beltiukov](https://maybe-hello-world.github.io/) and [Arthur Jacobs](https://asjacobs92.github.io/)! 🏆

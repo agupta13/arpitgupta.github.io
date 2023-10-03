@@ -8,42 +8,66 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-29. [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf)\
+37. 🆕 [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf)\
+R. Beltiukov, W. Guo, A. Gupta, W. Willinger\
+ACM CCS, Nov 2023 (to appear)\
+[Project Website](https://netunicorn.cs.ucsb.edu/)
+
+36. 🆕 [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf)\
 U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding\
-ACM SIGCOMM, Aug 2023 (to appear)\
+ACM SIGCOMM, Sep 2023 (to appear)\
 [Project Website](https://address.cs.ucsb.edu/)
 
-28. 🆕 [Panakos: Chasing the Tails for Multidimensional Data Streams](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/Panakos.pdf)\
-F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
-ACM VLDB, Aug 2023 (to appear)
+32. 🆕 [Estimating WebRTC Video QoE Metrics Without Using Application Headers](#)\
+T. Sharma, T. Mangla, A. Gupta, J. Jiang, N. Feamster\
+ACM SIGCOMM IMC, Oct 2023 (to appear)
 
-27. 🆕 [Challenges and Opportunities for Beyond-5G Wireless Security](https://arxiv.org/pdf/2303.00727.pdf)\
+35. 🆕 [Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf), June 2023 \
+A. Gupta, R. Durairajan, W. Willinger\
+[Workshop Website](https://measure-selfdn23.cs.ucsb.edu/)
+
+34. 🆕 [A NetAI Manifesto (Part I): Less Explorimentation, More Science](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto1.pdf)\
+W. Willinger, A. Gupta, A. Jacobs, R. Beltiukov, R. Ferreira, L. Granville\
+ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
+
+33. 🆕 [A NetAI Manifesto (Part II): Less Hubris, more Humility](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto2.pdf)\
+W. Willinger, A. Gupta, R. Beltiukov, W. Guo\
+ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
+
+31. [Panakos: Chasing the Tails for Multidimensional Data Streams](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/Panakos.pdf)\
+F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
+ACM VLDB, Aug 2023
+
+30. [PINOT: Programmable Infrastructure for Networking](https://dl.acm.org/doi/pdf/10.1145/3606464.3606485)\
+R. Beltiukov, S. Chandrasekaran, A. Gupta, W. Willinger\
+ACM ANRW, Jul 2023
+
+29. [Challenges and Opportunities for Beyond-5G Wireless Security](https://arxiv.org/pdf/2303.00727.pdf)\
 E. Ruzomberka, D. Love, C. Brinton, A. Gupta, C. Wang, V. Poor\
 IEEE Security and Privacy, 2023
 
-
-26. 🆕 [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
+28. [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)\
 A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville\
 ACM CCS, Nov 2022\
 [Project Website](https://trusteeml.github.io)\
 🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
 
-27. 🆕 [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)\
+27. [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)\
 U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding\
 ACM IMC, Nov 2022\
 🏆 **Distinguished Paper Award**\
 [Project Website](https://address.cs.ucsb.edu/)
 
-25. [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
+26. [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf)\
 T. Mangla, U. Paul, A. Gupta and N. Marwell\
 TPRC, Sept 2022
 
-24. [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
+25. [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf)\
 C. Miao, M. Chen, A. Gupta, Z. Meng, L. Ye, J. Xiao, J. Chen, Z. He, X. Luo, J. Wang, H. Yu\
 USENIX NSDI, April 2022
 
-21. [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf)\
+24. [Characterizing Internet Access and Quality Inequities in California M-Lab Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf)\
 U. Paul, J. Liu, D. Farias-llerenas, V. Adarsh, A. Gupta, E. Belding\
 ACM COMPASS 2022
 
@@ -55,19 +79,19 @@ ACM SIGCOMM CCR, Jan 2022
 Z. Zhao, X. Shi, A. Gupta, Q. Li, Z. Wang, B. Xiong, X. Yin\
 IEEE/ACM IWQoS, June 2021 (virtual)
 
-20. [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf)\
+21. [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf)\
 R. Bhatia, A. Gupta, R. Harrison, D. Lokshtanov, W. Willinger\
 arXiv: Report 2106.05420, 2021.
 
-19. [Characterizing Performance Inequity Across US Ookla Speedtest Users](https://arxiv.org/pdf/2110.12038.pdf)\
+20. [Characterizing Performance Inequity Across US Ookla Speedtest Users](https://arxiv.org/pdf/2110.12038.pdf)\
 U Paul, J Liu, V Adarsh, M Gu, A Gupta, E Belding\
 arXiv preprint arXiv:2110.12038, 2021.
 
-18. [Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/non-binary-coverage.pdf)\
+19. [Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/non-binary-coverage.pdf)\
 V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding\
 International Conference on Computer Communications and Networks (ICCCN), 2021
 
-17. [Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/too_late_for_playback_pam_2021_camera_ready.pdf)\
+18. [Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/too_late_for_playback_pam_2021_camera_ready.pdf)\
 V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding\
 International Conference on Passive and Active Network Measurement, 2021
 
@@ -95,9 +119,11 @@ ACM HotNets, Princeton, NJ, November 2019.
 Hyojoon Kim, Arpit Gupta\
 ACM NetAI, Beijing, China, August 2019.
 
+## Grad School Work
+
 11. [Sonata: Query-Driven Network Telemetry](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf)\
 Arpit Gupta, Rob Harrison, Ankita Pawar, Marco Canini, Nick Feamster, Jennifer Rexford, Walter Willinger\
-ACM SIGCOMM, Budapest, Hungary, August 2018.
+ACM SIGCOMM, Budapest, Hungary, August 2018.\
 [Project Website](https://sonata-princeton.github.io/)
 
 10. [Preserving Privacy at IXPs](#)\

@@ -82,16 +82,16 @@ settings.  -->
 The research in my group is funded by National Science Foundation ([NSF](#)) and different network service providers ([Verizon Innovations](#), [ViaSat](#)) and vendors ([Intel](#)).
 
 You can find more details about some of the funded projects here:
-* [IMR: RI-P: Programmable Closed-loop Measurement Platform for Last-Mile Networks](https://nsf.gov/awardsearch/showAward?AWD_ID=2224687) (NSF)
-* [IMR: MM-1A: ADDRESS: Augment, Denoise and Debias Crowdsourced Measurements for Statistical Synthesis of Internet Access Characterization](#) (NSF)
-* [CC* Integration-Large: Democratizing Networking Research in the Era of AI/ML](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126327) (NSF)
-* [CC* Integration-Large: Bringing Code to Data: A Collaborative Approach to Democratizing Internet Data Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126281) (NSF)
+* [IMR: RI-P: Programmable Closed-loop Measurement Platform for Last-Mile Networks](https://nsf.gov/awardsearch/showAward?AWD_ID=2224687) ($600k, NSF)
+* [IMR: MM-1A: ADDRESS: Augment, Denoise and Debias Crowdsourced Measurements for Statistical Synthesis of Internet Access Characterization](#) ($600k, NSF)
+* [CC* Integration-Large: Democratizing Networking Research in the Era of AI/ML](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126327) ($1M, NSF)
+* [CC* Integration-Large: Bringing Code to Data: A Collaborative Approach to Democratizing Internet Data Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126281) ($1M, NSF)
 * [The Estimation and Monitoring of Quality of Experience Delivered over Internet Services](#) (ViaSat)
-* [MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257) (NSF and Intel)
-* [Scaling Cybersecurity Infrastructure using Programmable Data Planes](https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security) (Verizon)
+* [MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257) ($820k, NSF and Intel)
+* [Scaling Cybersecurity Infrastructure using Programmable Data Planes](https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security) ($200k, Verizon)
 
 ### Consulting
-I have been offering consulting services to a startup, [Beegol](https://beegol.com/), which employs ML for real-time network diagnostics. 
+I have been offering consulting services to a startup, [Beegol](https://beegol.com/), which employs ML for real-time network diagnostics.
 
 
 

@@ -17,8 +17,8 @@ author_profile: true
 
 | Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| [Udit Paul](https://u-paul.github.io/) | 2018-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) |
-| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | Democratizing Networking Research | UCSB |
+| [Udit Paul](https://u-paul.github.io/) | 2018-2023 | Towards Bridging the Divide: Enhancing Understanding of Digital Inequity | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/)) |
+| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | TBD | UCSB |
 | [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | TBD | UCSB |
 | [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | TBD | UCSB |
 | [Satyandra Guthula](https://www.linkedin.com/in/satyandra-guthula-59b25363/) | 2022-* | TBD | UCSB |
@@ -30,6 +30,8 @@ author_profile: true
 | Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | UCSB --> Google |
 | Irene Pattarachanyakul | 2020-21 | Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events | UCSB |
 | Rohan Bhatia | 2020-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Google |
+| Navya Battula | 2022-23 | Flexible and scalable data preprocessing
+system for `ML for Networks` pipelines | UCSB |
 
 
 
@@ -37,7 +39,7 @@ author_profile: true
 
 | Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| Sam Liang, Ethan Wu | 2021-22 | QoE Estimation for Video Conferencing Applications | UCSB (ESRP)|
+| Sam Liang, Ethan Wu | 2021-22 | QoE Estimation for Video Conferencing Applications | UCSB (ESRP) --> USC|
 | Anmol Khemuka, Hemil Panchiwala, Hemant | 2021-22 | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
 | Arnesh Agrawal, Aseem Verma, Divyanshu Setia | 2021-22 | QoE estimation in the wild | IIT Roorkee (Thesis)|
 | Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Salesforce --> UC Berkeley |
