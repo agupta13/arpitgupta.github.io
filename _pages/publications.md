@@ -8,29 +8,42 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-37. 🆕 [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf)\
+39. 🆕 [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](#)\
+H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania\
+ACM SIGCOMM, 2024
+
+38. 🆕 [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf)\
+C. Misa, R. Durairajan, A. Gupta, R. Rejaie, W. Willinger\
+IEEE Symposium on Security and Privacy (S&P), 2024
+
+38. 🆕 [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf)\
+C. Shou, R. Bhatia, A. Gupta, R.Harrison, D. Lokshtanov, W. Willinger\
+ACM SIGCOMM CoNEXT, 2024
+
+
+37.  [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netUnicorn.pdf)\
 R. Beltiukov, W. Guo, A. Gupta, W. Willinger\
-ACM CCS, Nov 2023 (to appear)\
+ACM CCS, Nov 2023\
 [Project Website](https://netunicorn.cs.ucsb.edu/)
 
-36. 🆕 [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf)\
+36.  [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/bqt_sigcomm23.pdf)\
 U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding\
-ACM SIGCOMM, Sep 2023 (to appear)\
+ACM SIGCOMM, Sep 2023\
 [Project Website](https://address.cs.ucsb.edu/)
 
-32. 🆕 [Estimating WebRTC Video QoE Metrics Without Using Application Headers](#)\
+32. [Estimating WebRTC Video QoE Metrics Without Using Application Headers](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/webrtc_imc23.pdf)\
 T. Sharma, T. Mangla, A. Gupta, J. Jiang, N. Feamster\
-ACM SIGCOMM IMC, Oct 2023 (to appear)
+ACM SIGCOMM IMC, Oct 2023
 
-35. 🆕 [Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf), June 2023 \
+35. [Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf), June 2023 \
 A. Gupta, R. Durairajan, W. Willinger\
 [Workshop Website](https://measure-selfdn23.cs.ucsb.edu/)
 
-34. 🆕 [A NetAI Manifesto (Part I): Less Explorimentation, More Science](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto1.pdf)\
+34. [A NetAI Manifesto (Part I): Less Explorimentation, More Science](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto1.pdf)\
 W. Willinger, A. Gupta, A. Jacobs, R. Beltiukov, R. Ferreira, L. Granville\
 ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
 
-33. 🆕 [A NetAI Manifesto (Part II): Less Hubris, more Humility](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto2.pdf)\
+33. [A NetAI Manifesto (Part II): Less Hubris, more Humility](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto2.pdf)\
 W. Willinger, A. Gupta, R. Beltiukov, W. Guo\
 ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
 
@@ -38,7 +51,7 @@ ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
 F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu\
 ACM VLDB, Aug 2023
 
-30. [PINOT: Programmable Infrastructure for Networking](https://dl.acm.org/doi/pdf/10.1145/3606464.3606485)\
+30. [PINOT: Programmable Infrastructure for Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pinot_anrw23.pdf)\
 R. Beltiukov, S. Chandrasekaran, A. Gupta, W. Willinger\
 ACM ANRW, Jul 2023
 

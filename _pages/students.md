@@ -7,8 +7,8 @@ author_profile: true
 
 <!-- <img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.jpg" width=500> -->
 
-### Postdocs
-* [Hooman Mohajeri](https://hoomanm.info/), Ph.D., Princeton University
+<!-- ### Postdocs
+* [Hooman Mohajeri](https://hoomanm.info/), Ph.D., Princeton University -->
 <!-- | Name | Year(s) |  |
 | --- | --- |
 | [Hooman Mohajeri](https://hoomanm.info/) | 2023-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) | -->
@@ -17,11 +17,12 @@ author_profile: true
 
 | Name | Year(s) | Topic | Affiliation |
 | --- | --- |
-| [Udit Paul](https://u-paul.github.io/) | 2018-2023 | Towards Bridging the Divide: Enhancing Understanding of Digital Inequity | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/)) |
-| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | TBD | UCSB |
-| [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | TBD | UCSB |
+| [Udit Paul](https://u-paul.github.io/) | 2018-2023 | [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)| UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/)) |
+| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | QoE Optimization | UCSB |
+| [Roman Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Closed-loop ML | UCSB |
 | [Punnal Ismail Khan](https://punnal.github.io/) | 2021-* | TBD | UCSB |
-| [Satyandra Guthula](https://www.linkedin.com/in/satyandra-guthula-59b25363/) | 2022-* | TBD | UCSB |
+| [Satyandra Guthula](https://www.linkedin.com/in/satyandra-guthula-59b25363/) | 2022-* | Network Foundation Models | UCSB |
+| [Haarika Manda](#) | 2023-* | Data-driven Policymaking | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
 
 ### Masters Students
 
@@ -30,8 +31,7 @@ author_profile: true
 | Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | UCSB --> Google |
 | Irene Pattarachanyakul | 2020-21 | Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events | UCSB |
 | Rohan Bhatia | 2020-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Google |
-| Navya Battula | 2022-23 | Flexible and scalable data preprocessing
-system for `ML for Networks` pipelines | UCSB |
+| Navya Battula | 2022-23 | Flexible and scalable data preprocessing system for `ML for Networks` pipelines | UCSB |
 
 
 

@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in computer science at UC Santa Barbara.
-I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/).
+I am an Assistant Professor in [Computer Science at UC Santa Barbara](https://cs.ucsb.edu/), and Faculty Scientist at [Berkeley Lab](https://www.lbl.gov/).
+I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at UCSB.
 
 <!-- I received my Ph.D. in computer science from Princeton University. -->
 
-As a systems researcher, I design and build systems that solve the real-world problems at the intersection of networking, internet measurements, and machine learning.
+<!-- As a systems researcher, I design and build systems that solve the real-world problems at the intersection of networking, internet measurements, and machine learning. -->
+At SNL, I have been utilizing my system-building skills to address a variety of pressing digital inequity challenges, namely, ensuring secure, performant, and affordable "Internet for All." To this end, my current research focuses on democratizing the development of production-ready ML artifacts for self-driving networks (to ensure performant and secure connectivity with limited infrastructure and operational resources) and enabling data-driven policymaking (to ensure performant and affordable connectivity with limited capital resources).
+
+
+<!-- aim to design and build systems that solve fundamental problems at the intersection of networking, internet measurements, and machine learning that contribute to addressing digital inequity issues. Currently, my research focuses: (1) enabling data-driven (broadband) policymaking, and (2) developing production-ready AI/ML artifacts. Here, data-driven policymaking is crucial for optimizing the use of limited capital resources to benefit underprivileged communities, thereby addressing their specific needs more effectively. The latter facilitates the development of *self-driving networks* capable of safely operating production networks with minimal human intervention. Such artifacts would prove especially beneficial in network environments with limited budgets, operational capacity, and technical expertise, such as community networks serving underprivileged and underrepresented communities. -->
 
 
 ### Prospective Students
 Join us in shaping a more equitable digital world!
-If you are interested in building systems for network measurements and management for a more inclusive digital future, come work with us.
+If you are interested in building systems for a more inclusive digital future, come work with us.
 Please find more details about my **research** [here](https://sites.cs.ucsb.edu/~arpitgupta/research/).
 
 <!-- 🆕 I am actively looking for Ph.D. students and post-docs for my group. -->
@@ -29,9 +33,13 @@ I also mentor students outside UCSB on their undergraduate thesis projects and r
 Please don't hesitate to contact me if you have any questions. -->
 
 ## Selected Publications
-- 🆕 [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), ACM CCS, 2023.
-- 🆕 [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), ACM SIGCOMM, 2023.
-- [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), ACM VLDB, 2023.
+- [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](#), ACM SIGCOMM, 2024.
+- [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf), Dissertation, [Udit Paul](https://u-paul.github.io/), University of California Santa Barbara (UCSB), 2023. \
+🏆 **ACM Doctoral Dissertation Award**
+- [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf), IEEE Symposium on Security and Privacy (S&P), 2024
+- [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netUnicorn.pdf), ACM CCS, 2023.
+- [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/bqt_sigcomm23.pdf), ACM SIGCOMM, 2023.
+<!-- - [Panakos: Chasing the Tails for Multidimensional Data Streams](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/Panakos.pdf), ACM VLDB, 2023. -->
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.\
 🏆 **Best Paper Honorable Mention**\
 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
@@ -57,10 +65,11 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
 - [BQT](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
 - [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
 - [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
+- [netFound](https://arxiv.org/pdf/2310.17025.pdf): A foundation model for networking data that employs self-supervised learning techniques on abundant unlabeled network data, passively collected from production environment using [PINOT](https://pinot.cs.ucsb.edu/) for task-agnostic pre-training and smaller-scale labeled network data, actively collected using PINOT and [netUnicorn](https://netunicorn.cs.ucsb.edu/) for task-specific fine-tuning.
 
 ## Service
 As a junior researcher, it has been an absolute honor and privilege to get the opportunities to organize different workshops (and tutorials) on topics related to digital equity and self-driving networks.
-- [ACM SIGCOMM 2023 Tutorial: Closed-Loop ML (for Networks) Pipelines](https://conferences.sigcomm.org/sigcomm/2023/tutorial-ml4nets.html), Sep 2023 (upcoming)
+- [ACM SIGCOMM 2023 Tutorial: Closed-Loop ML (for Networks) Pipelines](https://conferences.sigcomm.org/sigcomm/2023/tutorial-ml4nets.html), Sep 2023
 - [Bridging the Divide: Answering Internet Policy Questions with Cutting-Edge Network Measurement Algorithms, Datasets, and Platforms](https://www.law.berkeley.edu/research/bclt/bcltevents/bridging-the-divide-answering-internet-policy-questions-with-cutting-edge-network-measurement-algorithms-datasets-and-platforms/), June 2023
 - [ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, 2023](https://measure-selfdn23.cs.ucsb.edu/), June 2023
 - [NSF Workshop on Internet Frontiers & Opportunities](https://datascience.uchicago.edu/events/internet-frontiers-and-opportunities-workshop), Nov 2021
@@ -90,6 +99,8 @@ As a junior researcher, it has been an absolute honor and privilege to get the o
   - ACM CoNEXT: 2019 -->
 
 ## News
+- `Mar 2024`: Our paper, [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf), got accepted at **IEEE Symposium on Security and Privacy (S&P), 2024**. Kudos to [Chris Misa](https://ix.cs.uoregon.edu/~cmisa/) for all the hard work and perseverance. This is the first work that demonstrates how we can leverage the fractal (self-similar) nature of IP addresses to design a more effective DDoS defense system, targeted primarily for small and medium enterprises (SMEs). This work is in line with my various ongoing efforts in our group that aim to ensure *secure and performant Internet connectivity for All*.
+- `Jan 2024`: Our paper, [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf), got accepted at **CoNEXT, 2024**. Kudos to [Chaofan Shou](https://scf.so/), a prodigious UCSB graduate, for his super-heroic effort. This work builds upon Sonata, developing a novel query planning technique to effectively handle changes in traffic or query workloads. This project holds special significance for me as a mentor because the lead author, [Chaofan Shou](https://scf.so/), was an undergraduate at UCSB when he completed this project.
 - `Aug 2023`: Our paper, [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), got accepted at **ACM CCS'23**. Kudos to [Roman](https://maybe-hello-world.github.io/) for developing such an impressive and useful system! Please find more information about the project [here](https://netunicorn.cs.ucsb.edu/).
 - `June 2023`: Udit Paul received the [Computer Science Outstanding Publication Award](#).  🏆
 - `June 2023`: Udit Paul received the [Computer Science Outstanding Dissertation Award](#).  🏆

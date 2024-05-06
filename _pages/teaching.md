@@ -11,7 +11,9 @@ I teach undergraduate courses covering basic and advanced networking topics and 
 I pay special attention to instilling excitement about the material and helping students discover new interests. For example, in my classes, rather than speaking exclusively in the abstract, I use real-world network data and configurations from UCSB's production network to explain various network and application-layer protocols. To offer a better hands-on experience, I translate cutting-edge research into programming assignments. It not only exposes students to the latest developments in the area and adds a new dimension to the research itself.
 
 ### Courses at UCSB
-- Fall 2023: [Machine Learning for Networking](#) (CS 190N)---upcoming
+- Spring 2024: [Advanced Topics in Internet Computing](https://sites.cs.ucsb.edu/~arpitgupta/cs176c/spring24/) (CS 176C)
+- Spring 2024: [ML for Networked Systems](https://sites.cs.ucsb.edu/~arpitgupta/cs293n/spring24/) (CS 293N)
+- Fall 2023: [Machine Learning for Networking](#) (CS 190N)
 - Spring 2023: [Programmable Networks](#) (CS 176B)
 - Spring 2022: [ML for Networked Systems](https://sites.cs.ucsb.edu/~arpitgupta/cs293n/spring22/) (CS 293N)
 - Spring 2022: [Advanced Topics in Internet Computing](https://sites.cs.ucsb.edu/~arpitgupta/cs176c/spring22/) (CS 176C)
