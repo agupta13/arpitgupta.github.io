@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in [Computer Science at UC Santa Barbara](https://cs.ucsb.edu/), Faculty Scientist at [Berkeley Lab](https://www.lbl.gov/), and Marjorie & Charles Benton Opportunity Fund Fellow at [Benton Institute](https://www.benton.org/).
+I am an ~~Assistant~~ Associate Professor in [Computer Science at UC Santa Barbara](https://cs.ucsb.edu/), Faculty Scientist at [Berkeley Lab](https://www.lbl.gov/), and Marjorie & Charles Benton Opportunity Fund Fellow at [Benton Institute](https://www.benton.org/).
 
 
 <!-- I received my Ph.D. in computer science from Princeton University. -->

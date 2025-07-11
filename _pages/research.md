@@ -91,9 +91,13 @@ Additionally, my research focuses on ensuring that network operators can
 settings.  -->
 
 ### Funding
-The research in my group is supported by various government agencies, namely, the National Science Foundation (NSF), the Department of Energy (DoE), as well as different network/content service providers such as Amazon Web Services, Verizon Innovations, ViaSat, and vendors including Intel and Cisco.
+The research in my group is supported by various government agencies, namely, the National Science Foundation (NSF), the Department of Energy (DoE), as well as different network/content service providers such as Google, Verizon Innovations, ViaSat, and vendors including Intel and Cisco.
 
 You can find more details about some of the funded projects here:
+* [Low Infrastructure ML](#) (\$100k, Google, 2025-26)
+* [Network Foundation Model for Enabling AI-powered Network Operations (AIOps)](#) (\$60k, Google, 2025-26)
+* [Characterizing Broadband Pricing in California](#) (\$125k, California Public Utility Commission, 2025-27)
+* [Characterizing Barriers to Digital Inclusion in Virginia](#) (\$30k, Virginia Joint Commission on Technology and Sciences, 2025)
 * [Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) ($700k, NSF, 2025-30)
 * [Telemetry-driven Foundation Models for Self-Driving Networks](#) ($90k, Cisco Research, 2024-25)
 * [netFound: Network Foundation Model](#) (DoE, 2024-28)

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arpit Gupta"
 title_separator          : "-"
 name                     : &name "Arpit Gupta"
-description              : &description "Assistant Professor, Computer Science at UCSB"
+description              : &description "Associate Professor, Computer Science at UCSB"
 url                      : "https://sites.cs.ucsb.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~arpitgupta" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arpit Gupta"
   avatar           : "Gupta_Arpit-09_new23.jpeg"
-  bio              : "Assistant Professor in CS at UCSB"
+  bio              : "Associate Professor in CS at UCSB"
   location         : "HFH 5163, UCSB"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lc3R9-wAAAAJ&hl=en"
