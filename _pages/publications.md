@@ -8,18 +8,46 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-39. 🆕 [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](#)\
-H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania\
-ACM SIGCOMM, 2024
+46. [When Something Looks too Good to be True, it Usually is! AI is Causing a Credibility Crisis in Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigcomm-ccr-paper697.pdf)\
+W. Willinger, R. A Ferreira, A. Gupta, R. Beltiukov, S. Guthula, L. Z Granville, A. Jacobs\
+ACM SIGCOMM Computer Communication Review, 2025
 
-38. 🆕 [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf)\
+45. [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf)\
+H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania\
+ACM SIGCOMM, 2024\
+🏆 **IETF/IRTF Applied Networking Prize (ANRP)**\
+[ISOC Blog](https://pulse.internetsociety.org/blog/measuring-broadband-policy-success-in-rural-america)\
+[UCSB Press Release](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended)\
+[Broadband.io Article](https://www.broadband.io/c/get-broadband-grant-alerts-news/researchers-find-isps-overreported-service-to-rural-areas-after-receiving-connect-america-fund)\
+[Federal Reserve Bank of Dallas Talk](https://www.dallasfed.org/-/media/documents/cd/events/2024/24di-webinars/24di-webinars-manda.pdf)
+
+44. [Brief of Amici Curiae in Support of Respondents, Wisconsin Bell v. US ex rel. Heath (No. 23-1127)(US Oct. 1, 2024)](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)\
+E. Belding, A. Gupta, T. Narechania\
+US Supreme Court, 2024
+
+43. [Measuring Broadband Policy Success](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success)\
+H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania\
+Harvard Law Review Blog, 2024
+
+42. [NetworkGym: Reinforcement Learning Environments for Multi-Access Traffic Management in Network Simulation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/networkgym.pdf)\
+M. Haider, M. Yin, M. Zhang, A. Gupta, J. Zhu, YX Wang\
+Datasets and Benchmarks Track, NeurIPS, 2024
+
+41. [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf)\
 C. Misa, R. Durairajan, A. Gupta, R. Rejaie, W. Willinger\
 IEEE Symposium on Security and Privacy (S&P), 2024
 
-38. 🆕 [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf)\
+40. [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf)\
 C. Shou, R. Bhatia, A. Gupta, R.Harrison, D. Lokshtanov, W. Willinger\
 ACM SIGCOMM CoNEXT, 2024
 
+39. [Harnessing Public Code Repositories to Develop Production-Ready ML Artifacts for Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netmosaic_anrw.pdf)\
+P. Khan, S. Guthula, R. Beltiukov, R. Schmid, T. Bühler, A. Gupta, L. Vanbever, W. Willinger\
+ACM ANRW, 2024
+
+38. [netFound: Foundation Model for Network Security](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netfound.pdf)\
+S. Guthula, R. Beltiukov, N. Battula, W. Guo, A. Gupta\
+arXiv preprint arXiv:2310.17025, 2023
 
 37.  [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netUnicorn.pdf)\
 R. Beltiukov, W. Guo, A. Gupta, W. Willinger\
@@ -31,19 +59,19 @@ U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding\
 ACM SIGCOMM, Sep 2023\
 [Project Website](https://address.cs.ucsb.edu/)
 
-32. [Estimating WebRTC Video QoE Metrics Without Using Application Headers](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/webrtc_imc23.pdf)\
+35. [Estimating WebRTC Video QoE Metrics Without Using Application Headers](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/webrtc_imc23.pdf)\
 T. Sharma, T. Mangla, A. Gupta, J. Jiang, N. Feamster\
 ACM SIGCOMM IMC, Oct 2023
 
-35. [Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf), June 2023 \
+34. [Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf), June 2023 \
 A. Gupta, R. Durairajan, W. Willinger\
 [Workshop Website](https://measure-selfdn23.cs.ucsb.edu/)
 
-34. [A NetAI Manifesto (Part I): Less Explorimentation, More Science](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto1.pdf)\
+33. [A NetAI Manifesto (Part I): Less Explorimentation, More Science](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto1.pdf)\
 W. Willinger, A. Gupta, A. Jacobs, R. Beltiukov, R. Ferreira, L. Granville\
 ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
 
-33. [A NetAI Manifesto (Part II): Less Hubris, more Humility](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto2.pdf)\
+32. [A NetAI Manifesto (Part II): Less Hubris, more Humility](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netai_manifesto2.pdf)\
 W. Willinger, A. Gupta, R. Beltiukov, W. Guo\
 ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, June 2023
 

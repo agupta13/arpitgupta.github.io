@@ -16,8 +16,6 @@ To this end, my research focuses on two key themes. First, I explore how to adva
 The second area concerns Internet measurement research, with an emphasis on enabling **data-driven policymaking**. This approach centers around providing policymakers with access to the *right* data, which aids in evaluating existing policies and informing the syntheses of new policies. This effort is crucial for optimizing the use of limited capital resources to benefit underprivileged communities, thereby addressing their specific needs more effectively.
 
 
-
-
 ### Production-ready ML for Networks --> Self-driving Networks
 
 <!-- The two research themes complement each other as one helps identify underserved communities that require any policy interventions, and the second helps realize a subset of interventions (e.g., sustainable community networks).  -->
@@ -96,7 +94,9 @@ settings.  -->
 The research in my group is supported by various government agencies, namely, the National Science Foundation (NSF), the Department of Energy (DoE), as well as different network/content service providers such as Amazon Web Services, Verizon Innovations, ViaSat, and vendors including Intel and Cisco.
 
 You can find more details about some of the funded projects here:
-* [netFound: Network Foundation Model](#) ($3M/year, DoE, 2024-28)
+* [Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) ($700k, NSF, 2025-30)
+* [Telemetry-driven Foundation Models for Self-Driving Networks](#) ($90k, Cisco Research, 2024-25)
+* [netFound: Network Foundation Model](#) (DoE, 2024-28)
 * [IMR: MT: NetFlex: A Flexible Scalable & Privacy-Preserving Network Measurement Platform to Iteratively Collect Multi-modal Multi-view Network Data from Access Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323229) ($600k, NSF, 2023-25)
 * [IMR: RI-P: Programmable Closed-loop Measurement Platform for Last-Mile Networks](https://nsf.gov/awardsearch/showAward?AWD_ID=2224687) ($100k, NSF, 2022-24)
 * [IMR: MM-1A: ADDRESS: Augment, Denoise and Debias Crowdsourced Measurements for Statistical Synthesis of Internet Access Characterization](#) ($600k, NSF, 2022-25)
@@ -105,9 +105,6 @@ You can find more details about some of the funded projects here:
 * [The Estimation and Monitoring of Quality of Experience Delivered over Internet Services](#) ($200k, ViaSat, 2022-*)
 * [MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257) ($820k, NSF and Intel, 2020-2024)
 * [Scaling Cybersecurity Infrastructure using Programmable Data Planes](https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security) ($200k, Verizon, 2019-22)
-
-### Consulting
-I have been offering consulting services to a startup, [Beegol](https://beegol.com/), which employs ML for real-time network diagnostics.
 
 
 
