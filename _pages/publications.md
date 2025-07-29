@@ -8,9 +8,29 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+48. [Traffic Engineering with Predictive Fiber Cut](#)\
+C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou\
+ACM SIGCOMM, 2025
+
+47. [SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate](#)\
+M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz\
+ACM SIGCOMM (Shorts), 2025
+
+49. [Assessing the Broadband Service Gaps and Affordability Barriers in BEAD-Eligible Areas](#)\
+L. Koduru, A. Rojas, A. Penate, Z. Zhou, F. Bar, E. Belding, H. Galperin, A. Gupta\
+Telecommunications Policy Research Conference (TPRC), 2025
+
+52. [Evaluating the Effects of and Interdependencies among Federal Broadband Funding Programs](#)\
+L. Koduru, A. Gupta, E. Belding, T. Narechania\
+Telecommunications Policy Research Conference (TPRC), 2025
+
+50. [Strategic Reporting in the National Broadband Map](#)\
+Z. Wen, J. Bliton, L. Koduru, E. Belding, T. Narechania, A. Gupta, S. Hasan\
+Telecommunications Policy Research Conference (TPRC), 2025
+
 46. [When Something Looks too Good to be True, it Usually is! AI is Causing a Credibility Crisis in Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigcomm-ccr-paper697.pdf)\
 W. Willinger, R. A Ferreira, A. Gupta, R. Beltiukov, S. Guthula, L. Z Granville, A. Jacobs\
-ACM SIGCOMM Computer Communication Review, 2025
+ACM SIGCOMM Computer Communication Review (CCR), 2025
 
 45. [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf)\
 H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania\
