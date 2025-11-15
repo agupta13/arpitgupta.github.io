@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an ~~Assistant~~ Associate Professor in [Computer Science at UC Santa Barbara](https://cs.ucsb.edu/), Faculty Scientist at [Berkeley Lab](https://www.lbl.gov/), and Marjorie & Charles Benton Opportunity Fund Fellow at [Benton Institute](https://www.benton.org/).
+I am an Associate Professor in [Computer Science at UC Santa Barbara](https://cs.ucsb.edu/), Faculty Scientist at [Berkeley Lab](https://www.lbl.gov/), and Marjorie & Charles Benton Opportunity Fund Fellow at [Benton Institute](https://www.benton.org/).
 
 
 <!-- I received my Ph.D. in computer science from Princeton University. -->
@@ -45,7 +45,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **Google Research Scholar Award**, 2025. [Announcement](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - 🏆 **NSF CAREER Award**, 2025. [Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777)
 - 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2025. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf)
-- 🏆 **Marjorie & Charles Benton Opportunity Fund Fellow**, Benton Institute, 2025. [Announcement](https://www.benton.org/content/benton-institute-broadband-society-announces-marjorie-charles-benton-opportunity-fund)
+- 🏆 **Marjorie & Charles Benton Opportunity Fund Fellowship**, Benton Institute, 2025. [Announcement](https://www.benton.org/content/benton-institute-broadband-society-announces-marjorie-charles-benton-opportunity-fund)
 - 🏆 **SIGCOMM Dissertation Award (Advisee: Udit Paul)**, 2024. [Dissertation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)
 - 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2023. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
 - 🏆 **Best Paper Honorable Mention**, ACM CCS, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)

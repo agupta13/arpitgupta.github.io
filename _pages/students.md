@@ -19,11 +19,12 @@ author_profile: true
 | --- | --- |
 | [Udit Paul](https://u-paul.github.io/) | 2018-2023 | [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)| UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/)) |
 | [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | QoE Optimization | UCSB |
-| [Sylee Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Closed-loop ML | UCSB |
+| [Sylee Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Production-Ready ML | UCSB |
 | [Satyandra Guthula](#) | 2022-* | Network Foundation Models | UCSB |
-| [Jaber Daneshamooz](https://github.com/jaber-the-great) | 2023-* | Closed-loop ML | UCSB |
+| [Jaber Daneshamooz](https://github.com/jaber-the-great) | 2023-* | Prog. Data-Generation Substrate for Networking | UCSB |
 | [Haarika Manda](https://haarikamanda.github.io/) | 2023-* | Data-driven Policymaking | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
-| [Laasya Koduru](https://lmkoduru.github.io/) | 2024-* | Data-driven Policymaking | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
+| [Laasya Koduru](https://lmkoduru.github.io/) | 2024-* | Broadband Affordability/Adoption Data Infrastructure | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
+| [Manni Moghimi](#) | 2025-* | Broadband Quality Data Infrastructure | UCSB |
 
 ### Masters Students
 

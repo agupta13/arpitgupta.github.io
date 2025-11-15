@@ -8,7 +8,23 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-48. [Traffic Engineering with Predictive Fiber Cut](#)\
+52. [TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141)\
+H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta\
+arXiv preprint 	arXiv:2510.21141, 2025
+
+51. [NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series](https://www.arxiv.org/pdf/2510.22397)\
+S. Guthula, J. Daneshamooz, C. Fleming, A. Kundu, W. Willinger, A. Gupta\
+arXiv preprint arXiv:2510.22397, 2025
+
+50. [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625)\
+J.Daneshamooz, E. Vuong, L. Koduru, S. Chandrasekaran, A. Gupta\
+NeurIPS Workshop on ML for Systems (MLforSys), 2025
+
+49. [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089)\
+S. Beltiukov, S. Guthula, W. Guo, W. Willinger, A. Gupta\
+NeurIPS (Dataset and Benchmarking Track), 2025
+
+48. [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf)\
 C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou\
 ACM SIGCOMM, 2025
 
