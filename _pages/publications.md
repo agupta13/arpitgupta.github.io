@@ -8,17 +8,21 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-52. [TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141)\
-H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta\
-arXiv preprint 	arXiv:2510.21141, 2025
+53. [NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation](https://arxiv.org/pdf/2507.13476)\
+J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, S. Chandrasekaran, A. Gupta, A. Gupta, W. Willinger\
+arXiv preprint 	arXiv:2507.13476 , 2025
 
-51. [NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series](https://www.arxiv.org/pdf/2510.22397)\
+52. [NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series](https://www.arxiv.org/pdf/2510.22397)\
 S. Guthula, J. Daneshamooz, C. Fleming, A. Kundu, W. Willinger, A. Gupta\
 arXiv preprint arXiv:2510.22397, 2025
 
-50. [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625)\
+51. [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625)\
 J.Daneshamooz, E. Vuong, L. Koduru, S. Chandrasekaran, A. Gupta\
 NeurIPS Workshop on ML for Systems (MLforSys), 2025
+
+50. [TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141)\
+H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta\
+arXiv preprint 	arXiv:2510.21141, 2025
 
 49. [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089)\
 S. Beltiukov, S. Guthula, W. Guo, W. Willinger, A. Gupta\
