@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Arpit Gupta"
@@ -82,7 +84,7 @@ analytics:
 author:
   name             : "Arpit Gupta"
   avatar           : "Gupta_Arpit-09_new23.jpeg"
-  bio              : "Associate Professor in CS at UCSB"
+  bio              : "Prof@UCSB | Scientist@Berkeley Lab | Fellow@Benton Institute"
   location         : "HFH 5163, UCSB"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lc3R9-wAAAAJ&hl=en"
@@ -107,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "glexqsd"
+  X          : "glexqsd"
   vine             :
   weibo            :
   xing             :
