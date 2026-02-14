@@ -93,22 +93,145 @@ settings.  -->
 ### Funding
 The research in my group is supported by various government agencies, namely, the National Science Foundation (NSF), the Department of Energy (DoE), as well as different network/content service providers such as Google, Verizon Innovations, ViaSat, and vendors including Intel and Cisco.
 
-You can find more details about some of the funded projects here:
-* [Low Infrastructure ML](#) (\$100k, Google, 2025-26)
-* [Network Foundation Model for Enabling AI-powered Network Operations (AIOps)](#) (\$60k, Google, 2025-26)
-* [Characterizing Broadband Pricing in California](#) (\$125k, California Public Utility Commission, 2025-27)
-* [Characterizing Barriers to Digital Inclusion in Virginia](#) (\$30k, Virginia Joint Commission on Technology and Sciences, 2025)
-* [Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) ($700k, NSF, 2025-30)
-* [Telemetry-driven Foundation Models for Self-Driving Networks](#) ($90k, Cisco Research, 2024-25)
-* [netFound: Network Foundation Model](#) (DoE, 2024-28)
-* [IMR: MT: NetFlex: A Flexible Scalable & Privacy-Preserving Network Measurement Platform to Iteratively Collect Multi-modal Multi-view Network Data from Access Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323229) ($600k, NSF, 2023-25)
-* [IMR: RI-P: Programmable Closed-loop Measurement Platform for Last-Mile Networks](https://nsf.gov/awardsearch/showAward?AWD_ID=2224687) ($100k, NSF, 2022-24)
-* [IMR: MM-1A: ADDRESS: Augment, Denoise and Debias Crowdsourced Measurements for Statistical Synthesis of Internet Access Characterization](#) ($600k, NSF, 2022-25)
-* [CC* Integration-Large: Democratizing Networking Research in the Era of AI/ML](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126327) ($1M, NSF, 2021-24)
-* [CC* Integration-Large: Bringing Code to Data: A Collaborative Approach to Democratizing Internet Data Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126281) ($1M, NSF, 2021-24)
-* [The Estimation and Monitoring of Quality of Experience Delivered over Internet Services](#) ($200k, ViaSat, 2022-*)
-* [MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257) ($820k, NSF and Intel, 2020-2024)
-* [Scaling Cybersecurity Infrastructure using Programmable Data Planes](https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security) ($200k, Verizon, 2019-22)
+<table style="width:100%; border-collapse:collapse; font-size:0.95em;">
+  <thead>
+    <tr style="border-bottom:2px solid #444;">
+      <th style="text-align:left; padding:8px 10px;">Project</th>
+      <th style="text-align:left; padding:8px 10px;">Funding Organization</th>
+      <th style="text-align:left; padding:8px 10px;">Start</th>
+      <th style="text-align:left; padding:8px 10px;">Amount</th>
+      <th style="text-align:left; padding:8px 10px;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">Effectively Measuring Broadband Affordability in California</a></td>
+      <td style="padding:8px 10px;">California Public Utilities Commission</td>
+      <td style="padding:8px 10px;">Jan 2026</td>
+      <td style="padding:8px 10px;">$275k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">Bridging the Representation–Semantics Gap for Production-Ready AI-Powered Network Operations</a></td>
+      <td style="padding:8px 10px;">Cisco</td>
+      <td style="padding:8px 10px;">Feb 2026</td>
+      <td style="padding:8px 10px;">$75k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">AIOps Roadmap Development for ESnet</a></td>
+      <td style="padding:8px 10px;">DoE</td>
+      <td style="padding:8px 10px;">Jul 2025</td>
+      <td style="padding:8px 10px;">$65k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://research.google/programs-and-events/research-scholar-program/recipients/">Low Infrastructure ML</a></td>
+      <td style="padding:8px 10px;">Google</td>
+      <td style="padding:8px 10px;">Jul 2025</td>
+      <td style="padding:8px 10px;">$100k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/">Network Foundation Model for Enabling AI-powered Network Operations (AIOps)</a></td>
+      <td style="padding:8px 10px;">Google</td>
+      <td style="padding:8px 10px;">Jul 2025</td>
+      <td style="padding:8px 10px;">$60k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777">Developing Generalizable ML Models for Diverse Learning Problems in Network Operations</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">May 2025</td>
+      <td style="padding:8px 10px;">$700k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">Characterizing Broadband Pricing in California</a></td>
+      <td style="padding:8px 10px;">California Public Utility Commission</td>
+      <td style="padding:8px 10px;">Jan 2025</td>
+      <td style="padding:8px 10px;">$125k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf">Characterizing Barriers to Digital Inclusion in Virginia</a></td>
+      <td style="padding:8px 10px;">Virginia JCOTS</td>
+      <td style="padding:8px 10px;">Jan 2025</td>
+      <td style="padding:8px 10px;">$30k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">Telemetry-driven Foundation Models for Self-Driving Networks</a></td>
+      <td style="padding:8px 10px;">Cisco Research</td>
+      <td style="padding:8px 10px;">Sep 2024</td>
+      <td style="padding:8px 10px;">$90k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://arxiv.org/abs/2310.17025">netFound: Network Foundation Model</a></td>
+      <td style="padding:8px 10px;">DoE</td>
+      <td style="padding:8px 10px;">Sep 2024</td>
+      <td style="padding:8px 10px;">—</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323229">IMR: MT: NetFlex: A Flexible Scalable &amp; Privacy-Preserving Network Measurement Platform to Iteratively Collect Multi-modal Multi-view Network Data from Access Networks</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">Oct 2023</td>
+      <td style="padding:8px 10px;">$600k</td>
+      <td style="padding:8px 10px;">Active</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2224687">IMR: RI-P: Programmable Closed-loop Measurement Platform for Last-Mile Networks</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">Oct 2022</td>
+      <td style="padding:8px 10px;">$100k</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://address.cs.ucsb.edu/">IMR: MM-1A: ADDRESS: Augment, Denoise and Debias Crowdsourced Measurements for Statistical Synthesis of Internet Access Characterization</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">Oct 2022</td>
+      <td style="padding:8px 10px;">$600k</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="#">The Estimation and Monitoring of Quality of Experience Delivered over Internet Services</a></td>
+      <td style="padding:8px 10px;">ViaSat</td>
+      <td style="padding:8px 10px;">Jan 2022</td>
+      <td style="padding:8px 10px;">$200k</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126327">CC* Integration-Large: Democratizing Networking Research in the Era of AI/ML</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">Oct 2021</td>
+      <td style="padding:8px 10px;">$1M</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126281">CC* Integration-Large: Bringing Code to Data: A Collaborative Approach to Democratizing Internet Data Science</a></td>
+      <td style="padding:8px 10px;">NSF</td>
+      <td style="padding:8px 10px;">Oct 2021</td>
+      <td style="padding:8px 10px;">$1M</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003257">MLWiNS: RL-based Self-driving Wireless Network Management System for QoE Optimization</a></td>
+      <td style="padding:8px 10px;">NSF &amp; Intel</td>
+      <td style="padding:8px 10px;">Jun 2020</td>
+      <td style="padding:8px 10px;">$820k</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+    <tr style="border-bottom:1px solid #ddd;">
+      <td style="padding:8px 10px;"><a href="https://www.verizon.com/about/news/verizon-advances-5g-network-and-cyber-security">Scaling Cybersecurity Infrastructure using Programmable Data Planes</a></td>
+      <td style="padding:8px 10px;">Verizon</td>
+      <td style="padding:8px 10px;">Sep 2019</td>
+      <td style="padding:8px 10px;">$200k</td>
+      <td style="padding:8px 10px;">Completed</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
