@@ -109,6 +109,14 @@ It has been an absolute honor and privilege to get the opportunities to organize
   - ACM CoNEXT: 2019 -->
 
 ## News
+
+{%- assign sorted_news = site.news | sort: "date" | reverse -%}
+{%- for item in sorted_news %}
+- `{{ item.date | date: "%B %Y" }}`: {{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+{%- endfor %}
+
+<!-- ====== Legacy news — migrate entries to _news/ over time ====== -->
+
 - `April 2025`: The proposal, [CAREER: Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777), has been awarded the Faculty Early Career Development (CAREER) Award from the National Science Foundation (NSF). Please find more details about this project in this [article](https://engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology). 
 - `Jan 2025`: Our paper, [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024, received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Haarika Manda](https://haarikamanda.github.io/) and team for yet another recognition for their awesome work! 🏆
 - `Dec 2024`: [Chaofan Shou](https://scf.so/) presented our work on query planning for hybrid network telemetry systems at **CoNEXT, 2024**. This brings an end to our long (and painful) journey on this project. 
