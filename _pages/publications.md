@@ -8,6 +8,27 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+50. [TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141)\
+H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta\
+USENIX NSDI, May 2026
+
+54. [SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate](#)\
+M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz\
+USENIX NSDI, May 2026
+
+50. [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089)\
+S. Beltiukov, S. Guthula, W. Guo, W. Willinger, A. Gupta\
+NeurIPS (Dataset and Benchmarking Track), 2025
+
+48. [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf)\
+C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou\
+ACM SIGCOMM, 2025
+
+51. [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625)\
+J.Daneshamooz, E. Vuong, L. Koduru, S. Chandrasekaran, A. Gupta\
+NeurIPS Workshop on ML for Systems (MLforSys), 2025
+
+
 53. [NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation](https://arxiv.org/pdf/2507.13476)\
 J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, S. Chandrasekaran, A. Gupta, A. Gupta, W. Willinger\
 arXiv preprint 	arXiv:2507.13476 , 2025
@@ -16,39 +37,23 @@ arXiv preprint 	arXiv:2507.13476 , 2025
 S. Guthula, J. Daneshamooz, C. Fleming, A. Kundu, W. Willinger, A. Gupta\
 arXiv preprint arXiv:2510.22397, 2025
 
-51. [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625)\
-J.Daneshamooz, E. Vuong, L. Koduru, S. Chandrasekaran, A. Gupta\
-NeurIPS Workshop on ML for Systems (MLforSys), 2025
-
-50. [TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141)\
-H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta\
-arXiv preprint 	arXiv:2510.21141, 2025
-
-49. [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089)\
-S. Beltiukov, S. Guthula, W. Guo, W. Willinger, A. Gupta\
-NeurIPS (Dataset and Benchmarking Track), 2025
-
-48. [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf)\
-C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou\
-ACM SIGCOMM, 2025
-
 47. [SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate](#)\
 M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz\
 ACM SIGCOMM (Shorts), 2025
 
-49. [Assessing the Broadband Service Gaps and Affordability Barriers in BEAD-Eligible Areas](#)\
+46. [Assessing the Broadband Service Gaps and Affordability Barriers in BEAD-Eligible Areas](#)\
 L. Koduru, A. Rojas, A. Penate, Z. Zhou, F. Bar, E. Belding, H. Galperin, A. Gupta\
 Telecommunications Policy Research Conference (TPRC), 2025
 
-52. [Evaluating the Effects of and Interdependencies among Federal Broadband Funding Programs](#)\
+45. [Evaluating the Effects of and Interdependencies among Federal Broadband Funding Programs](#)\
 L. Koduru, A. Gupta, E. Belding, T. Narechania\
 Telecommunications Policy Research Conference (TPRC), 2025
 
-50. [Strategic Reporting in the National Broadband Map](#)\
+44. [Strategic Reporting in the National Broadband Map](#)\
 Z. Wen, J. Bliton, L. Koduru, E. Belding, T. Narechania, A. Gupta, S. Hasan\
 Telecommunications Policy Research Conference (TPRC), 2025
 
-46. [When Something Looks too Good to be True, it Usually is! AI is Causing a Credibility Crisis in Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigcomm-ccr-paper697.pdf)\
+43. [When Something Looks too Good to be True, it Usually is! AI is Causing a Credibility Crisis in Networking](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigcomm-ccr-paper697.pdf)\
 W. Willinger, R. A Ferreira, A. Gupta, R. Beltiukov, S. Guthula, L. Z Granville, A. Jacobs\
 ACM SIGCOMM Computer Communication Review (CCR), 2025
 
