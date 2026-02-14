@@ -1,0 +1,19 @@
+{%- assign url = include.pub.paperurl | default: include.pub.pdf | default: "#" -%}
+<p>
+<a href="{{ url }}">{{ include.pub.title }}</a>
+{%- if include.pub.pubtype == "preprint" %} <span class="pub-badge pub-badge--preprint">Preprint</span>
+{%- elsif include.pub.pubtype == "policy" %} <span class="pub-badge pub-badge--policy">Policy</span>
+{%- endif -%}
+<br/>
+{{ include.pub.authors }}<br/>
+{{ include.pub.venue -}}
+{%- for award in include.pub.awards -%}
+<br/>🏆 <strong>{{ award }}</strong>
+{%- endfor -%}
+{%- if include.pub.pdf and include.pub.paperurl -%}
+<br/><a href="{{ include.pub.pdf }}">PDF</a>
+{%- endif -%}
+{%- for link in include.pub.links -%}
+<br/><a href="{{ link.url }}">{{ link.text }}</a>
+{%- endfor -%}
+</p>
