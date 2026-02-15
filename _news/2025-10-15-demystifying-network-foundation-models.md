@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Paper on Demystifying Network Foundation Models Accepted at NeurIPS D&B 2025"
 date: 2025-10-15
 ---

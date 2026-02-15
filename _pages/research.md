@@ -5,90 +5,112 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Philosophy
+## Research Overview
 
-In our modern world, the ability to access information and communication technology is not just a convenience but is increasingly seen as a crucial *human right*. This ability is vital for people around the world to derive socio-economical benefits from the Internet by engaging in activities such as education, healthcare, commerce, and civic participation. However, despite years of effort from various stakeholders, a significant *digital divide* persists that sharply separates those with seamless access to the Internet and cutting-edge communication technologies from those who remain underserved. The wide-ranging social and economic consequences of this divide cannot be overstated.
+I am a networking researcher committed to advancing digital equity through principled system design.
 
-I am committed to pursuing a research agenda aimed at forging a path toward a more equitable digital future.
+My north star is clear:
 
-To this end, my research focuses on two key themes. First, I explore how to advance Artificial Intelligence (AI) and Machine Learning (ML) for cybersecurity, with a special emphasis on democratizing the development of **production-ready AI/ML artifacts**. This initiative primarily aims to lower the threshold for collecting the *right* data for training ML models. Such ML models would be especially beneficial in network environments with limited budgets, operational capacity, and technical expertise. These environments are poised to benefit greatly from AI and ML advancements but are challenged in tapping into these technologies due to the high thresholds for developing trustworthy and generalizable ML artifacts.
+> Access to a secure, performant, and affordable Internet must become a durable infrastructure guarante--not a function of geography, income, or institutional capacity.
 
-The second area concerns Internet measurement research, with an emphasis on enabling **data-driven policymaking**. This approach centers around providing policymakers with access to the *right* data, which aids in evaluating existing policies and informing the syntheses of new policies. This effort is crucial for optimizing the use of limited capital resources to benefit underprivileged communities, thereby addressing their specific needs more effectively.
+Realizing this goal requires more than faster protocols or incremental optimizations. It requires validated data systems that make digital infrastructure measurable, accountable, and intelligently operable.
 
+My research develops the architectural foundations for this transformation — spanning public-interest broadband infrastructure and agentic, AI-powered network operations.
 
-### Production-ready ML for Networks --> Self-driving Networks
+---
 
-<!-- The two research themes complement each other as one helps identify underserved communities that require any policy interventions, and the second helps realize a subset of interventions (e.g., sustainable community networks).  -->
+## Path I — Public-Interest Broadband Data Infrastructure
 
+Digital equity demands decision-grade visibility into broadband markets.
 
+My work advances both the intellectual foundations and the operational infrastructure required to measure affordability, competition, and performance at scale.
 
- <!-- **self-driving networks** that can run themselves with minimal intervention.
-Given our group's focus on **digital equity** issues, we focus primarily on building self-driving network for **last-mile (community) networks**.
-Our goal is to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile networks in under-served communities. -->
-According to the report from the National Security Commission on AI, advancements in AI have empowered malicious actors, thereby increasing the vulnerability of our digital ecosystems to various cyber threats. To counter this rising threat, we need an AI-enabled cybersecurity stack equipped with numerous intelligent modules or bots. Their collective input should enable the extraction of subtle trends in data, identify diverse attack vectors and workflows, and assist in synthesizing appropriate defense policies to neutralize these threats. Moreover, it is crucial to democratize access to this AI-enabled cybersecurity stack, which we refer to as **self-driving networks**.
+Central to this effort is:
 
-The goal is to develop an AI-enabled stack that keeps the network secure and performant while requiring minimal human interventions. Specifically, we explore how to leverage machine learning (ML) and software-defined networks (SDN) to lower the cost of deploying and operating highly *available*, *reliable*, *performant*, and *secure* last-mile and enterprise networks.
+**[Broadband Query Tool (BQT / BQT+)](https://address.cs.ucsb.edu/bqt/)** — an address-level broadband pricing and availability intelligence platform enabling reproducible analysis of market structure and affordability.
 
-Developing self-driving networks requires solving various fundamental research problems, which includes answering how we can
-* Enable **accurate and flexible (streaming) analytics** over network data at scale (see [Sonata](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf), [DynamiQ](https://arxiv.org/pdf/2106.05420.pdf), [Panakos](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), [OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf));
-* Lower the threshold to **curate high-quality datasets** for different learning problems from diverse network environments at scale (see [PINOT](https://pinot.cs.ucsb.edu/), [netUnicorn](https://netunicorn.cs.ucsb.edu/));
-* Develop **production-ready ML artifacts** that can both accurately assess the network's state and take effective actions to keep networks performant and secure (see [netUnicorn](https://netunicorn.cs.ucsb.edu/), [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)); and
-* **Establish trust** in ML-based artifacts so network operators feel confident enough to relinquish control to these artifacts in production settings (see [Trustee](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)).
-* ...
+BQT has informed regulatory and policy discussions across states and agencies, shaping how competition and pricing are evaluated in large-scale funding and oversight decisions. The broader vision is articulated in:
 
-### Data-driven Policymaking
-The goal here is to develop tools and infrastructures that enable collecting the *right* data that can inform policy interventions targeting digital equity, including consumer subsidy programs, rate regulations, infrastructure funding, etc.
+- [What We Can't See, We Can't Fix](https://www.benton.org/blog/what-we-cant-see-we-cant-fix)
 
-Addressing the data problem for policymakers entails solving various fundamental research problems, which includes answering
-* What broadband plans, which includes both speed and price, are available in a region? See our [SIGCOMM paper](ttps://sites.cs.ucsb.edu/~arpitgupta/pdfs/bqt_sigcomm23.pdf) for details.
-* How to make the best use of noisy crowdsourced network measurement data? See our [IMC paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) on this topic for more details.
-* How to quantify the efficacy of different policy interventions (e.g., consumer subsidies, rate regulations, etc.)?
-* ...
+BQT+ advances this platform through agentic system design: decomposing complex ISP interaction processes into reusable, adaptive components that scale across providers while preserving methodological rigor.
 
-### Ongoing Projects
-Some of the projects that provide a decent sample of ongoing research activities at SNL:
+BQT/BQT+ has enabled a series of research contributions grounded in rigorous measurement and statistical modeling:
 
-- [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
-- [BQT](https://address.cs.ucsb.edu/bqt/): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
-- [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
-- [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments.
-- [netFound](https://arxiv.org/pdf/2310.17025.pdf): A foundation model for networking data that employs self-supervised learning techniques on abundant unlabeled network data, passively collected from production environment using [PINOT](https://pinot.cs.ucsb.edu/) for task-agnostic pre-training and smaller-scale labeled network data, actively collected using PINOT and [netUnicorn](https://netunicorn.cs.ucsb.edu/) for task-specific fine-tuning.
+- [Contextualizing Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) (IMC 2022, **Distinguished Paper Award**) — establishing principled modeling of user-perceived performance.
+- [Decoding the Divide](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/bqt_sigcomm23.pdf) (SIGCOMM 2023) — introducing address-level broadband pricing measurement for rigorous market analysis.
+- [Assessing the Efficacy of the Connect America Fund](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf) (SIGCOMM 2024, **ANRP Award**) — scalable methodologies for extracting and synthesizing ISP plan data across heterogeneous interfaces.
+
+We are extending this foundation through:
+
+**NetVibe** — an evolving longitudinal latency intelligence platform that connects infrastructure-level performance measurements with user-level experience.
+
+Together, this body of work establishes independent broadband data ecosystems grounded in statistical modeling, systems research, and reproducible infrastructure — capable of informing billion-dollar investment decisions and regulatory accountability.
 
 
+## Path II — Agentic and AI-Powered Network Operations (AIOps)
 
-<!-- - [Trustee](https://trusteeml.github.io/): A framework that cracks open decision-making for black-box ML models (for networks) using high-fidelity, low-complexity, and stable decision trees.
-- [PINOT](https://pinot.cs.ucsb.edu/): A programmable data-collection infrastructure at UCSB to collect fine-grained (labeled) network data at scale.
-- [netUnicorn](https://netunicorn.cs.ucsb.edu/): A data-collection platform that simplifies collecting network data for different learning problems from diverse network environments. -->
+Digital equity also requires operational intelligence: networks that adapt, generalize, and remain trustworthy under dynamic conditions.
+
+My group advances agentic and AI-powered network operations grounded in controllable data generation, structured representation learning, and principled validation.
+
+### Programmable Data Substrate
+
+We are building a programmable experimentation infrastructure that enables scalable and verifiable network research:
+
+- **[netUnicorn](https://netunicorn.cs.ucsb.edu/)** — distributed orchestration across heterogeneous environments.
+- **[NetReplica](#arxiv-link)** — an evolving bottleneck-aware emulation framework for controlled experimentation.
+- **[NetGent](#arxiv-link)** — an agentic workflow automation system that compiles high-level specifications into deterministic, reusable execution pipelines.
+
+These systems share a central architectural insight: complex operational tasks become reliable and scalable when decomposed into smaller, verifiable components — a principle mirrored in BQT+.
+
+### Network Foundation Models and Validation
+
+Building on this substrate, we introduced:
+
+- **[netFound](https://arxiv.org/abs/2310.17025)** — a domain-specific network foundation model that learns spatial, temporal, and hierarchical structure directly from packet-level telemetry.
+- **[NetBurst](#arxiv-link)** — ongoing modeling of bursty, event-driven network dynamics for improved temporal abstraction and forecasting.
+- **[Intrinsic Evaluation Framework](#arxiv-link)** (NeurIPS 2025) — a representation-level validation methodology decoupling embedding quality from downstream task artifacts.
+- **[Trustee](https://trusteeml.github.io/)** (ANRP recognition) — advancing interpretability and structured introspection for learning-based network systems.
+
+This program establishes validated foundations for agentic and AI-powered network operations that are robust, generalizable, and deployment-aware.
+
+### Deployment and Engagement
+
+We actively engage with the [Energy Sciences Network (ESnet)](https://www.es.net/) to explore how AIOps frameworks can support large-scale scientific infrastructure — advancing adaptive traffic management, scalable telemetry analysis, and AI-driven operational intelligence in production environments.
 
 
+## A Unifying Architectural Thesis
 
-<!-- ### Related Publications
-Some of the recently published works that provide a sample of some of the ongoing activities at SNL:
-- [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.
-- [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf), ACM IMC, 2022.
-- [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.
-- [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf), TPRC, 2022.
-- [DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems](https://arxiv.org/pdf/2106.05420.pdf),
-arXiv: Report 2106.05420, 2021.
-- [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf), ACM HotNets 2019. -->
+My research advances a coherent and long-term position:
+
+> Digital infrastructure must be measurable, intelligible, and agentically actionable.
+
+Broadband markets and network operations are manifestations of the same systems problem: transforming large-scale, dynamic network environments into validated, decision-grade intelligence.
+
+The architectural commitment is deliberate:
+
+1. **Instrument** networks with granular, high-fidelity perception.
+2. **Learn** structured representations that preserve hierarchy, causality, and temporal dynamics.
+3. **Validate** models and workflows independently of downstream artifacts.
+4. **Embed** intelligence into systems capable of adaptive action.
+
+In broadband policy, this architecture enables transparency, accountability, and evidence-driven investment. In network operations, it enables adaptive, reliable, and deployable AIOps.
+
+This thesis defines the trajectory of my work: **build agentic, validated data systems that elevate digital infrastructure from reactive management to accountable, intelligent operation.** From BQT+ and NetVibe to netFound, NetBurst, and emerging agentic platforms, each system advances this architectural transformation.
 
 
+## Representative Systems
 
-<!-- machine learning (ML) and
-programmable network data planes to develop *low-cost* last-mile networks that can provide highly *available*, *reliable*, *performant* and *secure* network connectivity to underrepresented and under-served communities.
-
-<!-- The growing popularity of networked devices and applications imposes
-increasingly stringent security- and performance-related requirements on the
-underlying communication fabric. Satisfying these ever-increasing demands with
-limited infrastructure and operational budgets are challenging for the network
-operators. -->
-
-<!-- My research combines the flexibility of **programmable data-plane targets** and
-the intelligibility of **ML algorithms** to develop ML-based artifacts for
-networking that bridge the fundamental gap between requirements and resources.
-Additionally, my research focuses on ensuring that network operators can
-**trust** these ML-based artifacts enough to deploy them in production
-settings.  -->
+- [BQT / BQT+](https://address.cs.ucsb.edu/bqt/) — broadband plan querying tool
+- NetVibe — evolving longitudinal latency intelligence platform
+- [netUnicorn](https://netunicorn.cs.ucsb.edu/) — distributed orchestration platform
+- [netFound](https://arxiv.org/abs/2310.17025) — network foundation model
+- [NetBurst](#arxiv-link) — event-centric forecasting system
+- [NetReplica](#arxiv-link) — evolving bottleneck-aware emulation framework
+- [NetGent](#arxiv-link) — agentic workflow automation system
+- [Intrinsic Evaluation Framework](#arxiv-link) — representation analysis for network foundation models
+- [Trustee](https://trusteeml.github.io/) — interpretability framework for ML-based network systems
 
 ### Funding
 The research in my group is supported by various government agencies, namely, the National Science Foundation (NSF), the Department of Energy (DoE), as well as different network/content service providers such as Google, Verizon Innovations, ViaSat, and vendors including Intel and Cisco.
@@ -232,20 +254,3 @@ The research in my group is supported by various government agencies, namely, th
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-<!-- ## Ongoing Projects
-
-### Programmable Data-Collection Infrastructure/Platform(s)
-
-### Flexible and Scalable Network Data Analytics System(s)
-
-### ML Pipeline for Learning Problems in Networking -->
-
-
-<!-- ## Past Projects -->
-
-<!-- The proposed research will help catalyze adoption of ML-based solutions for network operations, which will form the intellectual foundation for future self-driving networks. My academic career to this point has prepared me to pursue this goal with an extensive experience in developing open-sourced networked systems, such as SDX~\cite{sdx}, iSDX~\cite{isdx}, Sonata~\cite{sonata-paper}, DynamiQ~\cite{dynamiq}, Optel~\cite{optel}, etc., that have been widely used in both academia and industry.  -->

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Talk at Supercomputing on Programmable Data Generation for Networking"
 date: 2025-12-15
 ---

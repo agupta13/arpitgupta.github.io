@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Participation in 6GIC-CLICK Telecom AI Event"
 date: 2025-11-15
 ---

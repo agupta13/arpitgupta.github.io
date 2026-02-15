@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Keynote at IMC 2025 Student Workshop"
 date: 2025-11-20
 ---

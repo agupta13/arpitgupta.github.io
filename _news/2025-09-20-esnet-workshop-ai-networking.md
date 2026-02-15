@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reflections from the ESnet Workshop on AI for Networking"
 date: 2025-09-20
 ---

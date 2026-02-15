@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Introducing NetGent: AI-Agent Framework for Network Workflow Generation"
 date: 2025-10-20
 ---

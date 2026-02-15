@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Op-Ed at Benton Institute: What We Can't See, We Can't Fix"
 date: 2026-01-05
 ---

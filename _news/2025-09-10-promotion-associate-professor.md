@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Promoted to Associate Professor with Tenure at UC Santa Barbara"
 date: 2025-09-10
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "BQT Data Informs California Public Utilities Commission Report on Broadband Pricing"
 date: 2026-01-28
 ---
