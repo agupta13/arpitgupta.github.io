@@ -1,6 +1,7 @@
 # Students data for /students/ page.
 # Update this file and add images under images/students/<slug>.jpg as needed.
 # Use placeholder.jpg for missing headshots; set headshot_todo: true in YAML if needed.
+# For summary counts: add entries to current_bsms, current_ms, current_high_school, current_postdoc when applicable.
 
 current_phd:
   - slug: sanjay-chandrasekaran
@@ -86,7 +87,51 @@ current_phd:
     internships: []
     papers: []
 
-# BS/MS: grouped by ERSP, Cal-Bridge, Other (infer from existing page; "ESRP" in content -> ERSP)
+current_ms: []   # add when listing current MS students
+current_high_school: []  # add when listing current high school students
+current_postdoc: []      # add when listing current postdocs
+
+# Current BS/MS students (type: ERSP or Other for display grouping)
+current_bsms:
+  # ERSP (2025-*): BQT as a software service (SaaS). See BQT on research page.
+  - name: Srinandha Murugesan
+    years: "2025-*"
+    project: Making BQT a software service (SaaS)
+    type: ERSP
+    affiliation: UCSB
+  - name: Chen Hui Lin
+    years: "2025-*"
+    project: Making BQT a software service (SaaS)
+    type: ERSP
+    affiliation: UCSB
+  - name: Ivy Holiday
+    years: "2025-*"
+    project: Making BQT a software service (SaaS)
+    type: ERSP
+    affiliation: UCSB
+  - name: Daniel Chang
+    years: "2025-*"
+    project: Making BQT a software service (SaaS)
+    type: ERSP
+    affiliation: UCSB
+  # NetVibe project, Fall '25. See research page for NetVibe.
+  - name: Red Macasa
+    years: "2025-*"
+    project: NetVibe
+    type: Other
+    affiliation: UCSB
+  - name: Sumedh Aerram
+    years: "2025-*"
+    project: NetVibe
+    type: Other
+    affiliation: UCSB
+  - name: Anit Annadi
+    years: "2025-*"
+    project: NetVibe
+    type: Other
+    affiliation: UCSB
+
+# BS/MS alumni: grouped by ERSP, Cal-Bridge, Other (infer from existing page; "ESRP" in content -> ERSP)
 bsms_ersp:
   - name: Sam Liang, Ethan Wu
     years: "2021-22"
@@ -305,6 +350,18 @@ alumni_bsms:
     project: Last-mile RTT for Campus Networks
     type: High School Project
     affiliation: Laguna Blanca School, Santa Barbara
+  - name: William Chen
+    years: "2024-25"
+    exit_year: 2025
+    project: "NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation (co-author; see Publications)"
+    type: High School Project
+    affiliation: Cary Academy High School
+  - name: Eugene Vuong
+    years: "2025"
+    exit_year: 2025
+    project: "NetGent: Agent-Based Automation of Network Application Workflows (see Publications)"
+    type: Cal-Bridge
+    affiliation: CSU East Bay
   - name: Rohan Bhatia
     years: "2019-20"
     exit_year: 2020

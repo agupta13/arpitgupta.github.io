@@ -9,6 +9,35 @@ author_profile: true
 
 <div class="students-page">
 
+  {% assign phd_count = site.data.students.current_phd | size %}
+  {% assign ms_count = site.data.students.current_ms | size %}
+  {% assign bs_count = site.data.students.current_bsms | size %}
+  {% assign hs_count = site.data.students.current_high_school | size %}
+  {% assign postdoc_count = site.data.students.current_postdoc | size %}
+  {% assign alumni_phd_count = site.data.students.alumni_phd | size %}
+  {% assign alumni_postdoc_count = site.data.students.alumni_postdoc | size %}
+  {% assign alumni_by_type = site.data.students.alumni_bsms | group_by: "type" %}
+  {% assign alumni_ms_count = 0 %}
+  {% assign alumni_bs_count = 0 %}
+  {% assign alumni_hs_count = 0 %}
+  {% for group in alumni_by_type %}
+    {% if group.name == "MS Thesis" or group.name == "MS Project" %}
+      {% assign alumni_ms_count = alumni_ms_count | plus: group.items.size %}
+    {% elsif group.name == "High School Project" %}
+      {% assign alumni_hs_count = alumni_hs_count | plus: group.items.size %}
+    {% else %}
+      {% comment %} BS Thesis, BS Project, ERSP, Cal-Bridge {% endcomment %}
+      {% assign alumni_bs_count = alumni_bs_count | plus: group.items.size %}
+    {% endif %}
+  {% endfor %}
+
+  <p class="students-page__summary">
+    <strong>Current:</strong>
+    {{ phd_count }} PhD student{% if phd_count != 1 %}s{% endif %}{% if ms_count > 0 %}, {{ ms_count }} MS{% endif %}{% if bs_count > 0 %}, {{ bs_count }} BS{% endif %}{% if hs_count > 0 %}, {{ hs_count }} high school{% endif %}{% if postdoc_count > 0 %}, {{ postdoc_count }} postdoc{% if postdoc_count != 1 %}s{% endif %}{% endif %}.
+    <strong>Alumni:</strong>
+    {{ alumni_phd_count }} PhD graduate{% if alumni_phd_count != 1 %}s{% endif %}{% if alumni_postdoc_count > 0 %}, {{ alumni_postdoc_count }} postdoc{% if alumni_postdoc_count != 1 %}s{% endif %}{% endif %}, {{ alumni_ms_count }} MS, {{ alumni_bs_count }} BS, and {{ alumni_hs_count }} high school.
+  </p>
+
   <h2 id="current-students">Current Students</h2>
 
   <h3>PhD Students</h3>
@@ -65,7 +94,30 @@ author_profile: true
   </div>
 
   <h3>BS/MS Students</h3>
-  <p><em>To be listed.</em></p>
+  <div class="table-responsive">
+    <table class="students-table">
+      <thead>
+        <tr>
+          <th class="students-table__name">Name</th>
+          <th class="students-table__years">Years</th>
+          <th class="students-table__project">Project</th>
+          <th class="students-table__type">Type</th>
+          <th class="students-table__affiliation">Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in site.data.students.current_bsms %}
+        <tr>
+          <td class="students-table__name">{{ s.name }}</td>
+          <td class="students-table__years">{{ s.years }}</td>
+          <td class="students-table__project">{{ s.project }}</td>
+          <td class="students-table__type">{{ s.type }}</td>
+          <td class="students-table__affiliation">{{ s.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 
   <hr>
 
