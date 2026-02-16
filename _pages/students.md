@@ -5,68 +5,172 @@ permalink: /students/
 author_profile: true
 ---
 
-<!-- <img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.jpg" width=500> -->
+{% include base_path %}
 
-<!-- ### Postdocs
-* [Hooman Mohajeri](https://hoomanm.info/), Ph.D., Princeton University -->
-<!-- | Name | Year(s) |  |
-| --- | --- |
-| [Hooman Mohajeri](https://hoomanm.info/) | 2023-* | Countering Internet Access Inequity | UCSB (co-advised with Prof. Belding) | -->
+<div class="students-page">
 
-### Doctoral Students
+  <h2 id="current-students">Current Students</h2>
 
-| Name | Year(s) | Topic | Affiliation |
-| --- | --- |
-| [Udit Paul](https://u-paul.github.io/) | 2018-2023 | [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)| UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/)) |
-| [Sanjay Chandrasekaran](http://sites.cs.ucsb.edu/~sanjaychandrasekaran/) | 2019-* | QoE Optimization | UCSB |
-| [Sylee Beltiukov](https://maybe-hello-world.github.io/) | 2021-* | Production-Ready ML | UCSB |
-| [Satyandra Guthula](#) | 2022-* | Network Foundation Models | UCSB |
-| [Jaber Daneshamooz](https://github.com/jaber-the-great) | 2023-* | Prog. Data-Generation Substrate for Networking | UCSB |
-| [Haarika Manda](https://haarikamanda.github.io/) | 2023-* | Data-driven Policymaking | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
-| [Laasya Koduru](https://lmkoduru.github.io/) | 2024-* | Broadband Affordability/Adoption Data Infrastructure | UCSB (co-advised with [Prof. Belding](https://ebelding.cs.ucsb.edu/))|
-| [Manni Moghimi](#) | 2025-* | Broadband Quality Data Infrastructure | UCSB |
+  <h3>PhD Students</h3>
+  <div class="student-cards">
+    {% for student in site.data.students.current_phd %}
+    <div class="student-card">
+      <div class="student-card__image-wrap">
+        <img src="{{ base_path }}/images/students/{{ student.image }}" alt="{{ student.name }}" class="student-card__image" onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22120%22 height=%22120%22%3E%3Crect fill=%22%23666%22 width=%22120%22 height=%22120%22/%3E%3C/svg%3E';">
+      </div>
+      <div class="student-card__body">
+        <h4 class="student-card__name">
+          {% if student.website and student.website != '#' %}
+            <a href="{{ student.website }}" target="_blank" rel="noopener">{{ student.name }}</a>
+          {% else %}
+            {{ student.name }}
+          {% endif %}
+        </h4>
+        <span class="student-card__meta-line"><strong>Years:</strong> {{ student.years }}</span>
+        <span class="student-card__meta-line"><strong>Affiliation:</strong> {{ student.affiliation }}</span>
+        <p class="student-card__topic"><strong>Topic:</strong> {{ student.topic }}</p>
+        {% if student.honors and student.honors.size > 0 %}
+          <p class="student-card__honors"><strong>Honors:</strong>
+            {% for h in student.honors %}
+              {% if h.text %}
+                {% if h.url %}<a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.text }}</a>{% else %}{{ h.text }}{% endif %}
+              {% else %}
+                {{ h }}
+              {% endif %}{% unless forloop.last %} {% endunless %}
+            {% endfor %}
+          </p>
+        {% endif %}
+        {% if student.internships and student.internships.size > 0 %}
+          <p class="student-card__internships"><strong>Internships:</strong> {{ student.internships | join: ", " }}</p>
+        {% endif %}
+        {% assign paper_count = student.papers | size %}
+        {% if paper_count > 0 %}
+          <details class="student-card__papers">
+            <summary>Papers ({{ paper_count }})</summary>
+            <ul>
+              {% for pid in student.papers %}
+                {% for pub in site.data.publications %}
+                  {% if pub.id == pid %}
+                    <li><a href="{{ pub.url }}">{{ pub.title }}</a></li>
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </ul>
+          </details>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 
-### Masters Students
+  <h3>BS/MS Students</h3>
+  <p><em>To be listed.</em></p>
 
-| Name | Year(s) | Topic | Affiliation |
-| --- | --- |
-| Abtin Bateni | 2021-22 | Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks | UCSB --> Google |
-| Irene Pattarachanyakul | 2020-21 | Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events | UCSB |
-| Rohan Bhatia | 2020-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Google |
-| Navya Battula | 2022-23 | Flexible and scalable data preprocessing system for `ML for Networks` pipelines | UCSB |
+  <hr>
 
+  <h2 id="alumni">Alumni</h2>
 
+  <h3>PhD Alumni</h3>
+  <div class="student-cards">
+    {% for student in site.data.students.alumni_phd %}
+    <div class="student-card">
+      <div class="student-card__image-wrap">
+        <img src="{{ base_path }}/images/students/{{ student.image }}" alt="{{ student.name }}" class="student-card__image" onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22120%22 height=%22120%22%3E%3Crect fill=%22%23666%22 width=%22120%22 height=%22120%22/%3E%3C/svg%3E';">
+      </div>
+      <div class="student-card__body">
+        <h4 class="student-card__name">
+          {% if student.website %}
+            <a href="{{ student.website }}" target="_blank" rel="noopener">{{ student.name }}</a>
+          {% else %}
+            {{ student.name }}
+          {% endif %}
+        </h4>
+        <span class="student-card__meta-line"><strong>Years:</strong> {{ student.years }}</span>
+        <span class="student-card__meta-line"><strong>Affiliation:</strong> {{ student.affiliation }}</span>
+        <p class="student-card__topic"><strong>Thesis:</strong> <a href="{{ student.thesis_url }}">{{ student.thesis_title }}</a></p>
+        <p class="student-card__placement"><strong>Placement:</strong> {{ student.placement }}</p>
+        {% if student.honors and student.honors.size > 0 %}
+          <p class="student-card__honors"><strong>Honors:</strong>
+            {% for h in student.honors %}
+              {% if h.text %}
+                {% if h.url %}<a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.text }}</a>{% else %}{{ h.text }}{% endif %}
+              {% else %}
+                {{ h }}
+              {% endif %}{% unless forloop.last %} {% endunless %}
+            {% endfor %}
+          </p>
+        {% endif %}
+        {% assign paper_count = student.papers | size %}
+        {% if paper_count > 0 %}
+          <details class="student-card__papers">
+            <summary>Papers ({{ paper_count }})</summary>
+            <ul>
+              {% for pid in student.papers %}
+                {% for pub in site.data.publications %}
+                  {% if pub.id == pid %}
+                    <li><a href="{{ pub.url }}">{{ pub.title }}</a></li>
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </ul>
+          </details>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 
-### Undergraduate Students
+  <h3>Postdoc Alumni</h3>
+  <div class="student-cards">
+    {% for student in site.data.students.alumni_postdoc %}
+    <div class="student-card">
+      <div class="student-card__image-wrap">
+        <img src="{{ base_path }}/images/students/{{ student.image }}" alt="{{ student.name }}" class="student-card__image" onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22120%22 height=%22120%22%3E%3Crect fill=%22%23666%22 width=%22120%22 height=%22120%22/%3E%3C/svg%3E';">
+      </div>
+      <div class="student-card__body">
+        <h4 class="student-card__name">
+          {% if student.website %}
+            <a href="{{ student.website }}" target="_blank" rel="noopener">{{ student.name }}</a>
+          {% else %}
+            {{ student.name }}
+          {% endif %}
+        </h4>
+        <span class="student-card__meta-line"><strong>Years:</strong> {{ student.years }}</span>
+        <span class="student-card__meta-line"><strong>Affiliation:</strong> {{ student.affiliation }}</span>
+        <p class="student-card__placement"><strong>Placement:</strong> {{ student.placement }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 
-| Name | Year(s) | Topic | Affiliation |
-| --- | --- |
-| Sam Liang, Ethan Wu | 2021-22 | QoE Estimation for Video Conferencing Applications | UCSB (ESRP) --> USC|
-| Anmol Khemuka, Hemil Panchiwala, Hemant | 2021-22 | Curating Broadband Offerings Dataset | IIT Roorkee (Thesis)|
-| Arnesh Agrawal, Aseem Verma, Divyanshu Setia | 2021-22 | QoE estimation in the wild | IIT Roorkee (Thesis)|
-| Chaofan Shou | 2021-22 | Dynamic Query Planning for Network Streaming Telemetry Systems | UCSB --> Salesforce --> UC Berkeley |
-| Jake Miller, Ruchika Saswade, John-Michael Kirchner, Matthew Aragaw| 2020-21 | Traffic Safeflisting | UCSB (ESRP)|
-| Kaustubh Trivedi | 2020-21 | Last Mile Network Telemetry System| IIT Roorkee (Thesis) --> Tournafest (Founder)|
-| Ritik Kumar | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft|
-| Bhavye Jain | 2020-21 | Last Mile Network Telemetry System | IIT Roorkee (Thesis) --> Microsoft --> **UCSB** |
-| Palak Goenka | 2020-21 | A data-driven approach for detecting network degradation |  IIT Roorkee (Thesis) --> Microsoft (Research Fellow) |
+  <h3>Others</h3>
+  <p>BS/MS and high-school project alumni.</p>
+  <div class="table-responsive">
+    <table class="students-table">
+      <thead>
+        <tr>
+          <th class="students-table__name">Name</th>
+          <th class="students-table__years">Years</th>
+          <th class="students-table__project">Project</th>
+          <th class="students-table__type">Type</th>
+          <th class="students-table__affiliation">Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign sorted_others = site.data.students.alumni_bsms | sort: "exit_year" | reverse %}
+        {% for s in sorted_others %}
+        <tr>
+          <td class="students-table__name">{{ s.name }}</td>
+          <td class="students-table__years">{{ s.years }}</td>
+          <td class="students-table__project">{{ s.project }}</td>
+          <td class="students-table__type">{{ s.type }}</td>
+          <td class="students-table__affiliation">{{ s.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 
-<!-- | Mateo Wang | 2021-22 | Characterizing Broadband Offerings in US | UCSB (ESRP)| -->
-
-
-### High School Students
-
-| Name | Year\* | Topic | Affiliation |
-| --- | --- |
-| Grant Withee | 2021-22 | Last-mile RTT for Campus Networks | Laguna Blanca School, Santa Barbara |
-
-<sub><sup>\* Latest year working with me</sup></sub>
-
-<!-- ### Other research advising
-
-| Name | Year\* | Topic | Last Known Affiliation |
-| --- | --- |
-| NDspace team | 2022 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
-| Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
-
-<sub><sup>\* Latest year working with me</sup></sub> -->
+</div>

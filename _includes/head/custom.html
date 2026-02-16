@@ -55,5 +55,70 @@
   background: #2d6a4f;
   color: #b7e4c7;
 }
+
+/* Student cards (Students page) */
+.students-page { margin-bottom: 2em; }
+.students-page h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
+.students-page h3 { margin-top: 1em; margin-bottom: 0.5em; }
+.students-page h4 { margin-top: 0.75em; margin-bottom: 0.35em; font-size: 1em; }
+.student-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.student-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  background: rgba(255,255,255,0.03);
+  min-width: 0;
+  min-height: 0;
+}
+.student-card__image-wrap { flex-shrink: 0; }
+.student-card__image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+.student-card__body { flex: 1; min-width: 0; }
+.student-card__name { margin: 0 0 0.25em; font-size: 1.1em; }
+.student-card__name a { text-decoration: underline; }
+.student-card__meta-line { margin: 0.2em 0; font-size: 0.9em; display: block; }
+.student-card__topic, .student-card__honors, .student-card__placement, .student-card__internships { margin: 0.35em 0; font-size: 0.9em; }
+.student-card__papers { margin-top: 0.5em; font-size: 0.9em; }
+.student-card__papers summary { cursor: pointer; }
+.student-card__papers ul { margin: 0.35em 0 0 1.2em; padding: 0; }
+.student-list { margin: 0.5em 0 1em; padding-left: 1.5em; }
+.student-list li { margin: 0.35em 0; }
+.student-list--structured li { margin: 0.5em 0; }
+.student-list--one-per-row { list-style: none; padding-left: 0; }
+.student-list--one-per-row li { display: block; padding: 0.5em 0; border-bottom: 1px solid rgba(255,255,255,0.1); }
+.student-list--one-per-row li:last-child { border-bottom: none; }
+.table-responsive { overflow-x: auto; margin: 1em 0; }
+.students-table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+.students-table th, .students-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid rgba(255,255,255,0.15); vertical-align: top; }
+.students-table th { background: rgba(255,255,255,0.06); font-weight: 600; }
+.students-table tbody tr:nth-child(even) { background: rgba(255,255,255,0.02); }
+.students-table .students-table__name { white-space: nowrap; }
+.students-table .students-table__years { white-space: nowrap; }
+.students-table .students-table__type { white-space: nowrap; min-width: 8.5em; }
+.students-table .students-table__project { max-width: 22em; }
+.students-table .students-table__affiliation { min-width: 0; }
+.student-list--postdoc .student-list__postdoc-item { display: flex; align-items: center; gap: 0.75rem; }
+.student-list__postdoc-avatar { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+@media (max-width: 900px) {
+  .student-cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .student-cards { grid-template-columns: 1fr; }
+  .student-card__image { width: 110px; height: 110px; }
+}
 </style>
 <!-- end custom head snippets -->

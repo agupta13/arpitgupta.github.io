@@ -1,0 +1,420 @@
+# Students data for /students/ page.
+# Update this file and add images under images/students/<slug>.jpg as needed.
+# Use placeholder.jpg for missing headshots; set headshot_todo: true in YAML if needed.
+
+current_phd:
+  - slug: sanjay-chandrasekaran
+    name: Sanjay Chandrasekaran
+    years: "2019-*"
+    topic: QoE Optimization
+    affiliation: UCSB
+    website: "http://sites.cs.ucsb.edu/~sanjaychandrasekaran/"
+    image: sanjay-chandrasekaran.jpg
+    honors:
+      - text: "M-Lab Research Fellowship 2022"
+        url: "https://cs.ucsb.edu/index.php/happenings/news/sanjay-chandrasekaran-received-m-labs-research-fellowship-2022"
+    internships: []  # add if known; otherwise omit or leave empty
+    papers: [netgent, netreplica, pinot]
+
+  - slug: sylee-beltiukov
+    name: Sylee Beltiukov
+    years: "2021-*"
+    topic: Production-Ready ML
+    affiliation: UCSB
+    website: "https://maybe-hello-world.github.io/"
+    image: sylee-beltiukov.jpg
+    honors:
+      - "IRTF Applied Networking Research Prize (ANRP), IETF/IRTF, 2023."
+      - "Best Paper Honorable Mention, ACM CCS, 2022."
+    internships: []
+    papers: [demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
+
+  - slug: satyandra-guthula
+    name: Satyandra Guthula
+    years: "2022-*"
+    topic: Network Foundation Models
+    affiliation: UCSB
+    website: "https://www.linkedin.com/in/satyandra-guthula-59b25363/"
+    image: satyandra-guthula.png
+    honors: []
+    internships: []
+    papers: [demystifying-nfm, netreplica, netburst, netfound, harnessing-public-code]
+
+  - slug: jaber-daneshamooz
+    name: Jaber Daneshamooz
+    years: "2023-*"
+    topic: Prog. Data-Generation Substrate for Networking
+    affiliation: UCSB
+    website: "https://github.com/jaber-the-great"
+    image: jaber-daneshamooz.jpg
+    honors: []
+    internships: []
+    papers: [netgent, netreplica, netburst]
+
+  - slug: haarika-manda
+    name: Haarika Manda
+    years: "2023-*"
+    topic: Data-driven Policymaking
+    affiliation: UCSB (co-advised with Prof. Belding)
+    website: "https://haarikamanda.github.io/"
+    image: haarika-manda.jpg
+    honors:
+      - "IRTF Applied Networking Research Prize (ANRP), SIGCOMM, 2024."
+    internships: []
+    papers: [turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
+
+  - slug: laasya-koduru
+    name: Laasya Koduru
+    years: "2024-*"
+    topic: Broadband Affordability/Adoption Data Infrastructure
+    affiliation: UCSB (co-advised with Prof. Belding)
+    website: "https://lmkoduru.github.io/"
+    image: laasya-koduru.jpg
+    honors:
+      - "DOE GEM Fellowship."
+    internships: []
+    papers: [beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
+
+  - slug: manni-moghimi
+    name: Manni Moghimi
+    years: "2025-*"
+    topic: Broadband Quality Data Infrastructure
+    affiliation: UCSB
+    website: "https://github.com/Manni-MinM"
+    image: manni-moghimi.jpg
+    honors: []
+    internships: []
+    papers: []
+
+# BS/MS: grouped by ERSP, Cal-Bridge, Other (infer from existing page; "ESRP" in content -> ERSP)
+bsms_ersp:
+  - name: Sam Liang, Ethan Wu
+    years: "2021-22"
+    topic: QoE Estimation for Video Conferencing Applications
+    affiliation: UCSB → USC
+  - name: Jake Miller, Ruchika Saswade, John-Michael Kirchner, Matthew Aragaw
+    years: "2020-21"
+    topic: Traffic Safeflisting
+    affiliation: UCSB
+
+bsms_cal_bridge: []  # none explicitly labeled Cal-Bridge on current page
+
+bsms_other:
+  - name: Abtin Bateni
+    years: "2021-22"
+    topic: Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks
+    affiliation: UCSB → Google
+  - name: Irene Pattarachanyakul
+    years: "2020-21"
+    topic: Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events
+    affiliation: UCSB
+  - name: Rohan Bhatia
+    years: "2020-22"
+    topic: Dynamic Query Planning for Network Streaming Telemetry Systems
+    affiliation: UCSB → Google
+  - name: Navya Battula
+    years: "2022-23"
+    topic: Flexible and scalable data preprocessing system for ML for Networks pipelines
+    affiliation: UCSB
+  - name: Chaofan Shou
+    years: "2021-22"
+    topic: Dynamic Query Planning for Network Streaming Telemetry Systems
+    affiliation: UCSB → Salesforce → UC Berkeley
+  - name: Anmol Khemuka, Hemil Panchiwala, Hemant
+    years: "2021-22"
+    topic: Curating Broadband Offerings Dataset
+    affiliation: IIT Roorkee
+  - name: Arnesh Agrawal, Aseem Verma, Divyanshu Setia
+    years: "2021-22"
+    topic: QoE estimation in the wild
+    affiliation: IIT Roorkee
+  - name: Kaustubh Trivedi
+    years: "2020-21"
+    topic: Last Mile Network Telemetry System
+    affiliation: IIT Roorkee → Tournafest (Founder)
+  - name: Ritik Kumar
+    years: "2020-21"
+    topic: Last Mile Network Telemetry System
+    affiliation: IIT Roorkee → Microsoft
+  - name: Bhavye Jain
+    years: "2020-21"
+    topic: Last Mile Network Telemetry System
+    affiliation: IIT Roorkee → Microsoft → UCSB
+  - name: Palak Goenka
+    years: "2020-21"
+    topic: A data-driven approach for detecting network degradation
+    affiliation: IIT Roorkee → Microsoft (Research Fellow)
+
+# High school -> treat as Other BS/MS or separate; task said "BS/MS Alumni" and "keep whatever exists". Keeping as structured list under "Other" for undergrads; high school separate if desired. Task says "BS/MS Students" and "BS/MS Alumni" - so undergrads + MS go here. Current page has "Masters Students" and "Undergraduate Students". So ERSP/Cal-Bridge/Other are for undergrads; MS could be in Other. Done above.
+
+alumni_phd:
+  - slug: udit-paul
+    name: Udit Paul
+    years: "2018-2023"
+    thesis_title: "Towards Bridging the Divide: Enhancing Understanding of Digital Inequity"
+    thesis_url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf"
+    affiliation: UCSB (co-advised with Prof. Belding)
+    website: "https://u-paul.github.io/"
+    image: udit-paul.jpg
+    placement: "Ookla → ThousandEyes (Cisco)"
+    honors:
+      - "SIGCOMM Doctoral Dissertation Award."
+    internships: []
+    papers: [decoding-divide, speedtest, chicago-digital-divide, compass22, characterizing-ookla, non-binary-coverage, too-late-playback, caf-sigcomm24, measuring-broadband-blog]
+
+alumni_postdoc:
+  - slug: hooman-mohajeri
+    name: Hooman Mohajeri
+    years: "12/2022–11/2023"
+    affiliation: UCSB
+    website: "https://hoomanm.info/"
+    image: hooman-mohajeri.jpg
+    placement: "Startup (current)"
+
+# Others: BS/MS and high-school alumni. type = ERSP | Cal-Bridge | BS Thesis | BS Project | MS Thesis | MS Project | High School Project
+alumni_bsms:
+  - name: Abtin Bateni
+    years: "2021-22"
+    exit_year: 2022
+    project: Flexible and Scalable Network (Labelled) Data Collection Testbed for Campus Networks
+    type: MS Project
+    affiliation: UCSB → Google
+  - name: Irene Pattarachanyakul
+    years: "2020-21"
+    exit_year: 2021
+    project: Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events
+    type: MS Project
+    affiliation: UCSB
+  - name: Rohan Bhatia
+    years: "2020-22"
+    exit_year: 2022
+    project: Dynamic Query Planning for Network Streaming Telemetry Systems
+    type: MS Project
+    affiliation: UCSB → Google
+  - name: Navya Battula
+    years: "2022-23"
+    exit_year: 2023
+    project: Flexible and scalable data preprocessing system for ML for Networks pipelines
+    type: MS Thesis
+    affiliation: UCSB
+  - name: Sam Liang
+    years: "2021-22"
+    exit_year: 2022
+    project: QoE Estimation for Video Conferencing Applications
+    type: ERSP
+    affiliation: UCSB → USC
+  - name: Ethan Wu
+    years: "2021-22"
+    exit_year: 2022
+    project: QoE Estimation for Video Conferencing Applications
+    type: ERSP
+    affiliation: UCSB → USC
+  - name: Anmol Khemuka
+    years: "2021-22"
+    exit_year: 2022
+    project: Curating Broadband Offerings Dataset
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Hemil Panchiwala
+    years: "2021-22"
+    exit_year: 2022
+    project: Curating Broadband Offerings Dataset
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Hemant
+    years: "2021-22"
+    exit_year: 2022
+    project: Curating Broadband Offerings Dataset
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Arnesh Agrawal
+    years: "2021-22"
+    exit_year: 2022
+    project: QoE estimation in the wild
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Aseem Verma
+    years: "2021-22"
+    exit_year: 2022
+    project: QoE estimation in the wild
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Divyanshu Setia
+    years: "2021-22"
+    exit_year: 2022
+    project: QoE estimation in the wild
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Chaofan Shou
+    years: "2021-22"
+    exit_year: 2022
+    project: Dynamic Query Planning for Network Streaming Telemetry Systems
+    type: BS Project
+    affiliation: UCSB → Salesforce → UC Berkeley
+  - name: Jake Miller
+    years: "2020-21"
+    exit_year: 2021
+    project: Traffic Safeflisting
+    type: ERSP
+    affiliation: UCSB
+  - name: Ruchika Saswade
+    years: "2020-21"
+    exit_year: 2021
+    project: Traffic Safeflisting
+    type: ERSP
+    affiliation: UCSB
+  - name: John-Michael Kirchner
+    years: "2020-21"
+    exit_year: 2021
+    project: Traffic Safeflisting
+    type: ERSP
+    affiliation: UCSB
+  - name: Matthew Aragaw
+    years: "2020-21"
+    exit_year: 2021
+    project: Traffic Safeflisting
+    type: ERSP
+    affiliation: UCSB
+  - name: Kaustubh Trivedi
+    years: "2020-21"
+    exit_year: 2021
+    project: Last Mile Network Telemetry System
+    type: BS Thesis
+    affiliation: IIT Roorkee → Tournafest (Founder)
+  - name: Ritik Kumar
+    years: "2020-21"
+    exit_year: 2021
+    project: Last Mile Network Telemetry System
+    type: BS Thesis
+    affiliation: IIT Roorkee → Microsoft
+  - name: Bhavye Jain
+    years: "2020-21"
+    exit_year: 2021
+    project: Last Mile Network Telemetry System
+    type: BS Thesis
+    affiliation: IIT Roorkee → Microsoft → UCSB
+  - name: Palak Goenka
+    years: "2020-21"
+    exit_year: 2021
+    project: A data-driven approach for detecting network degradation
+    type: BS Thesis
+    affiliation: IIT Roorkee → Microsoft (Research Fellow)
+  - name: Grant Withee
+    years: "2021-22"
+    exit_year: 2022
+    project: Last-mile RTT for Campus Networks
+    type: High School Project
+    affiliation: Laguna Blanca School, Santa Barbara
+  - name: Rohan Bhatia
+    years: "2019-20"
+    exit_year: 2020
+    project: Scalability and robustness of flexible network-monitoring systems
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Samagra Sharma
+    years: "2019-20"
+    exit_year: 2020
+    project: Scalability and robustness of flexible network-monitoring systems
+    type: BS Thesis
+    affiliation: IIT Roorkee
+  - name: Ziv Weissman
+    years: "2024-25"
+    exit_year: 2025
+    project: Early speed termination
+    type: BS Project
+    affiliation: UCSB
+  - name: Karthik Bhattaram
+    years: "2024-25"
+    exit_year: 2025
+    project: Leveraging Large Language Models to Contextualize Network Measurements
+    type: ERSP
+    affiliation: UCSB
+  - name: Evania Cheng
+    years: "2024-25"
+    exit_year: 2025
+    project: Leveraging Large Language Models to Contextualize Network Measurements
+    type: ERSP
+    affiliation: UCSB
+  - name: Akul Singh
+    years: "2024-25"
+    exit_year: 2025
+    project: Leveraging Large Language Models to Contextualize Network Measurements
+    type: ERSP
+    affiliation: UCSB
+  - name: Ken Thampiratwong
+    years: "2024-25"
+    exit_year: 2025
+    project: Leveraging Large Language Models to Contextualize Network Measurements
+    type: ERSP
+    affiliation: UCSB
+  # ERSP 2022-23: Modeling the Decision-Making Process of Black Box Models
+  - name: Michael Yang
+    years: "2022-23"
+    exit_year: 2023
+    project: Modeling the Decision-Making Process of Black Box Models
+    type: ERSP
+    affiliation: UCSB
+  - name: Emily Hu
+    years: "2022-23"
+    exit_year: 2023
+    project: Modeling the Decision-Making Process of Black Box Models
+    type: ERSP
+    affiliation: UCSB
+  - name: Aditi Phatak
+    years: "2022-23"
+    exit_year: 2023
+    project: Modeling the Decision-Making Process of Black Box Models
+    type: ERSP
+    affiliation: UCSB
+  - name: Luis Bravo
+    years: "2022-23"
+    exit_year: 2023
+    project: Modeling the Decision-Making Process of Black Box Models
+    type: ERSP
+    affiliation: UCSB
+  - name: Abel Atnafu
+    years: "2022-23"
+    exit_year: 2023
+    project: Modeling the Decision-Making Process of Black Box Models
+    type: ERSP
+    affiliation: UCSB
+  # Cal-Bridge
+  - name: Robin Martin
+    years: "2023"
+    exit_year: 2023
+    project: Visualizing Disparities in Broadband Plans Offered by Major US ISPs
+    type: Cal-Bridge
+    affiliation: CSU Stan
+  # ERSP
+  - name: Kevin Zhang
+    years: "2023-24"
+    exit_year: 2024
+    project: Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US
+    type: ERSP
+    affiliation: UCSB
+  # BITS Hyderabad (undergrad project before PhD at UCSB)
+  - name: Haarika Manda
+    years: "2022-23"
+    exit_year: 2023
+    project: Speed test contextualization
+    type: BS Project
+    affiliation: BITS Hyderabad
+  # Summer intern 2024–25
+  - name: Daphne Jomo
+    years: "2024-25"
+    exit_year: 2025
+    project: Replication of BST Methodology (IMC'23 Best Paper)
+    type: BS Project
+    affiliation: San Francisco State University
+  - name: Xuanhe Zhou
+    years: "2023-24"
+    exit_year: 2024
+    project: "Analyzing the Impact of Socioeconomic Factors on Broadband Pricing: Insights from the Broadband-plan Querying Tool"
+    type: MS Project
+    affiliation: UCSB
+  - name: Alexander Nguyen
+    years: "2025"
+    exit_year: 2025
+    project: Assessing Density-Driven Disparities in Broadband Access and Pricing
+    type: MS Project
+    affiliation: UCSB
