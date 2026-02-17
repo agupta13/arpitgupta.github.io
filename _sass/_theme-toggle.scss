@@ -116,13 +116,23 @@ p {
   color: var(--link-hover);
 }
 
-/* Social icons (sidebar): use theme link/text so GitHub etc. visible in dark theme */
+/* Social icons (sidebar): use theme link color so GitHub etc. visible in dark theme (override dark-on-dark) */
 .author__urls .social-icons .fa,
 .author__urls .social-icons .fab {
   color: var(--link) !important;
 }
+.author__urls .social-icons .fa-github,
+.author__urls .social-icons .fa-github-alt,
+.author__urls .social-icons .fa-github-square {
+  color: var(--link) !important;
+}
 .author__urls .social-icons a:hover .fa,
 .author__urls .social-icons a:hover .fab {
+  color: var(--link-hover) !important;
+}
+.author__urls .social-icons a:hover .fa-github,
+.author__urls .social-icons a:hover .fa-github-alt,
+.author__urls .social-icons a:hover .fa-github-square {
   color: var(--link-hover) !important;
 }
 
