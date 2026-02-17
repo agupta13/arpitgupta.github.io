@@ -130,6 +130,11 @@ current_bsms:
     project: NetVibe
     type: Other
     affiliation: UCSB
+  - name: Shaunak Girishant Umarkhedi
+    years: "2025-*"
+    project: NetVibe
+    type: Other
+    affiliation: Cornell University
 
 # BS/MS alumni: grouped by ERSP, Cal-Bridge, Other (infer from existing page; "ESRP" in content -> ERSP)
 bsms_ersp:

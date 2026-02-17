@@ -1,0 +1,173 @@
+/* ==========================================================================
+   Theme toggle: CSS variables + overrides (dark default, light override)
+   ========================================================================== */
+
+:root,
+html[data-theme="dark"] {
+  --bg: #0b0d10;
+  --surface: #0f1216;
+  --text: #e7e7e7;
+  --muted: #a1a1aa;
+  --border: rgba(255, 255, 255, 0.1);
+  --link: #d6c08d;
+  --link-hover: #ead9b2;
+  --code-bg: rgba(255, 255, 255, 0.06);
+}
+
+/* Light theme: UCSB brand (cs.ucsb.edu) — Navy #003660, text #3D4952, light gray surfaces */
+html[data-theme="light"] {
+  --bg: #ffffff;
+  --surface: #eef0f2;
+  --text: #3d4952;
+  --muted: #5c6b76;
+  --border: rgba(61, 73, 82, 0.15);
+  --link: #003660;
+  --link-hover: #002640;
+  --code-bg: #dce1e5;
+}
+
+/* Base: html/body use theme vars */
+html,
+body {
+  background-color: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings: weight + tracking */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text);
+  font-weight: 600;
+}
+
+h1, h2 {
+  letter-spacing: -0.02em;
+}
+
+/* Links: restrained, no neon */
+a {
+  color: var(--link);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Borders */
+hr,
+.page__content table,
+.archive table,
+table th,
+table td {
+  border-color: var(--border) !important;
+}
+
+/* Code: background from var only; monospace fonts left unchanged */
+.highlight pre,
+pre {
+  background-color: var(--code-bg) !important;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+.page__content code:not(pre code),
+p code,
+li code {
+  background-color: var(--code-bg) !important;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+/* Paragraph rhythm */
+.page__content p,
+.archive p,
+p {
+  line-height: 1.65;
+}
+
+/* Masthead / nav surface */
+.masthead,
+.greedy-nav {
+  background: var(--surface) !important;
+  border-bottom: 1px solid var(--border);
+}
+
+.greedy-nav a {
+  color: var(--text);
+}
+
+.greedy-nav a:hover {
+  color: var(--link-hover);
+}
+
+/* Theme toggle button (in masthead; greedy-nav puts all buttons position:absolute right:0) */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  margin-left: 0.5rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  transition: background 0.15s ease;
+}
+
+/* Sit to the left of the hamburger so both are visible */
+.greedy-nav .theme-toggle {
+  right: 2.75rem;
+  left: auto;
+  top: 0;
+  height: 100%;
+  margin-left: 0;
+  background-color: transparent !important;
+  border: 1px solid var(--border);
+  color: var(--text) !important;
+}
+
+.theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+html[data-theme="light"] .theme-toggle:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.theme-toggle__icon {
+  display: block;
+}
+
+/* Landing page: prominent theme toggle above main content */
+.theme-toggle-landing {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  padding: 0.5rem 0;
+}
+
+.theme-toggle-landing__label {
+  font-size: 0.9em;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.theme-toggle-landing__hint {
+  font-size: 0.85em;
+  color: var(--muted);
+}
+
+.theme-toggle--landing {
+  flex-shrink: 0;
+}

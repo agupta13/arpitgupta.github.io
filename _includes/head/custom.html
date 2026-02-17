@@ -1,4 +1,7 @@
 {% include base_path %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <!-- start custom head snippets -->
 
@@ -36,6 +39,29 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
+/* Consistent base font size for content and tables across all pages */
+.page__content table,
+.archive table { font-size: 1em; }
+/* Archive pages (Teaching, Research): main text matches landing/research */
+.archive { font-size: 1em; }
+/* Teaching table: proportional columns, consistent across screen sizes */
+.teaching-table {
+  table-layout: fixed;
+  width: 100%;
+  margin: 1em 0;
+  border-collapse: collapse;
+  border: 1px solid rgba(0,0,0,0.1);
+  font-size: 1em;
+}
+.teaching-table th,
+.teaching-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid rgba(0,0,0,0.1); }
+.teaching-table thead th { background: rgba(0,0,0,0.05); font-weight: 600; }
+.teaching-table th:nth-child(1),
+.teaching-table td:nth-child(1) { width: 18%; }
+.teaching-table th:nth-child(2),
+.teaching-table td:nth-child(2) { width: 16%; }
+.teaching-table th:nth-child(3),
+.teaching-table td:nth-child(3) { width: 66%; min-width: 0; }
 .pub-badge {
   display: inline-block;
   font-size: 0.65em;
@@ -58,7 +84,7 @@
 
 /* Student cards (Students page) */
 .students-page { margin-bottom: 2em; }
-.students-page__summary { margin-bottom: 1.5em; padding: 0.6em 0; font-size: 0.95em; }
+.students-page__summary { margin-bottom: 1.5em; padding: 0.6em 0; font-size: 1em; }
 .students-page h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
 .students-page h3 { margin-top: 1em; margin-bottom: 0.5em; }
 .students-page h4 { margin-top: 0.75em; margin-bottom: 0.35em; font-size: 1em; }
@@ -89,11 +115,11 @@
   display: block;
 }
 .student-card__body { flex: 1; min-width: 0; }
-.student-card__name { margin: 0 0 0.25em; font-size: 1.1em; }
+.student-card__name { margin: 0 0 0.25em; font-size: 1em; }
 .student-card__name a { text-decoration: underline; }
-.student-card__meta-line { margin: 0.2em 0; font-size: 0.9em; display: block; }
-.student-card__topic, .student-card__honors, .student-card__placement, .student-card__internships { margin: 0.35em 0; font-size: 0.9em; }
-.student-card__papers { margin-top: 0.5em; font-size: 0.9em; }
+.student-card__meta-line { margin: 0.2em 0; font-size: 1em; display: block; }
+.student-card__topic, .student-card__honors, .student-card__placement, .student-card__internships { margin: 0.35em 0; font-size: 1em; }
+.student-card__papers { margin-top: 0.5em; font-size: 1em; }
 .student-card__papers summary { cursor: pointer; }
 .student-card__papers ul { margin: 0.35em 0 0 1.2em; padding: 0; }
 .student-list { margin: 0.5em 0 1em; padding-left: 1.5em; }
@@ -103,7 +129,7 @@
 .student-list--one-per-row li { display: block; padding: 0.5em 0; border-bottom: 1px solid rgba(255,255,255,0.1); }
 .student-list--one-per-row li:last-child { border-bottom: none; }
 .table-responsive { overflow-x: auto; margin: 1em 0; }
-.students-table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+.students-table { width: 100%; border-collapse: collapse; font-size: 1em; }
 .students-table th, .students-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid rgba(255,255,255,0.15); vertical-align: top; }
 .students-table th { background: rgba(255,255,255,0.06); font-weight: 600; }
 .students-table tbody tr:nth-child(even) { background: rgba(255,255,255,0.02); }
@@ -122,4 +148,5 @@
   .student-card__image { width: 110px; height: 110px; }
 }
 </style>
+<script src="{{ base_path }}/assets/js/theme-toggle.js" defer></script>
 <!-- end custom head snippets -->
