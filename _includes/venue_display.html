@@ -1,0 +1,38 @@
+{% comment %}Normalize venue to consistent display names. arXiv kept with numbers. Output is captured by caller.{% endcomment %}
+{% assign v = include.venue | default: "" %}
+{% assign out = v %}
+{% if v != "" %}
+  {% if v contains "SIGCOMM" %}
+    {% if v contains "Shorts" %}{% assign out = "ACM SIGCOMM (Shorts)" %}
+    {% elsif v contains "CCR" or v contains "Computer Communication Review" %}{% assign out = "ACM SIGCOMM CCR" %}
+    {% elsif v contains "CoNEXT" %}{% assign out = "ACM CoNEXT" %}
+    {% elsif v contains "IMC" %}{% assign out = "ACM IMC" %}
+    {% elsif v contains "SPIN" %}{% assign out = "ACM SIGCOMM SPIN" %}
+    {% else %}{% assign out = "ACM SIGCOMM" %}
+    {% endif %}
+  {% elsif v contains "NSDI" %}{% assign out = "USENIX NSDI" %}
+  {% elsif v contains "IMC" %}{% assign out = "ACM IMC" %}
+  {% elsif v contains "CCS" %}{% assign out = "ACM CCS" %}
+  {% elsif v contains "ANRW" %}{% assign out = "IRTF ANRW" %}
+  {% elsif v contains "VLDB" %}{% assign out = "ACM VLDB" %}
+  {% elsif v contains "HotNets" %}{% assign out = "ACM HotNets" %}
+  {% elsif v contains "SOSR" %}{% assign out = "ACM SOSR" %}
+  {% elsif v contains "COMPASS" %}{% assign out = "ACM COMPASS" %}
+  {% elsif v contains "TPRC" or v contains "Telecommunications Policy Research" %}{% assign out = "TPRC" %}
+  {% elsif v contains "NeurIPS" %}
+    {% if v contains "Workshop" %}{% assign out = "NeurIPS Workshop (MLforSys)" %}
+    {% elsif v contains "Dataset" %}{% assign out = "NeurIPS (Dataset and Benchmarking Track)" %}
+    {% else %}{% assign out = "NeurIPS" %}
+    {% endif %}
+  {% elsif v contains "arXiv" %}{% assign out = v %}
+  {% elsif v contains "Security and Privacy" or v contains "S&P" %}{% assign out = "IEEE S&P" %}
+  {% elsif v contains "IWQoS" %}{% assign out = "IWQoS" %}
+  {% elsif v contains "PAM" or v contains "Passive and Active" %}{% assign out = "PAM" %}
+  {% elsif v contains "INFOCOMM" or v contains "INFOCOM" %}{% assign out = "INFOCOM" %}
+  {% elsif v contains "NetAI" %}{% assign out = "NetAI" %}
+  {% elsif v contains "APNet" %}{% assign out = "APNet" %}
+  {% elsif v contains "ICCCN" %}{% assign out = "ICCCN" %}
+  {% elsif v contains "Self-Driving Networks" or v contains "Measurements for Self" %}{% assign out = "SIGMETRICS Workshop (Self-Driving Networks)" %}
+  {% endif %}
+{% endif %}
+{{ out }}

@@ -116,6 +116,16 @@ p {
   color: var(--link-hover);
 }
 
+/* Social icons (sidebar): use theme link/text so GitHub etc. visible in dark theme */
+.author__urls .social-icons .fa,
+.author__urls .social-icons .fab {
+  color: var(--link) !important;
+}
+.author__urls .social-icons a:hover .fa,
+.author__urls .social-icons a:hover .fab {
+  color: var(--link-hover) !important;
+}
+
 /* Theme toggle button (in masthead; greedy-nav puts all buttons position:absolute right:0) */
 .theme-toggle {
   display: inline-flex;

@@ -206,7 +206,7 @@ alumni_phd:
     affiliation: UCSB (co-advised with Prof. Belding)
     website: "https://u-paul.github.io/"
     image: udit-paul.jpg
-    placement: "Ookla → ThousandEyes (Cisco)"
+    placement: "Ookla → Thousand Eyes (Cisco)"
     honors:
       - "SIGCOMM Doctoral Dissertation Award."
     internships: []
