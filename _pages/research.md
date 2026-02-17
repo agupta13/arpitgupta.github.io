@@ -77,7 +77,7 @@ This program establishes validated foundations for agentic and AI-powered networ
 ### Deployment and Engagement
 
 We actively engage with the [Energy Sciences Network (ESnet)](https://www.es.net/) to explore how AIOps frameworks can support large-scale scientific infrastructure — advancing adaptive traffic management, scalable telemetry analysis, and AI-driven operational intelligence in production environments.
-
+<!-- 
 ## A Unifying Architectural Thesis
 
 My research advances a coherent and long-term position:
@@ -95,7 +95,7 @@ The architectural commitment is deliberate:
 
 In broadband policy, this architecture enables transparency, accountability, and evidence-driven investment. In network operations, it enables adaptive, reliable, and deployable AIOps.
 
-This thesis defines the trajectory of my work: **build agentic, validated data systems that elevate digital infrastructure from reactive management to accountable, intelligent operation.** From BQT+ and NetVibe to netFound, NetBurst, and emerging agentic platforms, each system advances this architectural transformation.
+This thesis defines the trajectory of my work: **build agentic, validated data systems that elevate digital infrastructure from reactive management to accountable, intelligent operation.** From BQT+ and NetVibe to netFound, NetBurst, and emerging agentic platforms, each system advances this architectural transformation. -->
 
 ## Representative Systems
 
