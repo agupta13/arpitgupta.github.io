@@ -12,6 +12,7 @@ html[data-theme="dark"] {
   --link: #d6c08d;
   --link-hover: #ead9b2;
   --code-bg: rgba(255, 255, 255, 0.06);
+  --table-header-bg: rgba(255, 255, 255, 0.1);
 }
 
 /* Light theme: UCSB brand (cs.ucsb.edu) — Navy #003660, text #3D4952, light gray surfaces */
@@ -24,6 +25,7 @@ html[data-theme="light"] {
   --link: #003660;
   --link-hover: #002640;
   --code-bg: #dce1e5;
+  --table-header-bg: #dce1e5;
 }
 
 /* Base: html/body use theme vars */
@@ -65,6 +67,15 @@ hr,
 table th,
 table td {
   border-color: var(--border) !important;
+}
+
+/* Table headers: legible in both themes (override base thead + teaching/students) */
+thead,
+thead th,
+.teaching-table thead th,
+.students-table th {
+  background: var(--table-header-bg) !important;
+  color: var(--text) !important;
 }
 
 /* Code: background from var only; monospace fonts left unchanged */

@@ -54,8 +54,8 @@
   font-size: 1em;
 }
 .teaching-table th,
-.teaching-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid rgba(0,0,0,0.1); }
-.teaching-table thead th { background: rgba(0,0,0,0.05); font-weight: 600; }
+.teaching-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid var(--border, rgba(0,0,0,0.1)); }
+.teaching-table thead th { background: var(--table-header-bg) !important; color: var(--text) !important; font-weight: 600; }
 .teaching-table th:nth-child(1),
 .teaching-table td:nth-child(1) { width: 18%; }
 .teaching-table th:nth-child(2),
@@ -130,8 +130,8 @@
 .student-list--one-per-row li:last-child { border-bottom: none; }
 .table-responsive { overflow-x: auto; margin: 1em 0; }
 .students-table { width: 100%; border-collapse: collapse; font-size: 1em; }
-.students-table th, .students-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid rgba(255,255,255,0.15); vertical-align: top; }
-.students-table th { background: rgba(255,255,255,0.06); font-weight: 600; }
+.students-table th, .students-table td { padding: 0.5em 0.75em; text-align: left; border: 1px solid var(--border, rgba(255,255,255,0.15)); vertical-align: top; }
+.students-table th { background: var(--table-header-bg) !important; color: var(--text) !important; font-weight: 600; }
 .students-table tbody tr:nth-child(even) { background: rgba(255,255,255,0.02); }
 .students-table .students-table__name { white-space: nowrap; }
 .students-table .students-table__years { white-space: nowrap; }
