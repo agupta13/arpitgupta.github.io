@@ -74,7 +74,7 @@ current_phd:
     honors:
       - "DOE GEM Fellowship."
     internships: []
-    papers: [beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
+    papers: [bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: manni-moghimi
     name: Manni Moghimi

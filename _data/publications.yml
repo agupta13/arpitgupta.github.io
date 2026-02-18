@@ -9,6 +9,14 @@
   venue: "Benton Institute for Broadband & Society"
   year: "2026"
 
+- id: bead-affordability-policy-brief
+  title: "Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations"
+  url: "https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf"
+  badge: policy
+  authors: "H. Galperin, F. Bar, A. Gupta, E. Belding, L. Koduru"
+  venue: "MEDIA Project Phase 3, USC Annenberg"
+  year: "2025"
+
 - id: turbotest
   title: "TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests"
   url: "https://arxiv.org/pdf/2510.21141"
