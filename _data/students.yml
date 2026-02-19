@@ -208,7 +208,8 @@ alumni_phd:
     image: udit-paul.jpg
     placement: "Ookla → Thousand Eyes (Cisco)"
     honors:
-      - "SIGCOMM Doctoral Dissertation Award."
+      - "Distinguished Paper Award, IMC 2022."
+      - "Doctoral Dissertation Award, SIGCOMM 2024."
     internships: []
     papers: [decoding-divide, speedtest, chicago-digital-divide, compass22, characterizing-ookla, non-binary-coverage, too-late-playback, caf-sigcomm24, measuring-broadband-blog]
 
