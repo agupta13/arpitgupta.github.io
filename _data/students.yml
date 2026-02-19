@@ -14,7 +14,7 @@ current_phd:
     honors:
       - text: "M-Lab Research Fellowship 2022"
         url: "https://cs.ucsb.edu/index.php/happenings/news/sanjay-chandrasekaran-received-m-labs-research-fellowship-2022"
-    internships: []  # add if known; otherwise omit or leave empty
+    internships: ["Google (2023, 2024)"]
     papers: [netgent, netreplica, pinot]
 
   - slug: sylee-beltiukov
@@ -27,7 +27,7 @@ current_phd:
     honors:
       - "IRTF Applied Networking Research Prize (ANRP), IETF/IRTF, 2023."
       - "Best Paper Honorable Mention, ACM CCS, 2022."
-    internships: []
+    internships: ["Google (2024, 2025)"]
     papers: [demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
 
   - slug: satyandra-guthula
@@ -38,7 +38,7 @@ current_phd:
     website: "https://www.linkedin.com/in/satyandra-guthula-59b25363/"
     image: satyandra-guthula.png
     honors: []
-    internships: []
+    internships: ["Lawrence Berkeley National Lab (2024, 2025)"]
     papers: [demystifying-nfm, netreplica, netburst, netfound, when-something, harnessing-public-code]
 
   - slug: jaber-daneshamooz
@@ -61,7 +61,7 @@ current_phd:
     image: haarika-manda.jpg
     honors:
       - "IRTF Applied Networking Research Prize (ANRP), SIGCOMM, 2024."
-    internships: []
+    internships: ["Idaho National Lab (2024)"]
     papers: [turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: laasya-koduru
@@ -73,7 +73,7 @@ current_phd:
     image: laasya-koduru.jpg
     honors:
       - "DOE GEM Fellowship."
-    internships: []
+    internships: ["Idaho National Lab (2025)"]
     papers: [netgent, bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: manni-moghimi
