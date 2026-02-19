@@ -1,0 +1,21 @@
+{% assign phd_count = site.data.students.current_phd | size %}
+{% assign ms_count = site.data.students.current_ms | size %}
+{% assign bs_count = site.data.students.current_bsms | size %}
+{% assign hs_count = site.data.students.current_high_school | size %}
+{% assign postdoc_count = site.data.students.current_postdoc | size %}
+{% assign alumni_phd_count = site.data.students.alumni_phd | size %}
+{% assign alumni_postdoc_count = site.data.students.alumni_postdoc | size %}
+{% assign alumni_by_type = site.data.students.alumni_bsms | group_by: "type" %}
+{% assign alumni_ms_count = 0 %}
+{% assign alumni_bs_count = 0 %}
+{% assign alumni_hs_count = 0 %}
+{% for group in alumni_by_type %}
+  {% if group.name == "MS Thesis" or group.name == "MS Project" %}
+    {% assign alumni_ms_count = alumni_ms_count | plus: group.items.size %}
+  {% elsif group.name == "High School Project" %}
+    {% assign alumni_hs_count = alumni_hs_count | plus: group.items.size %}
+  {% else %}
+    {% assign alumni_bs_count = alumni_bs_count | plus: group.items.size %}
+  {% endif %}
+{% endfor %}
+<p class="students-summary students-page__summary">The group currently includes {{ phd_count }} PhD student{% if phd_count != 1 %}s{% endif %}{% if ms_count > 0 %}, {{ ms_count }} MS{% endif %}{% if bs_count > 0 %}, {{ bs_count }} BS{% endif %}{% if hs_count > 0 %}, {{ hs_count }} high school{% endif %}{% if postdoc_count > 0 %}, and {{ postdoc_count }} postdoc{% if postdoc_count != 1 %}s{% endif %}{% endif %}; our alumni include {{ alumni_phd_count }} PhD graduate{% if alumni_phd_count != 1 %}s{% endif %}{% if alumni_postdoc_count > 0 %}, {{ alumni_postdoc_count }} postdoc{% if alumni_postdoc_count != 1 %}s{% endif %}{% endif %}, {{ alumni_ms_count }} MS, {{ alumni_bs_count }} BS, and {{ alumni_hs_count }} high school.</p>
