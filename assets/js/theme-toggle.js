@@ -5,12 +5,12 @@
   if (saved === "light" || saved === "dark") {
     root.setAttribute("data-theme", saved);
   } else {
-    root.setAttribute("data-theme", "dark");
+    root.setAttribute("data-theme", "light");
   }
 
   var updateAllPressed = function () {
     var theme = root.getAttribute("data-theme");
-    var pressed = theme === "dark" ? "true" : "false";
+    var pressed = theme === "light" ? "true" : "false";
     document.querySelectorAll(".theme-toggle").forEach(function (btn) {
       btn.setAttribute("aria-pressed", pressed);
     });

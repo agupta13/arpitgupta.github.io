@@ -1,21 +1,9 @@
 /* ==========================================================================
-   Theme toggle: CSS variables + overrides (dark default, light override)
+   Theme toggle: CSS variables + overrides (light default, dark override)
    ========================================================================== */
 
+/* Light theme (default): UCSB brand (cs.ucsb.edu) — Navy #003660, text #3D4952, light gray surfaces */
 :root,
-html[data-theme="dark"] {
-  --bg: #0b0d10;
-  --surface: #0f1216;
-  --text: #e7e7e7;
-  --muted: #a1a1aa;
-  --border: rgba(255, 255, 255, 0.1);
-  --link: #d6c08d;
-  --link-hover: #ead9b2;
-  --code-bg: rgba(255, 255, 255, 0.06);
-  --table-header-bg: rgba(255, 255, 255, 0.1);
-}
-
-/* Light theme: UCSB brand (cs.ucsb.edu) — Navy #003660, text #3D4952, light gray surfaces */
 html[data-theme="light"] {
   --bg: #ffffff;
   --surface: #eef0f2;
@@ -26,6 +14,19 @@ html[data-theme="light"] {
   --link-hover: #002640;
   --code-bg: #dce1e5;
   --table-header-bg: #dce1e5;
+}
+
+/* Dark theme override */
+html[data-theme="dark"] {
+  --bg: #0b0d10;
+  --surface: #0f1216;
+  --text: #e7e7e7;
+  --muted: #a1a1aa;
+  --border: rgba(255, 255, 255, 0.1);
+  --link: #d6c08d;
+  --link-hover: #ead9b2;
+  --code-bg: rgba(255, 255, 255, 0.06);
+  --table-header-bg: rgba(255, 255, 255, 0.1);
 }
 
 /* Base: html/body use theme vars */
