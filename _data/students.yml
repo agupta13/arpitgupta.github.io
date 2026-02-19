@@ -481,3 +481,9 @@ alumni_bsms:
     project: Assessing Density-Driven Disparities in Broadband Access and Pricing
     type: MS Project
     affiliation: UCSB
+  - name: Punnal Ismail Khan
+    years: "2021-25"
+    exit_year: 2025
+    project: "netMosaic: Harnessing Public Code Repositories to Develop Production-Ready ML Artifacts for Networking"
+    type: MS Project
+    affiliation: UCSB
