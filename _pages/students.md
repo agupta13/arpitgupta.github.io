@@ -32,10 +32,7 @@ author_profile: true
   {% endfor %}
 
   <p class="students-page__summary">
-    <strong>Current:</strong>
-    {{ phd_count }} PhD student{% if phd_count != 1 %}s{% endif %}{% if ms_count > 0 %}, {{ ms_count }} MS{% endif %}{% if bs_count > 0 %}, {{ bs_count }} BS{% endif %}{% if hs_count > 0 %}, {{ hs_count }} high school{% endif %}{% if postdoc_count > 0 %}, {{ postdoc_count }} postdoc{% if postdoc_count != 1 %}s{% endif %}{% endif %}.
-    <strong>Alumni:</strong>
-    {{ alumni_phd_count }} PhD graduate{% if alumni_phd_count != 1 %}s{% endif %}{% if alumni_postdoc_count > 0 %}, {{ alumni_postdoc_count }} postdoc{% if alumni_postdoc_count != 1 %}s{% endif %}{% endif %}, {{ alumni_ms_count }} MS, {{ alumni_bs_count }} BS, and {{ alumni_hs_count }} high school.
+    The group currently includes {{ phd_count }} PhD student{% if phd_count != 1 %}s{% endif %}{% if ms_count > 0 %}, {{ ms_count }} MS{% endif %}{% if bs_count > 0 %}, {{ bs_count }} BS{% endif %}{% if hs_count > 0 %}, {{ hs_count }} high school{% endif %}{% if postdoc_count > 0 %}, and {{ postdoc_count }} postdoc{% if postdoc_count != 1 %}s{% endif %}{% endif %}; our alumni include {{ alumni_phd_count }} PhD graduate{% if alumni_phd_count != 1 %}s{% endif %}{% if alumni_postdoc_count > 0 %}, {{ alumni_postdoc_count }} postdoc{% if alumni_postdoc_count != 1 %}s{% endif %}{% endif %}, {{ alumni_ms_count }} MS, {{ alumni_bs_count }} BS, and {{ alumni_hs_count }} high school.
   </p>
 
   <h2 id="current-students">Current Students</h2>
