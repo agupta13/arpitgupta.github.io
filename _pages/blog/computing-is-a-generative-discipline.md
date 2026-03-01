@@ -3,7 +3,7 @@ title: "Computing Is a Generative Discipline"
 permalink: /blog/computing-is-a-generative-discipline.html
 layout: single
 author_profile: true
-date: 2026-03-01
+date: 2026-02-28
 ---
 
 A familiar question is circulating through universities, funding agencies, and public discourse: Will AI subsume computer science? The question reveals a misunderstanding — one worth correcting, because the answer reshapes how we think about education in this field for the decades ahead.
