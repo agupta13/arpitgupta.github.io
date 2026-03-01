@@ -87,7 +87,12 @@ current_phd:
     internships: []
     papers: []
 
-current_ms: []   # add when listing current MS students
+current_ms:
+  - name: Amrutha Kalle
+    years: "2025-*"
+    project: "US/CMS Network Traffic Classification using NetFound (jointly with Anna Giannakou, LBNL)"
+    type: MS Project
+    affiliation: UCSB
 current_high_school: []  # add when listing current high school students
 current_postdoc: []      # add when listing current postdocs
 

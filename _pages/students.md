@@ -66,6 +66,32 @@ author_profile: true
     {% endfor %}
   </div>
 
+  <h3>MS Students</h3>
+  <div class="table-responsive">
+    <table class="students-table">
+      <thead>
+        <tr>
+          <th class="students-table__name">Name</th>
+          <th class="students-table__years">Years</th>
+          <th class="students-table__project">Project</th>
+          <th class="students-table__type">Type</th>
+          <th class="students-table__affiliation">Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in site.data.students.current_ms %}
+        <tr>
+          <td class="students-table__name">{{ s.name }}</td>
+          <td class="students-table__years">{{ s.years }}</td>
+          <td class="students-table__project">{{ s.project }}</td>
+          <td class="students-table__type">{{ s.type }}</td>
+          <td class="students-table__affiliation">{{ s.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
   <h3>BS/MS Students</h3>
   <div class="table-responsive">
     <table class="students-table">
