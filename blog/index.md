@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 <ul class="blog-index-list" style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 1.25em;">
+    <a href="{{ base_path }}/blog/agentic-systems-are-a-systems-problem.html"><strong>Agentic Systems Are a Systems Problem — And a Systems Opportunity</strong></a>
+    <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">On why agentic AI is generating systems problems, how the resource squeeze makes them urgent, and what becomes possible if the systems community builds the infrastructure.</p>
+    <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">March 7, 2026</p>
+  </li>
+  <li style="margin-bottom: 1.25em;">
     <a href="{{ base_path }}/blog/computing-is-a-generative-discipline.html"><strong>Computing Is a Generative Discipline</strong></a>
     <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">On why computing produces the abstractions from which AI emerged—and what that means for how we teach it.</p>
     <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">March 1, 2026</p>
