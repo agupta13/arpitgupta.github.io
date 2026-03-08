@@ -12,7 +12,7 @@ At CAIDA's AIMS-19 workshop in February, I moderated a breakout session on agent
 
 Everyone was using AI. LLMs for coding, data processing, operational triage, literature synthesis. But the hard questions people kept raising were systems questions — orchestration, reliability, sandboxing, state management, cost control. One national research network operator described building an LLM-powered Looking Glass that aggregates data across member networks for triage — and every challenge they reported was a distributed systems integration problem. A Japanese network operator reported similar interest, driven by reduced staffing, and was working on standardization for agent-to-agent communication protocols. The measurement community was discovering, in real time, that the problems worth solving were systems problems.
 
-Then an NSF program manager posed a question that reframed everything: *How should Internet measurement data change if the primary consumer is AI rather than humans?* The question bypassed whether AI is useful and went straight to what infrastructure must exist for AI to consume and act on data reliably. A fundamentally different design question — and a systems question.
+Then an NSF program manager posed a question that reframed everything: *How should Internet measurement infrastructure and data change if the primary consumer is AI rather than humans?* The question bypassed whether AI is useful and went straight to what infrastructure must exist for AI to consume and act on data reliably. A fundamentally different design question — and a systems question.
 
 This keeps surfacing. The question that matters is "what does it actually take to make these systems work, and who is equipped to build that?"
 
@@ -28,7 +28,7 @@ At a high level, LLMs and agentic systems appear similar — both involve AI per
 
 **The generative pattern produced something more specific than another AI variant. It produced a domain whose foundations are systems foundations.** The center of gravity has shifted from "how do we build better models" to "how do we build reliable systems around models." That is computing generating a new problem space that happens to need the people who build distributed systems, operating systems, networked systems, and secure systems.
 
-Whatever follows agentic systems will require yet another combination of computing abstractions. The specific shape remains unknown. The value of computing lives in the discipline's capacity to produce, recombine, and extend — and right now, the domain is agentic systems, and the problem is a systems problem.
+<!-- Whatever follows agentic systems will require yet another combination of computing abstractions. The specific shape remains unknown. The value of computing lives in the discipline's capacity to produce, recombine, and extend — and right now, the domain is agentic systems, and the problem is a systems problem. -->
 
 ## Two Distinct Questions
 
@@ -56,8 +56,7 @@ These are familiar problems — newly urgent because the systems that need them 
 
 This is the leverage question. How does the new domain enable the discipline that generated it? Agents could multiply scarce research capacity, transform teaching infrastructure, and lower the threshold between public investment and public service. The evidence for each comes later — they are the heart of this essay. For now, the claim is structural: **the same infrastructure that answers Question A is what makes Question B possible.**
 
-One clarification on scope. I will lean heavily on examples from Internet measurement and networking — that is where I work, and the measurement community is a natural first mover because it has the data, the infrastructure, and the operational experience. But the two-question structure generalizes beyond networking. Every domain that agentic systems touch will face the same pair of questions. (I realize I'm leaning hard on networking examples here — occupational hazard — but the pattern generalizes, and I will return to that generalization at the end.)
-
+One clarification on scope. I will lean heavily on examples from Internet measurement and networking — that is where I work, and the measurement community is a natural first mover because it has the data, the infrastructure, and the operational experience. But the two-question structure generalizes beyond networking. Every domain that agentic systems touch will face the same pair of questions. 
 ---
 
 > **The resource constraints that make investment costly are what make the tools necessary.**
