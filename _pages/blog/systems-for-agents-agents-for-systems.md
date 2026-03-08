@@ -57,6 +57,7 @@ These are familiar problems — newly urgent because the systems that need them 
 This is the leverage question. How does the new domain enable the discipline that generated it? Agents could multiply scarce research capacity, transform teaching infrastructure, and lower the threshold between public investment and public service. The evidence for each comes later — they are the heart of this essay. For now, the claim is structural: **the same infrastructure that answers Question A is what makes Question B possible.**
 
 One clarification on scope. I will lean heavily on examples from Internet measurement and networking — that is where I work, and the measurement community is a natural first mover because it has the data, the infrastructure, and the operational experience. But the two-question structure generalizes beyond networking. Every domain that agentic systems touch will face the same pair of questions. 
+
 ---
 
 > **The resource constraints that make investment costly are what make the tools necessary.**
@@ -87,7 +88,7 @@ The AIMS breakout reached a consensus that maps directly onto this: tasks curren
 
 A recent MIT preprint offers a concrete reference point. Glia is a multi-agent framework for automated systems design — specialized agents for reasoning, experimentation, and analysis, collaborating through an evaluation framework that grounds abstract reasoning in empirical feedback.<sup>9</sup> Applied to a distributed GPU cluster for LLM inference, Glia reports performance comparable to expert-designed algorithms for request routing, scheduling, and autoscaling, in significantly less time. The architectural insight matters more than the specific result: Glia operationalizes the research loop itself — hypothesize, experiment, analyze, refine — and compresses the time between having an idea and having the data to evaluate it.
 
-Networking and Internet measurement research needs the same kind of execution substrate — a sandbox where a researcher specifies an intent ("generate YouTube traffic at 100 milliseconds latency, 6 Mbps throughput"), and the system translates that into an experiment specification, configures the infrastructure, collects the data, and delivers multi-representation results. The IP hourglass provides the right architectural analogy: diverse research intents above, diverse network conditions below, a unified execution layer in the middle. Several efforts in this direction are underway, including work in my own group that unifies network replication, traffic generation, and agent-based workflow automation into a single data-generation substrate.<sup>10</sup> The motivation mirrors Glia's: what the systems community needs is better infrastructure for the research loop itself.
+Networking and Internet measurement research needs the same kind of execution substrate — a sandbox where a researcher specifies an intent ("Analyze the performance of my custom video conferencing application under challenging network conditions (i.e., slow paths with dynamic congestion pressure from the competing cross traffic at the bottleneck link)"), and the system translates that into an experiment specification, configures the infrastructure, collects the data, and delivers multi-representation results. The IP hourglass provides the right architectural analogy: diverse research intents above, diverse network conditions below, a unified execution layer in the middle. Several efforts in this direction are underway, including work in my own group that unifies network replication, traffic generation, and agent-based workflow automation into a single data-generation substrate.<sup>10</sup> The motivation mirrors Glia's: what the systems community needs is better infrastructure for the research loop itself.
 
 The broader AI-for-science movement validates the scale of this opportunity. The Department of Energy's Genesis Mission directed $320 million toward AI infrastructure for scientific research, including shared compute, domain-specific AI models, and autonomous laboratory projects.<sup>11</sup> NSF's AI portfolio now exceeds $700 million annually across 25 National AI Research Institutes.<sup>12</sup> The bet across federal science agencies is the same: AI as a research multiplier, not a research replacement. The question is whether the systems research community builds the infrastructure to capture that multiplier — or cedes it to communities less equipped to handle the systems problems.
 
@@ -103,7 +104,7 @@ Here is the framing: **can we generate more meaningful empirical content for stu
 
 The empirical context is stark. UC TA allocations are being cut as a direct consequence of budget pressures. At UCLA, mathematics TA appointments were halved and paid graders eliminated entirely — the pedagogical need stayed the same, but the funding shrank.<sup>8</sup> The pattern extends across the UC system, where proposed budget reductions ripple through course offerings and academic support services.<sup>7</sup> The trajectory is clear: the number of students is growing, the resources per student are shrinking, and the pace at which curriculum must evolve — especially in computing, where the LLM-to-agentic shift happened in under two years — is accelerating.
 
-Agents handle preparation labor: lab environments, problem sets, worked examples, grading scaffolds, automated feedback on student code. The infrastructure cost of principled curricular change drops. Junior faculty can take risks they currently cannot afford — designing new courses around emerging topics without requiring TAs who are already experts. Senior faculty can iterate on courses without diverting entire research groups.
+Agents can handle preparation labor: lab environments, problem sets, worked examples, grading scaffolds, automated feedback on student code. The infrastructure cost of principled curricular change drops. Junior faculty can take risks they currently cannot afford — designing new courses around emerging topics without requiring TAs who are already experts. Senior faculty can iterate on courses without diverting entire research groups.
 
 I know the cost of getting this wrong from personal experience. Early in my career, I tried to build a completely new course on programmable networks. The ambition was right; the infrastructure was missing. The result was my worst teaching ratings.<sup>13</sup> Ambition without infrastructure produces burnout and bad evaluations. Agents are a complement to pedagogical judgment — they provide the infrastructure that makes pedagogical ambition survivable.
 
@@ -121,7 +122,7 @@ Consider BQT+, a broadband-plan querying tool developed in my group. It started 
 
 **If the artifact threshold drops, what opens goes beyond individual productivity. It is a structural change in what academia can deliver to the public.** The same research that produces a paper could also produce a deployable tool, a public dataset, a policy-grade measurement platform. This is the question academia has always been challenged on: where is the public return on research investment? Lowering the artifact threshold is a concrete, structural answer — and it could reshape how public investment in research translates into artifacts of public value.
 
-> **Most consequential claim:** Agentic systems may lower the threshold for turning publicly funded research into tools and services that others can actually use — shifting academia from a model centered on papers alone toward one in which deployable artifacts become a more routine part of the output.
+> Agentic systems may lower the threshold for turning publicly funded research into tools and services that others can actually use — shifting academia from a model centered on papers alone toward one in which deployable artifacts become a more routine part of the output.
 
 ---
 
@@ -161,7 +162,7 @@ That is already happening. The tools are being built. The question is whether th
 
 ---
 
-> ### The Argument in Brief
+> ### TLDR
 >
 > Computing generated AI. AI generated agentic systems. Agentic systems create two questions: *What systems infrastructure must we build to make them reliable?* And *what can those systems do for research itself?* The squeeze in academic research makes both questions urgent. If we build the infrastructure, agentic systems could multiply research capacity, transform teaching, and lower the barrier between public funding and public-facing artifacts. The discipline that keeps generating the next thing is the right one to build the tools for this thing.
 
