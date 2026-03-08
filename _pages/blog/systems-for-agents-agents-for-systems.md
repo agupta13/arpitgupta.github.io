@@ -1,6 +1,6 @@
 ---
-title: "Agentic Systems Are a Systems Problem — And a Systems Opportunity"
-permalink: /blog/agentic-systems-are-a-systems-problem.html
+title: "Systems for Agents, Agents for Systems"
+permalink: /blog/systems-for-agents-agents-for-systems.html
 layout: single
 author_profile: true
 date: 2026-03-07
