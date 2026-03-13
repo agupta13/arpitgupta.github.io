@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 <ul class="blog-index-list" style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 1.25em;">
+    <a href="{{ base_path }}/blog/the-paper-behind-the-paper.html"><strong>The Paper Behind the Paper</strong></a>
+    <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">What version histories reveal about research writing: identity stability, framing cost, and the patterns that style guides miss.</p>
+    <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">March 12, 2026</p>
+  </li>
+  <li style="margin-bottom: 1.25em;">
     <a href="{{ base_path }}/blog/systems-for-agents-agents-for-systems.html"><strong>Systems for Agents, Agents for Systems</strong></a>
     <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">On why agentic AI is generating systems problems, how the resource squeeze makes them urgent, and what becomes possible if the systems community builds the infrastructure.</p>
     <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">March 7, 2026</p>
