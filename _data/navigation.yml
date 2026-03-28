@@ -13,7 +13,7 @@ main:
     url: /students/
 
   - title: "Blogs"
-    url: /blog/
+    url: /blogs/
 
   #
   # - title: "CV"

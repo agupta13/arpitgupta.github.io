@@ -1,6 +1,8 @@
 ---
 title: "What We Can't See, We Can't Fix"
-permalink: /blog/what-we-cant-see-we-cant-fix.html
+permalink: /blogs/what-we-cant-see-we-cant-fix.html
+redirect_from:
+  - /blog/what-we-cant-see-we-cant-fix.html
 layout: single
 author_profile: true
 date: 2026-01-14

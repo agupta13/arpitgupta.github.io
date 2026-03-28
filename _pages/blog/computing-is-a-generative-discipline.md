@@ -1,6 +1,8 @@
 ---
 title: "Computing Is a Generative Discipline"
-permalink: /blog/computing-is-a-generative-discipline.html
+permalink: /blogs/computing-is-a-generative-discipline.html
+redirect_from:
+  - /blog/computing-is-a-generative-discipline.html
 layout: single
 author_profile: true
 date: 2026-02-28

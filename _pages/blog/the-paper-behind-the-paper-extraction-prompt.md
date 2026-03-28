@@ -1,12 +1,14 @@
 ---
 title: "The Extraction Prompt — Replicate This on Your Own Papers"
-permalink: /blog/the-paper-behind-the-paper-extraction-prompt.html
+permalink: /blogs/the-paper-behind-the-paper-extraction-prompt.html
+redirect_from:
+  - /blog/the-paper-behind-the-paper-extraction-prompt.html
 layout: single
 author_profile: true
 date: 2026-03-12
 ---
 
-*Companion to [The Paper Behind the Paper]({{ site.baseurl }}/blog/the-paper-behind-the-paper.html)*
+*Companion to [The Paper Behind the Paper]({{ site.baseurl }}/blogs/the-paper-behind-the-paper.html)*
 
 ---
 

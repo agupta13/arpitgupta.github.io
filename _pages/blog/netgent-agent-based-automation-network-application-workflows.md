@@ -1,6 +1,8 @@
 ---
 title: "NetGent: Agent-based automation of network application workflows"
-permalink: /blog/netgent-agent-based-automation-network-application-workflows.html
+permalink: /blogs/netgent-agent-based-automation-network-application-workflows.html
+redirect_from:
+  - /blog/netgent-agent-based-automation-network-application-workflows.html
 layout: single
 author_profile: true
 date: 2026-02-05

@@ -1,6 +1,8 @@
 ---
 title: "The Paper Behind the Paper"
-permalink: /blog/the-paper-behind-the-paper.html
+permalink: /blogs/the-paper-behind-the-paper.html
+redirect_from:
+  - /blog/the-paper-behind-the-paper.html
 layout: single
 author_profile: true
 date: 2026-03-12
@@ -234,7 +236,7 @@ I am now more deliberate about matching paper type to student development stage.
 
 ## Replicating This Analysis
 
-The full extraction prompt — seven phases, from version inventory through synthesis — is available as a [companion document]({{ site.baseurl }}/blog/the-paper-behind-the-paper-extraction-prompt.html). It is written for Overleaf but generalizes to any version-controlled writing workflow; replace the API calls with `git log` and `git diff` and the rest is identical. The anonymized data from my own analysis is available as a companion file [here]. If you run this on your own papers, I want to hear whether the patterns replicate.
+The full extraction prompt — seven phases, from version inventory through synthesis — is available as a [companion document]({{ site.baseurl }}/blogs/the-paper-behind-the-paper-extraction-prompt.html). It is written for Overleaf but generalizes to any version-controlled writing workflow; replace the API calls with `git log` and `git diff` and the rest is identical. The anonymized data from my own analysis is available as a companion file [here]. If you run this on your own papers, I want to hear whether the patterns replicate.
 
 ---
 
