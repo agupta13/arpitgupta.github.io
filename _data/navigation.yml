@@ -12,11 +12,11 @@ main:
   - title: "Students"
     url: /students/
 
-  - title: "Book"
-    url: https://sites.cs.ucsb.edu/~arpitgupta/first-principles-networking/
-
   - title: "Blogs"
     url: /blogs/
+
+  - title: "Book"
+    url: https://sites.cs.ucsb.edu/~arpitgupta/first-principles-networking/
 
   #
   # - title: "CV"
