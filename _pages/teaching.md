@@ -21,6 +21,7 @@ I pay special attention to instilling excitement about the material and helping 
     </tr>
   </thead>
   <tbody>
+    <tr><td>Spring 2026</td><td>CS 176C</td><td><a href="https://sites.cs.ucsb.edu/~arpitgupta/cs176c/spring26/">Advanced Topics in Internet Computing</a></td></tr>
     <tr><td>Spring 2025</td><td>CS 176C</td><td><a href="#">Advanced Topics in Internet Computing</a></td></tr>
     <tr><td>Spring 2025</td><td>CS 293N</td><td><a href="#">ML for Networked Systems</a></td></tr>
     <tr><td>Fall 2024</td><td>CS 190N</td><td><a href="#">Machine Learning for Networking</a></td></tr>
