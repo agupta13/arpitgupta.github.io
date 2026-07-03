@@ -15,6 +15,8 @@ I am an Associate Professor in [Computer Science at UC Santa Barbara](https://cs
 
 <!-- As a systems researcher, I design and build systems that solve the real-world problems at the intersection of networking, internet measurements, and machine learning. -->
 I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at UCSB, where I have been utilizing my system-building skills to address a variety of pressing digital inequity challenges, namely, ensuring secure, performant, and affordable "Internet for All." To this end, my current research focuses on democratizing the development of production-ready ML artifacts for self-driving networks (to ensure performant and secure connectivity with limited infrastructure and operational resources) and enabling data-driven policymaking (to ensure performant and affordable connectivity with limited capital resources).
+
+📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 

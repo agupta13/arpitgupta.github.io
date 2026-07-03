@@ -15,9 +15,8 @@ main:
   - title: "Blogs"
     url: /blogs/
 
-  - title: "Book"
-    url: https://sites.cs.ucsb.edu/~arpitgupta/first-principles-networking/
+  # - title: "Book"
+  #   url: https://sites.cs.ucsb.edu/~arpitgupta/first-principles-networking/
 
-  #
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /pdfs/cv.pdf
