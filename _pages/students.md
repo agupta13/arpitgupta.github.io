@@ -194,7 +194,7 @@ author_profile: true
         <span class="student-card__meta-line"><strong>Years:</strong> {{ student.years }}</span>
         <span class="student-card__meta-line"><strong>Affiliation:</strong> {{ student.affiliation }}</span>
         <p class="student-card__topic"><strong>Thesis:</strong> <a href="{{ student.thesis_url }}">{{ student.thesis_title }}</a></p>
-        <p class="student-card__placement"><strong>Placement:</strong> {{ student.placement }}</p>
+        {% if student.placement and student.placement != "" %}<p class="student-card__placement"><strong>Placement:</strong> {{ student.placement }}</p>{% endif %}
         {% if student.honors and student.honors.size > 0 %}
           <p class="student-card__honors"><strong>Honors:</strong>
             {% for h in student.honors %}

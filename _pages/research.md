@@ -7,29 +7,28 @@ author_profile: true
 
 ## Research Overview
 
-I am a networking researcher committed to advancing digital equity through principled system design.
+My mission is to make a secure, performant, and affordable Internet accessible to everyone.
 
-My north star is clear:
+I pursue this mission along two paths, each of which requires bridging fundamental data gaps in how we measure and operate networks:
 
-> Access to a secure, performant, and affordable Internet must become a durable infrastructure guarantee–not a function of geography, income, or institutional capacity.
+* **Path I — Data-Driven Policymaking:** building independent, decision-grade broadband data so that public investment in connectivity can be measured, audited, and held accountable.
+* **Path II — Self-Driving Networks:** developing AI-powered network operations that let networks adapt, generalize, and stay trustworthy with limited infrastructure and operational resources.
 
-Realizing this goal requires more than faster protocols or incremental optimizations. It requires validated data systems that make digital infrastructure measurable, accountable, and intelligently operable.
-
-My research develops the architectural foundations for this transformation — spanning public-interest broadband infrastructure and agentic, AI-powered network operations.
+Both paths turn on the same conviction: we cannot fix what we cannot measure, and we cannot safely automate what we cannot generate and reason about as data.
 
 ---
 
-## Path I — Public-Interest Broadband Data Infrastructure
+## Path I — Data-Driven Policymaking
 
-Digital equity demands decision-grade visibility into broadband markets.
+Public investment in broadband runs into a fundamental data gap: we cannot tell whether tens of billions of dollars in funding actually reach the communities they target.
 
-My work advances both the intellectual foundations and the operational infrastructure required to measure affordability, competition, and performance at scale.
+My work closes that gap, building the intellectual foundations and operational infrastructure to measure affordability, competition, and performance at scale.
 
 Central to this effort is:
 
 **[Broadband Query Tool (BQT / BQT+)](https://address.cs.ucsb.edu/bqt/)** — an address-level broadband pricing and availability intelligence platform enabling reproducible analysis of market structure and affordability.
 
-BQT has informed regulatory and policy discussions across states and agencies, shaping how competition and pricing are evaluated in large-scale funding and oversight decisions. The broader vision is articulated in:
+BQT has informed regulatory and policy discussions across states and agencies, shaping how competition and pricing are evaluated in large-scale funding and oversight decisions, and is used by Cal Advocates, the Institute for Local Self-Reliance (ILSR), and Merit Network. The broader vision is articulated in:
 
 * [What We Can't See, We Can't Fix](https://www.benton.org/blog/what-we-cant-see-we-cant-fix)
 
@@ -47,19 +46,20 @@ We are extending this foundation through:
 
 Together, this body of work establishes independent broadband data ecosystems grounded in statistical modeling, systems research, and reproducible infrastructure — capable of informing billion-dollar investment decisions and regulatory accountability.
 
-## Path II — Agentic and AI-Powered Network Operations (AIOps)
+## Path II — Self-Driving Networks (AI-Powered Network Operations)
 
-Digital equity also requires operational intelligence: networks that adapt, generalize, and remain trustworthy under dynamic conditions.
+Operating networks with limited infrastructure and expertise runs into a second data gap: the labeled, representative data needed to build trustworthy models is scarce, and the tools to generate it at scale are missing.
 
-My group advances agentic and AI-powered network operations grounded in controllable data generation, structured representation learning, and principled validation.
+My group closes that gap through controllable data generation, structured representation learning, and principled evaluation, so that networks can adapt, generalize, and stay trustworthy under dynamic conditions.
 
 ### Programmable Data Substrate
 
 We are building a programmable experimentation infrastructure that enables scalable and verifiable network research:
 
-* **[netUnicorn](https://netunicorn.cs.ucsb.edu/)** — distributed orchestration across heterogeneous environments.
+* **[netUnicorn](https://netunicorn.cs.ucsb.edu/)** — distributed orchestration across heterogeneous environments; adopted as a reproducibility substrate.
 * **NetReplica** — an evolving bottleneck-aware emulation framework for controlled experimentation.
 * **NetGent** — an agentic workflow automation system that compiles high-level specifications into deterministic, reusable execution pipelines.
+* **[PINOT](https://pinot.cs.ucsb.edu/)** — a campus-scale programmable measurement infrastructure for collecting labeled network data; in use at LBNL/ESnet.
 
 These systems share a central architectural insight: complex operational tasks become reliable and scalable when decomposed into smaller, verifiable components — a principle mirrored in BQT+.
 
@@ -72,7 +72,9 @@ Building on this substrate, we introduced:
 * **Intrinsic Evaluation Framework** (NeurIPS 2025) — a representation-level validation methodology decoupling embedding quality from downstream task artifacts.
 * **[Trustee](https://trusteeml.github.io/)** (ANRP recognition) — advancing interpretability and structured introspection for learning-based network systems.
 
-This program establishes validated foundations for agentic and AI-powered network operations that are robust, generalizable, and deployment-aware.
+netFound and NetBurst are in tech-transfer at ESnet and Google within the DOE Genesis Mission.
+
+This program establishes foundations for agentic and AI-powered network operations that are robust, generalizable, and deployment-aware.
 
 ### Deployment and Engagement
 

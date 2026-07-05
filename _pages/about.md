@@ -18,6 +18,11 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at 
 
 📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
 
+## News
+- **2026** — Awarded a DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI).
+- **May 2026** — Delivered a Congressional staff briefing at the Dirksen Senate Office Building as a UC Presidential Faculty Fellow.
+- **Nov 2025** — Keynote, INDIS Workshop at SC25.
+
 ## Selected Impact
 - **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
 - **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
@@ -25,6 +30,12 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at 
 - **Broadband competition and pricing analysis** used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
 
 For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
+
+## In the News
+- [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The Current* (UCSB), Aug 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
+- [A CAREER Award to Democratize Advanced Network Management Technology](https://www.engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology), UCSB College of Engineering, May 2025. ([CS Department](https://cs.ucsb.edu/happenings/news/career-award-democratize-advanced-network-management-technology))
+- [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The Current* (UCSB), Sep 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
+- [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB CS, Nov 2022.
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 
@@ -60,7 +71,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **SIGCOMM Dissertation Award (Advisee: Udit Paul)**, 2024. [Dissertation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)
 - 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2023. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
 - 🏆 **Best Paper Honorable Mention**, ACM CCS, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
-- 🏆 **Best Paper Award**, ACM SIGCOMM IMC, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)
+- 🏆 **Distinguished Paper Award**, ACM IMC, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)
 - 🏆 **SIGCOMM Dissertation Award Honorable Mention**, 2018. [Dissertation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis.pdf)
 - 🏆 **Best Paper Award**, ACM SOSR, 2017. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf)
 - 🏆 **Best of the Rest Paper Award** for Best Paper in all USENIX Conferences, 2016. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/isdx.pdf)
@@ -90,7 +101,7 @@ Doctoral Dissertation, Arpit Gupta, Princeton University, 2018. \
 - [SDX: A Software Defined Internet Exchange](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf), ACM SIGCOMM 2014. \
 🏆 **Internet2 Innovation Award**
 
-Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of **publications**.
+Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of **publications**. Citation metrics are available on my [Google Scholar profile](https://scholar.google.com/citations?user=lc3R9-wAAAAJ&hl=en).
 
 <!-- ## Ongoing Projects
 - [BQT](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
