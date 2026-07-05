@@ -66,6 +66,32 @@ author_profile: true
     {% endfor %}
   </div>
 
+  <h3>Research Staff &amp; Collaborators</h3>
+  <div class="table-responsive">
+    <table class="students-table">
+      <thead>
+        <tr>
+          <th class="students-table__name">Name</th>
+          <th class="students-table__years">Years</th>
+          <th class="students-table__project">Project</th>
+          <th class="students-table__type">Role</th>
+          <th class="students-table__affiliation">Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in site.data.students.current_staff %}
+        <tr>
+          <td class="students-table__name">{{ s.name }}</td>
+          <td class="students-table__years">{{ s.years }}</td>
+          <td class="students-table__project">{{ s.project }}</td>
+          <td class="students-table__type">{{ s.type }}</td>
+          <td class="students-table__affiliation">{{ s.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
   <h3>MS Students</h3>
   <div class="table-responsive">
     <table class="students-table">
@@ -117,6 +143,34 @@ author_profile: true
       </tbody>
     </table>
   </div>
+
+  {% if site.data.students.current_high_school.size > 0 %}
+  <h3>High School Students</h3>
+  <div class="table-responsive">
+    <table class="students-table">
+      <thead>
+        <tr>
+          <th class="students-table__name">Name</th>
+          <th class="students-table__years">Years</th>
+          <th class="students-table__project">Project</th>
+          <th class="students-table__type">Type</th>
+          <th class="students-table__affiliation">Affiliation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in site.data.students.current_high_school %}
+        <tr>
+          <td class="students-table__name">{{ s.name }}</td>
+          <td class="students-table__years">{{ s.years }}</td>
+          <td class="students-table__project">{{ s.project }}</td>
+          <td class="students-table__type">{{ s.type }}</td>
+          <td class="students-table__affiliation">{{ s.affiliation }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% endif %}
 
   <hr>
 

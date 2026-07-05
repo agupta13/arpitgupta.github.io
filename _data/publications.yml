@@ -8,6 +8,7 @@
   authors: "A. Gupta"
   venue: "Benton Institute for Broadband & Society"
   year: "2026"
+  category: policy
 
 - id: bead-affordability-policy-brief
   title: "Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations"
@@ -16,6 +17,7 @@
   authors: "H. Galperin, F. Bar, A. Gupta, E. Belding, L. Koduru"
   venue: "MEDIA Project Phase 3, USC Annenberg"
   year: "2025"
+  category: policy
 
 - id: turbotest
   title: "TURBOTEST: Learning When Less is Enough through Early Termination of Internet Speed Tests"
@@ -23,6 +25,7 @@
   authors: "H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta"
   venue: "USENIX NSDI"
   year: "2026"
+  category: conference
 
 - id: splidt-nsdi26
   title: "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate"
@@ -30,6 +33,7 @@
   authors: "M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz"
   venue: "USENIX NSDI"
   year: "2026"
+  category: conference
 
 - id: beyond-access
   title: "Beyond Access: Broadband Affordability & Adoption"
@@ -38,6 +42,7 @@
   authors: "K. Allmann, E. Belding, A. Gupta, L. Koduru, T. Narechania, A. Nguyen"
   venue: "JCOTS Research Study, Virginia General Assembly"
   year: "2025"
+  category: policy
 
 - id: demystifying-nfm
   title: "Demystifying Network Foundation Models"
@@ -45,6 +50,7 @@
   authors: "S. Beltiukov, S. Guthula, W. Guo, W. Willinger, A. Gupta"
   venue: "NeurIPS (Dataset and Benchmarking Track)"
   year: "2025"
+  category: conference
 
 - id: prete
   title: "PreTE: Traffic Engineering with Predictive Failures"
@@ -52,6 +58,7 @@
   authors: "C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou"
   venue: "ACM SIGCOMM"
   year: "2025"
+  category: conference
 
 - id: netgent
   title: "NetGent: Agent-Based Automation of Network Application Workflows"
@@ -59,6 +66,7 @@
   authors: "J.Daneshamooz, E. Vuong, L. Koduru, S. Chandrasekaran, A. Gupta"
   venue: "NeurIPS Workshop on ML for Systems (MLforSys)"
   year: "2025"
+  category: workshop
 
 - id: netreplica
   title: "NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation"
@@ -67,6 +75,7 @@
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, S. Chandrasekaran, A. Gupta, A. Gupta, W. Willinger"
   venue: "arXiv preprint arXiv:2507.13476"
   year: "2025"
+  category: preprint
 
 - id: netburst
   title: "NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series"
@@ -75,6 +84,7 @@
   authors: "S. Guthula, J. Daneshamooz, C. Fleming, A. Kundu, W. Willinger, A. Gupta"
   venue: "arXiv preprint arXiv:2510.22397"
   year: "2025"
+  category: preprint
 
 - id: splidt-sigcomm25
   title: "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate"
@@ -82,6 +92,7 @@
   authors: "M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz"
   venue: "ACM SIGCOMM (Shorts)"
   year: "2025"
+  category: workshop
 
 - id: assessing-bead
   title: "Assessing the Broadband Service Gaps and Affordability Barriers in BEAD-Eligible Areas"
@@ -90,6 +101,7 @@
   authors: "L. Koduru, A. Rojas, A. Penate, Z. Zhou, F. Bar, E. Belding, H. Galperin, A. Gupta"
   venue: "Telecommunications Policy Research Conference (TPRC)"
   year: "2025"
+  category: policy
 
 - id: evaluating-effects
   title: "Evaluating the Effects of and Interdependencies among Federal Broadband Funding Programs"
@@ -98,6 +110,7 @@
   authors: "L. Koduru, A. Gupta, E. Belding, T. Narechania"
   venue: "Telecommunications Policy Research Conference (TPRC)"
   year: "2025"
+  category: policy
 
 - id: strategic-reporting
   title: "Strategic Reporting in the National Broadband Map"
@@ -106,6 +119,7 @@
   authors: "Z. Wen, J. Bliton, L. Koduru, E. Belding, T. Narechania, A. Gupta, S. Hasan"
   venue: "Telecommunications Policy Research Conference (TPRC)"
   year: "2025"
+  category: policy
 
 - id: when-something
   title: "When Something Looks too Good to be True, it Usually is! AI is Causing a Credibility Crisis in Networking"
@@ -113,6 +127,7 @@
   authors: "W. Willinger, R. A Ferreira, A. Gupta, R. Beltiukov, S. Guthula, L. Z Granville, A. Jacobs"
   venue: "ACM SIGCOMM Computer Communication Review (CCR)"
   year: "2025"
+  category: workshop
 
 - id: caf-sigcomm24
   title: "Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US"
@@ -120,6 +135,7 @@
   authors: "H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania"
   venue: "ACM SIGCOMM"
   year: "2024"
+  category: conference
   extra: "🏆 **IETF/IRTF Applied Networking Prize (ANRP)**\n[ISOC Blog](https://pulse.internetsociety.org/blog/measuring-broadband-policy-success-in-rural-america)\n[UCSB Press Release](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended)\n[Broadband.io Article](https://www.broadband.io/c/get-broadband-grant-alerts-news/researchers-find-isps-overreported-service-to-rural-areas-after-receiving-connect-america-fund)\n[Federal Reserve Bank of Dallas Talk](https://www.dallasfed.org/-/media/documents/cd/events/2024/24di-webinars/24di-webinars-manda.pdf)"
 
 - id: brief-amici
@@ -129,6 +145,7 @@
   authors: "E. Belding, A. Gupta, T. Narechania"
   venue: "US Supreme Court"
   year: "2024"
+  category: policy
 
 - id: measuring-broadband-blog
   title: "Measuring Broadband Policy Success"
@@ -137,6 +154,7 @@
   authors: "H. Manda, V. Srinivasavaradhan, L. Koduru, K. Zhang, X. Zhou, U. Paul, E. Belding, A. Gupta, T. Narechania"
   venue: "Harvard Law Review Blog"
   year: "2024"
+  category: policy
 
 - id: networkgym
   title: "NetworkGym: Reinforcement Learning Environments for Multi-Access Traffic Management in Network Simulation"
@@ -144,6 +162,7 @@
   authors: "M. Haider, M. Yin, M. Zhang, A. Gupta, J. Zhu, YX Wang"
   venue: "Datasets and Benchmarks Track, NeurIPS"
   year: "2024"
+  category: conference
 
 - id: zapdos
   title: "Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches"
@@ -151,6 +170,7 @@
   authors: "C. Misa, R. Durairajan, A. Gupta, R. Rejaie, W. Willinger"
   venue: "IEEE Symposium on Security and Privacy (S&P)"
   year: "2024"
+  category: conference
 
 - id: dynamap
   title: "Query Planning for Robust and Scalable Hybrid Network Telemetry Systems"
@@ -158,6 +178,7 @@
   authors: "C. Shou, R. Bhatia, A. Gupta, R.Harrison, D. Lokshtanov, W. Willinger"
   venue: "ACM SIGCOMM CoNEXT"
   year: "2024"
+  category: conference
 
 - id: harnessing-public-code
   title: "Harnessing Public Code Repositories to Develop Production-Ready ML Artifacts for Networking"
@@ -165,6 +186,7 @@
   authors: "P. Khan, S. Guthula, R. Beltiukov, R. Schmid, T. Bühler, A. Gupta, L. Vanbever, W. Willinger"
   venue: "ACM ANRW"
   year: "2024"
+  category: workshop
 
 - id: netfound
   title: "netFound: Foundation Model for Network Security"
@@ -173,6 +195,7 @@
   authors: "S. Guthula, R. Beltiukov, N. Battula, W. Guo, A. Gupta"
   venue: "arXiv preprint arXiv:2310.17025"
   year: "2023"
+  category: preprint
 
 - id: netunicorn
   title: "In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems"
@@ -180,6 +203,7 @@
   authors: "R. Beltiukov, W. Guo, A. Gupta, W. Willinger"
   venue: "ACM CCS"
   year: "2023"
+  category: conference
   extra: "[Project Website](https://netunicorn.cs.ucsb.edu/)"
 
 - id: decoding-divide
@@ -188,6 +212,7 @@
   authors: "U. Paul, V. Gunasekaran, J. Liu, T. Narechania, A. Gupta, E. Belding"
   venue: "ACM SIGCOMM"
   year: "2023"
+  category: conference
   extra: "[Project Website](https://address.cs.ucsb.edu/)"
 
 - id: webrtc-imc23
@@ -196,6 +221,7 @@
   authors: "T. Sharma, T. Mangla, A. Gupta, J. Jiang, N. Feamster"
   venue: "ACM SIGCOMM IMC"
   year: "2023"
+  category: conference
 
 - id: sigmetrics-workshop
   title: "Special Issue on The ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks"
@@ -203,6 +229,7 @@
   authors: "A. Gupta, R. Durairajan, W. Willinger"
   venue: "2023"
   year: "2023"
+  category: workshop
   extra: "[Workshop Website](https://measure-selfdn23.cs.ucsb.edu/)"
 
 - id: netai-manifesto-1
@@ -211,6 +238,7 @@
   authors: "W. Willinger, A. Gupta, A. Jacobs, R. Beltiukov, R. Ferreira, L. Granville"
   venue: "ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks"
   year: "2023"
+  category: workshop
 
 - id: netai-manifesto-2
   title: "A NetAI Manifesto (Part II): Less Hubris, more Humility"
@@ -218,6 +246,7 @@
   authors: "W. Willinger, A. Gupta, R. Beltiukov, W. Guo"
   venue: "ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks"
   year: "2023"
+  category: workshop
 
 - id: panakos
   title: "Panakos: Chasing the Tails for Multidimensional Data Streams"
@@ -225,6 +254,7 @@
   authors: "F. Zhao, P. Khan, D. Agarwal, A. Abbadi, A. Gupta, A. Liu"
   venue: "ACM VLDB"
   year: "2023"
+  category: conference
 
 - id: pinot
   title: "PINOT: Programmable Infrastructure for Networking"
@@ -232,6 +262,7 @@
   authors: "R. Beltiukov, S. Chandrasekaran, A. Gupta, W. Willinger"
   venue: "ACM ANRW"
   year: "2023"
+  category: workshop
 
 - id: challenges-beyond-5g
   title: "Challenges and Opportunities for Beyond-5G Wireless Security"
@@ -239,6 +270,7 @@
   authors: "E. Ruzomberka, D. Love, C. Brinton, A. Gupta, C. Wang, V. Poor"
   venue: "IEEE Security and Privacy"
   year: "2023"
+  category: conference
 
 - id: trustee
   title: "AI/ML for Network Security: The Emperor has no Clothes"
@@ -246,6 +278,7 @@
   authors: "A. Jacobs, R. Beltiukov, W. Willinger, R. Ferreira, A. Gupta, L. Granville"
   venue: "ACM CCS"
   year: "2022"
+  category: conference
   extra: "[Project Website](https://trusteeml.github.io)\n🏆 **Best Paper Honorable Mention**\n🏆 **IETF/IRTF Applied Networking Prize (ANRP)**"
 
 - id: speedtest
@@ -254,6 +287,7 @@
   authors: "U. Paul, J. Liu, A. Gupta, M. Gu, E. Belding"
   venue: "ACM IMC"
   year: "2022"
+  category: conference
   extra: "🏆 **Distinguished Paper Award**\n[Project Website](https://address.cs.ucsb.edu/)"
 
 - id: chicago-digital-divide
@@ -263,6 +297,7 @@
   authors: "T. Mangla, U. Paul, A. Gupta and N. Marwell"
   venue: "TPRC"
   year: "2022"
+  category: policy
 
 - id: optel
   title: "Detecting Ephemeral Optical Events with OpTel"
@@ -270,6 +305,7 @@
   authors: "C. Miao, M. Chen, A. Gupta, Z. Meng, L. Ye, J. Xiao, J. Chen, Z. He, X. Luo, J. Wang, H. Yu"
   venue: "USENIX NSDI"
   year: "2022"
+  category: conference
 
 - id: compass22
   title: "Characterizing Internet Access and Quality Inequities in California M-Lab Measurements"
@@ -277,6 +313,7 @@
   authors: "U. Paul, J. Liu, D. Farias-llerenas, V. Adarsh, A. Gupta, E. Belding"
   venue: "ACM COMPASS 2022"
   year: "2022"
+  category: conference
 
 - id: clam
   title: "Towards client-side active measurements without application control."
@@ -284,6 +321,7 @@
   authors: "P. Goenka, K. Zarifis, A. Gupta, M. Calder"
   venue: "ACM SIGCOMM CCR"
   year: "2022"
+  category: workshop
 
 - id: superflow
   title: "Continuous Flow Measurement with SuperFlow"
@@ -291,6 +329,7 @@
   authors: "Z. Zhao, X. Shi, A. Gupta, Q. Li, Z. Wang, B. Xiong, X. Yin"
   venue: "IEEE/ACM IWQoS, 2021 (virtual)"
   year: "2021"
+  category: conference
 
 - id: dynamiq
   title: "DynamiQ: Planning for Dynamics in Network Streaming Analytics Systems"
@@ -298,6 +337,7 @@
   authors: "R. Bhatia, A. Gupta, R. Harrison, D. Lokshtanov, W. Willinger"
   venue: "arXiv: Report 2106.05420"
   year: "2021"
+  category: preprint
 
 - id: characterizing-ookla
   title: "Characterizing Performance Inequity Across US Ookla Speedtest Users"
@@ -305,6 +345,7 @@
   authors: "U Paul, J Liu, V Adarsh, M Gu, A Gupta, E Belding"
   venue: "arXiv preprint arXiv:2110.12038"
   year: "2021"
+  category: preprint
 
 - id: non-binary-coverage
   title: "Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts"
@@ -312,6 +353,7 @@
   authors: "V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding"
   venue: "International Conference on Computer Communications and Networks (ICCCN)"
   year: "2021"
+  category: conference
 
 - id: too-late-playback
   title: "Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts"
@@ -319,6 +361,7 @@
   authors: "V. Adarsh, M. Nekrasov, U. Paul, T. Mangla, A. Gupta, M. Vigil-Hayes, E. Zegura, E. Belding"
   venue: "International Conference on Passive and Active Network Measurement"
   year: "2021"
+  category: conference
 
 - id: carpe-elephants
   title: "Carpe Elephants: Seize the Global Heavy Hitters"
@@ -326,6 +369,7 @@
   authors: "Rob Harrison, Shir L. Feibish, Arpit Gupta, Ross Teixeira, S. Muthukrishnan, Jennifer Rexford"
   venue: "ACM SIGCOMM SPIN"
   year: "2020"
+  category: workshop
 
 - id: packetscope
   title: "PacketScope: Monitoring the Packet Lifecycle Inside a Switch"
@@ -333,6 +377,7 @@
   authors: "R. Teixeira, R. Harrison, A. Gupta, J. Rexford"
   venue: "ACM SOSR, San Jose, CA"
   year: "2020"
+  category: conference
 
 - id: private-wan
   title: "(How Much) Does a Private WAN Improve Cloud Performance?"
@@ -340,6 +385,7 @@
   authors: "Todd W Arnold, Ege Gurmericliler, Georgia Essig, Arpit Gupta, Matt Calder, Georgia Essig, Vasileios Giotsas, Ethan Katz-Bassett"
   venue: "IEEE INFOCOMM, Beijing, China"
   year: "2020"
+  category: conference
 
 - id: democratize-netai
   title: "An Effort to Democratize Networking Research in the Era of AI/ML"
@@ -347,6 +393,7 @@
   authors: "Arpit Gupta, Chris MacStoker, Walter Willinger"
   venue: "ACM HotNets, Princeton, NJ"
   year: "2019"
+  category: workshop
 
 - id: beating-bgp
   title: "Beating BGP is Harder than We Thought"
@@ -354,6 +401,7 @@
   authors: "Todd Arnold, Matt Calder, Arpit Gupta, Italo Cunha, Michael Schapira, Ethan Katz-Bassett"
   venue: "ACM HotNets, Princeton, NJ"
   year: "2019"
+  category: workshop
 
 - id: ontas
   title: "ONTAS: Flexible and Scalable Online Network Traffic Anonymization System"
@@ -361,6 +409,7 @@
   authors: "Hyojoon Kim, Arpit Gupta"
   venue: "ACM NetAI, Beijing, China"
   year: "2019"
+  category: workshop
 
 - id: sonata
   title: "Sonata: Query-Driven Network Telemetry"
@@ -368,6 +417,7 @@
   authors: "Arpit Gupta, Rob Harrison, Ankita Pawar, Marco Canini, Nick Feamster, Jennifer Rexford, Walter Willinger"
   venue: "ACM SIGCOMM, Budapest, Hungary, 2018."
   year: "2018"
+  category: conference
   extra: "[Project Website](https://sonata-princeton.github.io/)"
 
 - id: preserving-privacy
@@ -376,6 +426,7 @@
   authors: "Xiaohe Hu, Arpit Gupta, Aurojit Panda, Nick Feamster, Scott Shenker"
   venue: "ACM APNet, Beijing, China"
   year: "2018"
+  category: workshop
 
 - id: dhhd
   title: "Network-Wide Heavy Hitter Detection with Commodity Switches"
@@ -383,6 +434,7 @@
   authors: "Rob Harrison, Qizhe Cai, Arpit Gupta, Jennifer Rexford"
   venue: "ACM Symposium on SDN Research (SOSR), Los Angeles, CA"
   year: "2018"
+  category: conference
 
 - id: sdx-flexibility
   title: "SDX-Based Flexibility or Internet Correctness?: Pick Two!"
@@ -390,6 +442,7 @@
   authors: "Rüdiger Birkner, Arpit Gupta, Nick Feamster, Laurent Vanbever"
   venue: "ACM Symposium on SDN Research (SOSR), Santa Clara, CA"
   year: "2017"
+  category: conference
 
 - id: pathsets
   title: "Concise Encoding of Flow Attributes in SDN Switches"
@@ -397,6 +450,7 @@
   authors: "Robert MacDavid, Rüdiger Birkner, Ori Rottenstreich, Arpit Gupta, Nick Feamster, Jennifer Rexford"
   venue: "ACM Symposium on SDN Research (SOSR), Santa Clara, CA"
   year: "2017"
+  category: conference
   extra: "🏆 **Best Paper Award**"
 
 - id: sonata-hotnets
@@ -405,6 +459,7 @@
   authors: "Arpit Gupta, Rüdiger Birkner, Marco Canini, Nick Feamster, Chris Mac-Stoker, Walter Willinger"
   venue: "ACM HotNets, Atlanta, GA"
   year: "2016"
+  category: workshop
 
 - id: isdx
   title: "An Industrial-Scale Software Defined Internet Exchange Point"
@@ -412,6 +467,7 @@
   authors: "Arpit Gupta, Robert MacDavid, Rüdiger Birkner, Marco Canini, Nick Feamster, Jennifer Rexford, Laurent Vanbever"
   venue: "USENIX NSDI 2016, Santa Clara, CA"
   year: "2016"
+  category: conference
   extra: "🏆 **USENIX Best of the Rest**\n🏆 **USENIX NSDI Community Contribution Award**"
 
 - id: flanc
@@ -420,6 +476,7 @@
   authors: "Arpit Gupta, Nick Feamster, Laurent Vanbever"
   venue: "ACM Symposium on SDN Research (SOSR), Santa Clara, CA"
   year: "2016"
+  category: conference
 
 - id: kinetic
   title: "Kinetic: Verifiable Dynamic Network Control"
@@ -427,6 +484,7 @@
   authors: "Hyojoon Kim, Joshua Reich, Arpit Gupta, Muhammad Shahbaz, Nick Feamster, Russ Clark"
   venue: "USENIX Symposium on Networked Systems Design and Implementation NSDI 2015, Oakland, CA"
   year: "2015"
+  category: conference
 
 - id: sdx
   title: "SDX: A Software Defined Internet Exchange"
@@ -434,6 +492,7 @@
   authors: "Arpit Gupta, Laurent Vanbever, Muhammad Shahbaz, Sean Patrick Donovan, Brandon Schlinker, Nick Feamster, Jennifer Rexford, Scott Shenker, Russ Clark, Ethan Katz-Bassett"
   venue: "ACM SIGCOMM 2014, Chicago, IL"
   year: "2014"
+  category: conference
   extra: "🏆 **Internet-2 Innovation Award**"
 
 - id: african-interconns
@@ -442,3 +501,4 @@
   authors: "Arpit Gupta, Matt Calder, Nick Feamster, Marshini Chetty, Enrico Calandro, Ethan Katz-Bassett"
   venue: "Workshop on Passive Active Measurements (PAM), Los Angeles, CA"
   year: "2014"
+  category: workshop

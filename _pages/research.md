@@ -78,6 +78,37 @@ This program establishes validated foundations for agentic and AI-powered networ
 
 We actively engage with the [Energy Sciences Network (ESnet)](https://www.es.net/) to explore how AIOps frameworks can support large-scale scientific infrastructure — advancing adaptive traffic management, scalable telemetry analysis, and AI-driven operational intelligence in production environments.
 
+## Impact & Engagement
+
+Our broadband data work informs regulatory, legislative, and community decisions beyond the research literature.
+
+### Policy Briefs & Reports
+* [Create Independent Broadband Data for Public Accountability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf), Policy Brief, UC Presidential Faculty Fellows Program, 2026. Presented at the Congressional Staff Briefing "Building Trust in Public Institutions," Dirksen Senate Office Building, Washington DC, May 2026.
+* [Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations](https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf), MEDIA Project Phase 3 Report, USC Annenberg, 2026.
+* [Beyond Access: Broadband Affordability & Adoption](https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf), Research Study, Virginia Joint Commission on Technology and Science (JCOTS), 2025.
+
+### Amicus Briefs
+* [Brief of Amici Curiae in Support of Respondents](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf), *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), Supreme Court of the United States, 2024.
+
+### Op-Eds & Public Commentary
+* [What We Can't See, We Can't Fix](https://www.benton.org/blog/what-we-cant-see-we-cant-fix), Benton Institute for Broadband & Society, 2026.
+* [Measuring Broadband Policy Success](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
+* [NetGent: Agent-based Automation of Network Application Workflows](https://blog.apnic.net/2026/02/05/netgent-agent-based-automation-of-network-application-workflows/), APNIC Blog, 2026.
+* [Computing Is a Generative Discipline](https://sites.cs.ucsb.edu/~arpitgupta/blogs/computing-is-a-generative-discipline.html), 2026.
+* [Systems for Agents, Agents for Systems](https://sites.cs.ucsb.edu/~arpitgupta/blogs/systems-for-agents-agents-for-systems.html), 2026.
+
+### Data Contributions
+* Broadband Competition and Pricing Strategies in California's Urban Markets, California Public Advocates Office (Cal Advocates), CPUC, 2026. Competition and pricing analysis conducted using UCSB's Broadband Query Tool (BQT).
+* [Dollars to Megabits: How We Uncovered Disparities in Internet Deals](https://themarkup.org/show-your-work/2022/10/19/how-we-uncovered-disparities-in-internet-deals), The Markup, 2022.
+
+### Community & Policy Engagement
+* **BEAD Challenge Process** (2024): provided evidence for Merit Network Inc. to challenge the FCC's National Broadband Map for underserved regions in Michigan.
+* **City of Los Angeles** (2024): our data helped catalyze a motion empowering CHRED to act against digital discrimination.
+* **#OaklandUndivided** (2023–): used the BQT tool to identify underserved addresses and bridge data gaps for policymaking in Oakland, CA.
+* **Institute for Local Self-Reliance (ILSR)** (2023–): gathered BQT data to strengthen the case for community networks.
+* **Affordable broadband for multi-dwelling units** (2023–): assessing broadband offerings in MDUs using the BQT tool.
+* **Santa Barbara County** (2023): report on the state of broadband affordability shared with the county.
+
 ## Representative Systems
 
 * [BQT / BQT+](https://address.cs.ucsb.edu/bqt/) — broadband plan querying tool
@@ -96,13 +127,15 @@ The research in my group is supported by various government agencies, namely, th
 
 | Project | Funding Organization | Start | Amount | Status |
 | --- | --- | --- | --- | --- |
+| Making Agentic AI Safe for DOE User Facilities | DOE / LBNL LDRD (Co-PI) | Oct 2026 | $250k | Active |
 | [Effectively Measuring Broadband Affordability in California](#) | California Public Utilities Commission | Jan 2026 | $275k | Active |
-| [Bridging the Representation–Semantics Gap for Production-Ready AI-Powered Network Operations](#) | Cisco | Feb 2026 | $75k | Active |
+| [Bridging the Representation–Semantics Gap for Production-Ready AI-Powered Network Operations](#) | Cisco | Winter 2026 | $75k | Active |
 | [AIOps Roadmap Development for ESnet](#) | DoE | Jul 2025 | $65k | Active |
 | [Low Infrastructure ML](https://research.google/programs-and-events/research-scholar-program/recipients/) | Google | Jul 2025 | $100k | Active |
 | [Network Foundation Model for Enabling AI-powered Network Operations (AIOps)](https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/) | Google | Jul 2025 | $60k | Active |
 | [Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) | NSF | May 2025 | $700k | Active |
-| [Characterizing Broadband Pricing in California](#) | California Public Utility Commission | Jan 2025 | $125k | Active |
+| Measuring the Effectiveness of Digital Inclusion Approaches | Pew Charitable Trusts | 2025 | $42k | Active |
+| [Characterizing Broadband Pricing in California](#) | California Public Utility Commission | Summer 2025 | $125k | Active |
 | [Characterizing Barriers to Digital Inclusion in Virginia](https://dls.virginia.gov/commissions/jcots/materials/broadband%5Freport%5Fnov%5F2025.pdf) | Virginia JCOTS | Jan 2025 | $30k | Active |
 | [Telemetry-driven Foundation Models for Self-Driving Networks](#) | Cisco Research | Sep 2024 | $90k | Active |
 | [netFound: Network Foundation Model](https://arxiv.org/abs/2310.17025) | DoE | Sep 2024 | — | Active |

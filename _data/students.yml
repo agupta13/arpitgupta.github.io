@@ -17,19 +17,6 @@ current_phd:
     internships: ["Google (2023, 2024)"]
     papers: [netgent, netreplica, pinot]
 
-  - slug: sylee-beltiukov
-    name: Sylee Beltiukov
-    years: "2021-*"
-    topic: Production-Ready ML
-    affiliation: UCSB
-    website: "https://maybe-hello-world.github.io/"
-    image: sylee-beltiukov.jpg
-    honors:
-      - "IRTF Applied Networking Research Prize (ANRP), IETF/IRTF, 2023."
-      - "Best Paper Honorable Mention, ACM CCS, 2022."
-    internships: ["Google (2024, 2025)"]
-    papers: [demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
-
   - slug: satyandra-guthula
     name: Satyandra Guthula
     years: "2022-*"
@@ -60,6 +47,7 @@ current_phd:
     website: "https://haarikamanda.github.io/"
     image: haarika-manda.jpg
     honors:
+      - "NSF Graduate Research Fellowship (GRFP), 2024."
       - "IRTF Applied Networking Research Prize (ANRP), SIGCOMM, 2024."
     internships: ["Idaho National Lab (2024)"]
     papers: [turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
@@ -93,8 +81,26 @@ current_ms:
     project: "US/CMS Network Traffic Classification using NetFound (jointly with Anna Giannakou, LBNL)"
     type: MS Project
     affiliation: UCSB
-current_high_school: []  # add when listing current high school students
+current_high_school:
+  - name: Sthanav Murali
+    years: "2026-*"
+    project: NetGent / Pramana
+    type: High School Project
+    affiliation: Monta Vista High School
 current_postdoc: []      # add when listing current postdocs
+
+# Research staff & external collaborators (rendered as its own section).
+current_staff:
+  - name: Eugene Vuong
+    years: "2026-*"
+    project: Agentic systems for networking (NetGent, BQT-SaaS)
+    type: Research Engineer (incoming PhD, Fall 2026)
+    affiliation: UCSB
+  - name: Shaunak G. Umarkhedi
+    years: "2025-*"
+    project: NetVibe
+    type: Research Collaborator
+    affiliation: M.S., Cornell University
 
 # Current BS/MS students (type: ERSP or Other for display grouping)
 current_bsms:
@@ -135,11 +141,21 @@ current_bsms:
     project: NetVibe
     type: Other
     affiliation: UCSB
-  - name: Shaunak G. Umarkhedi
-    years: "2025-*"
+  - name: Srish Nigam
+    years: "2026-*"
+    project: Pramana
+    type: Other
+    affiliation: UCSB
+  - name: Jenil Rajeshkumar
+    years: "2026-*"
+    project: NetVibe / agentic systems
+    type: Other
+    affiliation: UCSB
+  - name: Sidharth Kalje
+    years: "2026-*"
     project: NetVibe
     type: Other
-    affiliation: Cornell University
+    affiliation: UCSB
 
 # BS/MS alumni: grouped by ERSP, Cal-Bridge, Other (infer from existing page; "ESRP" in content -> ERSP)
 bsms_ersp:
@@ -203,6 +219,21 @@ bsms_other:
 # High school -> treat as Other BS/MS or separate; task said "BS/MS Alumni" and "keep whatever exists". Keeping as structured list under "Other" for undergrads; high school separate if desired. Task says "BS/MS Students" and "BS/MS Alumni" - so undergrads + MS go here. Current page has "Masters Students" and "Undergraduate Students". So ERSP/Cal-Bridge/Other are for undergrads; MS could be in Other. Done above.
 
 alumni_phd:
+  - slug: sylee-beltiukov
+    name: Sylee Beltiukov
+    years: "2021-2026"
+    thesis_title: "Credible Machine Learning for Networking: Diagnosis, Data Collection, and Network-Native Representation Learning"
+    thesis_url: "#"
+    affiliation: UCSB
+    website: "https://maybe-hello-world.github.io/"
+    image: sylee-beltiukov.jpg
+    placement: ""
+    honors:
+      - "IRTF Applied Networking Research Prize (ANRP), IETF/IRTF, 2023."
+      - "Best Paper Honorable Mention, ACM CCS, 2022."
+      - "UCSB CS Summer Fellowship, 2023."
+    internships: ["Google (2024, 2025)"]
+    papers: [demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
   - slug: udit-paul
     name: Udit Paul
     years: "2018-2023"
@@ -388,9 +419,9 @@ alumni_bsms:
   - name: Ziv Weissman
     years: "2024-25"
     exit_year: 2025
-    project: Early speed termination
+    project: "Early speed termination (CRA Outstanding Undergraduate Research Award nominee, 2025)"
     type: BS Project
-    affiliation: UCSB
+    affiliation: UCSB → UC Berkeley (PhD)
   - name: Karthik Bhattaram
     years: "2024-25"
     exit_year: 2025

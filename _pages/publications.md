@@ -11,8 +11,31 @@ author_profile: true
 {% include base_path %}
 {% capture newline %}
 {% endcapture %}
+
+{% comment %} Sections in display order: key|Heading {% endcomment %}
+{% assign sections = "policy|Policy Briefs & Reports,conference|Conference & Journal Papers,preprint|Under Review & Preprints,workshop|Workshops & Short Papers" | split: "," %}
+
+<nav class="pub-toc">
+  <strong>Jump to:</strong>
+  {% for section in sections %}
+    {% assign parts = section | split: "|" %}
+    {% assign key = parts[0] %}
+    {% assign heading = parts[1] %}
+    {% assign count = 0 %}
+    {% for pub in site.data.publications %}{% if pub.category == key %}{% assign count = count | plus: 1 %}{% endif %}{% endfor %}
+    <a href="#{{ key }}">{{ heading }}</a> ({{ count }}){% unless forloop.last %} &middot; {% endunless %}
+  {% endfor %}
+</nav>
+
+{% for section in sections %}
+  {% assign parts = section | split: "|" %}
+  {% assign key = parts[0] %}
+  {% assign heading = parts[1] %}
+
+<h2 id="{{ key }}" class="pub-section-title">{{ heading }}</h2>
 <ol class="publications-list">
 {% for pub in site.data.publications %}
+  {% if pub.category == key %}
   <li class="pub-item">
     <div class="pub-line pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.badge %} <span class="pub-badge pub-badge--{{ pub.badge }}">{% if pub.badge == 'policy' %}Policy{% elsif pub.badge == 'preprint' %}Preprint{% endif %}</span>{% endif %}</div>
     <div class="pub-line pub-authors">{{ pub.authors }}</div>
@@ -49,6 +72,8 @@ author_profile: true
     {% endfor %}
 {% endif %}
   </li>
+  {% endif %}
 {% endfor %}
 </ol>
-<!-- List sourced from _data/publications.yml (same data used on Students page for paper links). -->
+{% endfor %}
+<!-- List sourced from _data/publications.yml; grouped by the `category` field (policy | conference | preprint | workshop). -->

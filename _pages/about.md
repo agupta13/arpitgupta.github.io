@@ -17,6 +17,14 @@ I am an Associate Professor in [Computer Science at UC Santa Barbara](https://cs
 I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at UCSB, where I have been utilizing my system-building skills to address a variety of pressing digital inequity challenges, namely, ensuring secure, performant, and affordable "Internet for All." To this end, my current research focuses on democratizing the development of production-ready ML artifacts for self-driving networks (to ensure performant and secure connectivity with limited infrastructure and operational resources) and enabling data-driven policymaking (to ensure performant and affordable connectivity with limited capital resources).
 
 📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
+
+## Selected Impact
+- **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
+- **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
+- [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
+- **Broadband competition and pricing analysis** used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
+
+For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 
@@ -43,6 +51,7 @@ I also mentor students outside UCSB on their undergraduate thesis projects and r
 Please don't hesitate to contact me if you have any questions. -->
 
 ## Recognition
+- 🏆 **UC Presidential Faculty Fellows Program (PFFP)**, University of California, 2026.
 - 🏆 **Google ML and Systems Junior Faculty Award**, 2025. [Announcement](https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/)
 - 🏆 **Google Research Scholar Award**, 2025. [Announcement](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - 🏆 **NSF CAREER Award**, 2025. [Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777)
