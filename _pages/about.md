@@ -22,7 +22,7 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at 
 - **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
 - **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
 - [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
-- **Broadband competition and pricing analysis** used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
+- [**Broadband competition and pricing analysis**](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf) used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
 
 For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
 <!-- 

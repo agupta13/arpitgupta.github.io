@@ -100,7 +100,7 @@ Our broadband data work informs regulatory, legislative, and community decisions
 * [Systems for Agents, Agents for Systems](https://sites.cs.ucsb.edu/~arpitgupta/blogs/systems-for-agents-agents-for-systems.html), 2026.
 
 ### Data Contributions
-* Broadband Competition and Pricing Strategies in California's Urban Markets, California Public Advocates Office (Cal Advocates), CPUC, 2026. Competition and pricing analysis conducted using UCSB's Broadband Query Tool (BQT).
+* [Broadband Competition and Pricing Strategies in California's Urban Markets](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf), California Public Advocates Office (Cal Advocates), CPUC, 2026. Competition and pricing analysis conducted using UCSB's Broadband Query Tool (BQT).
 * [Dollars to Megabits: How We Uncovered Disparities in Internet Deals](https://themarkup.org/show-your-work/2022/10/19/how-we-uncovered-disparities-in-internet-deals), The Markup, 2022.
 
 ### Community & Policy Engagement
