@@ -37,7 +37,7 @@ author_profile: true
 {% for pub in site.data.publications %}
   {% if pub.category == key %}
   <li class="pub-item">
-    <div class="pub-line pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.badge %} <span class="pub-badge pub-badge--{{ pub.badge }}">{% if pub.badge == 'policy' %}Policy{% elsif pub.badge == 'preprint' %}Preprint{% endif %}</span>{% endif %}</div>
+    <div class="pub-line pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></div>
     <div class="pub-line pub-authors">{{ pub.authors }}</div>
     {% capture venue_display %}{% include venue_display.html venue=pub.venue %}{% endcapture %}
     <div class="pub-line pub-venue">{{ venue_display | strip }}, {{ pub.year }}</div>
