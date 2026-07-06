@@ -56,12 +56,18 @@ h1, h2, h3, h4,
   > h3:first-child { margin-top: 0.2em; }
 }
 
-/* Readable measure — prose is capped; tables/figures stay full width */
+/* Wide-screen composition: tighten the outer wrap so nav, content, and text
+   column align and the surplus becomes symmetric page margin rather than a
+   lonely empty band on the right (the "too much whitespace" on large displays). */
+#main,
+.masthead__inner-wrap { max-width: 68rem; }
+
+/* Readable measure — prose is capped to roughly fill its column; tables/figures full width */
 .page__content {
   font-size: 1.05em;
 
   p, ul, ol, blockquote {
-    max-width: 44rem;
+    max-width: 54rem;
     line-height: 1.72;
   }
   li { margin-bottom: 0.3em; }
