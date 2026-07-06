@@ -98,6 +98,28 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* Sidebar contact/social icons: keep visible in both themes. MM's rules only
+   covered .social-icons .fa/.fab, missing .fas (envelope, grad-cap) and the
+   academicons, so they rendered dark-on-dark. Color every sidebar icon. */
+.sidebar .fa,
+.sidebar .fas,
+.sidebar .far,
+.sidebar .fab,
+.sidebar .ai,
+.author__urls .fa,
+.author__urls .fas,
+.author__urls .far,
+.author__urls .fab,
+.author__urls .ai {
+  color: var(--link) !important;
+}
+.sidebar a:hover .fa,
+.sidebar a:hover .fas,
+.sidebar a:hover .fab,
+.sidebar a:hover .ai {
+  color: var(--link-hover) !important;
+}
+
 /* Papers expander inside the alumni "Others" table */
 .paper-cell > summary {
   cursor: pointer;
