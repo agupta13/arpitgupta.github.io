@@ -129,44 +129,81 @@ It has been an absolute honor and privilege to get the opportunities to organize
 
 ### Updates
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
+- `Jun 2026`: Served on the Automation and Data Generation panels at the Workshop on Generative AI in Networking, University of Chicago Paris Center, France.
 - `May 2026`: [Sylee (Roman) Beltiukov](https://maybe-hello-world.github.io/) graduated with his Ph.D., *Credible Machine Learning for Networking*. 🎓
 - `May 2026`: Delivered a Congressional staff briefing, "Building Trust in Public Institutions," at the Dirksen Senate Office Building as a UC Presidential Faculty Fellow.
+- `May 2026`: Sanjay Chandrasekaran received the UCSB CS Outstanding Teaching Assistant Award. 🏆
+- `May 2026`: [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141) appeared at USENIX NSDI 2026, led by [Haarika Manda](https://haarikamanda.github.io/).
+- `May 2026`: SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate appeared at USENIX NSDI 2026.
 - `Mar 2026`: Selected for the [UC Presidential Faculty Fellows Program (PFFP)](https://cs.ucsb.edu/happenings/announcement/arpit-gupta-selected-uc-presidential-faculty-fellows-program). 🏆
-- `Jan 2026`: The California Public Advocates Office released [Broadband Competition and Pricing Strategies in California's Urban Markets](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf), built on our BQT data.
-- `Jan 2026`: Awarded a California Public Utilities Commission (CPUC) contract to effectively measure broadband affordability in California.
-- `Dec 2025`: [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089) appeared at NeurIPS 2025 (Datasets & Benchmarks Track).
-- `Nov 2025`: Delivered a keynote at the INDIS Workshop (SC25).
-- `Nov 2025`: Our study, [Beyond Access: Broadband Affordability & Adoption](https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf), was delivered to the Virginia General Assembly (JCOTS).
-- `Sep 2025`: [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf) appeared at ACM SIGCOMM 2025.
+- `Mar 2026`: Moderated the session on Agentic AI in Network Measurement and Infrastructure at the CAIDA AIMS Workshop, UC San Diego.
+- `Feb 2026`: Co-authored [Broadband Affordability and the BEAD Program](https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf), a policy brief for USC Annenberg's MEDIA Project.
 
 <details class="updates-more" markdown="1">
 <summary>Show earlier updates</summary>
 
+- `Jan 2026`: The California Public Advocates Office released [Broadband Competition and Pricing Strategies in California's Urban Markets](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf), built on our BQT data.
+- `Jan 2026`: Awarded a California Public Utilities Commission (CPUC) contract to effectively measure broadband affordability in California.
+- `Dec 2025`: [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089) appeared at NeurIPS 2025 (Datasets & Benchmarks Track).
+- `Dec 2025`: [NetGent: Agent-Based Automation of Network Application Workflows](https://arxiv.org/pdf/2509.00625) appeared at the NeurIPS 2025 Workshop on ML for Systems.
+- `Nov 2025`: Delivered a keynote at the INDIS Workshop (SC25).
+- `Nov 2025`: Our study, [Beyond Access: Broadband Affordability & Adoption](https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf), was delivered to the Virginia General Assembly (JCOTS).
+- `Nov 2025`: Awarded a Cisco Research grant, *Bridging the Representation-Semantics Gap for Production-Ready AI-Powered Network Operations*.
+- `Oct 2025`: Delivered a keynote at the inaugural IMC Student Workshop, co-located with ACM IMC 2025.
+- `Sep 2025`: [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf) appeared at ACM SIGCOMM 2025.
+- `Sep 2025`: SpliDT (short paper) appeared at ACM SIGCOMM 2025.
+- `Sep 2025`: Presented three broadband-funding studies (BEAD service gaps, federal program interdependencies, and strategic reporting in the National Broadband Map) at TPRC 2025.
 - `Jul 2025`: Received the **Google ML and Systems Junior Faculty Award** and the **Google Research Scholar Award**. 🏆
+- `Jul 2025`: Awarded a CPUC grant to characterize broadband pricing in California and a JCOTS grant to study digital-inclusion barriers in Virginia.
 - `Jun 2025`: [Laasya Koduru](https://lmkoduru.github.io/) received the **Department of Energy GEM Fellowship**. 🏆
 - `May 2025`: Received the **Marjorie & Charles Benton Opportunity Fund Fellowship**. 🏆
-- `Apr 2025`: The proposal, [CAREER: Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777), has been awarded the Faculty Early Career Development (CAREER) Award from the National Science Foundation (NSF). Please find more details about this project in this [article](https://engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology). 
-- `Jan 2025`: Our paper, [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024, received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Haarika Manda](https://haarikamanda.github.io/) and team for yet another recognition for their awesome work! 🏆
-- `Dec 2024`: [Chaofan Shou](https://scf.so/) presented our work on query planning for hybrid network telemetry systems at **CoNEXT, 2024**. This brings an end to our long (and painful) journey on this project. 
-- `Nov 2024`: I had the privilege to talk about our efforts to develop production-ready ML models for networking at Google's [AIOps Summit](#). Exciting times for networking! 
-- `Nov 2024`: I had the privilege of contributing to a webinar hosted by [The Networking Channel](https://networkingchannel.eu/) on [Internet Measurements: The User Perspective](https://networkingchannel.eu/internet-measurements-the-user-perspective/). The recording of the webinar is available [here](https://youtu.be/TWv6MnTmubM?feature=shared&t=1858). 
-- `Mar 2024`: Our paper, [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf), got accepted at **IEEE Symposium on Security and Privacy (S&P), 2024**. Kudos to [Chris Misa](https://ix.cs.uoregon.edu/~cmisa/) for all the hard work and perseverance. This is the first work that demonstrates how we can leverage the fractal (self-similar) nature of IP addresses to design a more effective DDoS defense system, targeted primarily for small and medium enterprises (SMEs). This work is in line with my various ongoing efforts in our group that aim to ensure *secure and performant Internet connectivity for All*.
-- `Jan 2024`: Our paper, [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf), got accepted at **CoNEXT, 2024**. Kudos to [Chaofan Shou](https://scf.so/), a prodigious UCSB graduate, for his super-heroic effort. This work builds upon Sonata, developing a novel query planning technique to effectively handle changes in traffic or query workloads. This project holds special significance for me as a mentor because the lead author, [Chaofan Shou](https://scf.so/), was an undergraduate at UCSB when he completed this project.
-- `Aug 2023`: Our paper, [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), got accepted at **ACM CCS'23**. Kudos to [Roman](https://maybe-hello-world.github.io/) for developing such an impressive and useful system! Please find more information about the project [here](https://netunicorn.cs.ucsb.edu/).
-- `Jun 2023`: Udit Paul received the [Computer Science Outstanding Publication Award](#).  🏆
-- `Jun 2023`: Udit Paul received the [Computer Science Outstanding Dissertation Award](#).  🏆
-- `May 2023`: Our paper, [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work! Please find more information about our BQT tool [here](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt).
-- `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
-- `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
-- `Nov 2022`: Our paper, [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), received the **Best Paper Honorable Mention** at ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. It was rated as the best paper in the `Machine Learning and Security` track. Special congratulations to [Roman Beltiukov](https://maybe-hello-world.github.io/) and [Arthur Jacobs](https://asjacobs92.github.io/)! 🏆
-- `Nov 2022`: I had the privilege to visit Lawrence Berkeley National Lab (LBNL). Special thanks to [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/) for hosting me.
-- `Oct 2022`: I had the privilege to present the [Trustee](https://trusteeml.github.io/) work at ETH Zurich. Special thanks to [Laurent Vanbever](https://vanbever.eu/) for hosting me.
-- `Oct 2022`: Our paper, [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) received the **Distinguished Paper Award (Long)** at ACM SIGCOMM Internet Measurements Conference (IMC), 2022. Special congratulations to my student, [Udit Paul](https://u-paul.github.io/)! 🏆  
-- `Jun 2022`: Sanjay Chandrasekaran received the [Computer Science Outstanding Graduate Research Award](https://twitter.com/ucsbcs/status/1536401430885502977?s=20&t=MI_TLmE3VPdooGWmEWqLXQ). 🏆  
-- `Jun 2022`: Rohan Bhatia received the [Computer Science Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976).  🏆  
-- `Jun 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).  🏆  
-- `Apr 2022`: Congcong Miao (Tencent) will present our work on detecting ephemeral network events in optical transport network at NSDI 2022.
-- `Feb 2022`: I talked about our efforts to democratize networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/#content).
--  `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network. 🏆
+- `Apr 2025`: Awarded the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) to develop generalizable ML models for network operations. 🏆
+- `Apr 2025`: Awarded a Pew Charitable Trusts grant to measure the effectiveness of digital-inclusion approaches.
+- `Jan 2025`: Our SIGCOMM 2024 paper, [Assessing the Efficacy of the Connect America Fund](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), received the **IETF/IRTF Applied Networking Prize (ANRP)**, led by [Haarika Manda](https://haarikamanda.github.io/). 🏆
+- `Dec 2024`: [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf) was presented at ACM CoNEXT 2024, led by UCSB undergraduate [Chaofan Shou](https://scf.so/).
+- `Dec 2024`: [NetworkGym: RL Environments for Multi-Access Traffic Management](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/networkgym.pdf) appeared at NeurIPS 2024 (Datasets & Benchmarks Track).
+- `Nov 2024`: Spoke about production-ready ML models for networking at Google's AIOps Summit.
+- `Nov 2024`: Contributed to [The Networking Channel](https://networkingchannel.eu/) webinar on [Internet Measurements: The User Perspective](https://networkingchannel.eu/internet-measurements-the-user-perspective/).
+- `Oct 2024`: Filed an [amicus curiae brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf) in *Wisconsin Bell v. U.S. ex rel. Heath* at the U.S. Supreme Court.
+- `Aug 2024`: [Assessing the Efficacy of the Connect America Fund](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf) appeared at ACM SIGCOMM 2024, led by [Haarika Manda](https://haarikamanda.github.io/).
+- `Aug 2024`: [Udit Paul](https://u-paul.github.io/) received the **ACM SIGCOMM Doctoral Dissertation Award**. 🏆
+- `Jul 2024`: [Measuring Broadband Policy Success](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success) was published in the Harvard Law Review Blog.
+- `May 2024`: [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf) appeared at IEEE S&P 2024, led by [Chris Misa](https://ix.cs.uoregon.edu/~cmisa/).
+- `Apr 2024`: Awarded a Cisco Research grant, *Telemetry-driven Foundation Models for Self-Driving Networks*.
+- `Apr 2024`: [Haarika Manda](https://haarikamanda.github.io/) received the **NSF Graduate Research Fellowship (GRFP)**. 🏆
+- `Jan 2024`: Awarded a DOE compute allocation (GPU/CPU hours, with ESnet) for netFound.
+- `Nov 2023`: [In Search of netUnicorn: A Data-Collection Platform for Generalizable ML Models](https://arxiv.org/pdf/2306.08853.pdf) appeared at ACM CCS 2023, led by [Roman Beltiukov](https://maybe-hello-world.github.io/).
+- `Oct 2023`: [Estimating WebRTC Video QoE Metrics Without Using Application Headers](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/webrtc_imc23.pdf) appeared at ACM IMC 2023.
+- `Oct 2023`: Awarded the NSF IMR grant *NetFlex* for a privacy-preserving network measurement platform.
+- `Sep 2023`: [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf) appeared at ACM SIGCOMM 2023, led by [Udit Paul](https://u-paul.github.io/).
+- `Sep 2023`: Organized the [ACM SIGCOMM 2023 Tutorial on Closed-Loop ML (for Networks) Pipelines](https://conferences.sigcomm.org/sigcomm/2023/tutorial-ml4nets.html).
+- `Aug 2023`: [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147) appeared at ACM VLDB 2023.
+- `Jun 2023`: [Udit Paul](https://u-paul.github.io/) received the UCSB Computer Science Outstanding Dissertation Award. 🏆
+- `Jun 2023`: [Udit Paul](https://u-paul.github.io/) received the UCSB Computer Science Outstanding Publication Award. 🏆
+- `Jun 2023`: [Roman Beltiukov](https://maybe-hello-world.github.io/) received the UCSB Computer Science Summer Fellowship. 🏆
+- `Jun 2023`: Organized the [NSF "Bridging the Divide" workshop](https://www.law.berkeley.edu/research/bclt/bcltevents/bridging-the-divide-answering-internet-policy-questions-with-cutting-edge-network-measurement-algorithms-datasets-and-platforms/) and the [SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://measure-selfdn23.cs.ucsb.edu/).
+- `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **IETF/IRTF Applied Networking Prize (ANRP)**, led by [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/). 🏆
+- `Nov 2022`: [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf) received the **Best Paper Honorable Mention** at ACM CCS 2022. 🏆
+- `Nov 2022`: Visited Lawrence Berkeley National Lab, hosted by [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/).
+- `Oct 2022`: Presented the [Trustee](https://trusteeml.github.io/) work at ETH Zurich, hosted by [Laurent Vanbever](https://vanbever.eu/).
+- `Oct 2022`: [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) received the **Distinguished Paper Award** at ACM IMC 2022, led by [Udit Paul](https://u-paul.github.io/). 🏆
+- `Oct 2022`: Awarded two NSF IMR grants, *ADDRESS* (crowdsourced measurement synthesis) and a programmable closed-loop measurement platform for last-mile networks.
+- `Sep 2022`: [Internet Inequity in Chicago: Adoption, Affordability, and Availability](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf) appeared at TPRC 2022.
+- `Jun 2022`: [Sanjay Chandrasekaran](https://twitter.com/ucsbcs/status/1536401430885502977) received the UCSB CS Outstanding Graduate Research Award. 🏆
+- `Jun 2022`: Rohan Bhatia received the [UCSB CS Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976). 🏆
+- `Jun 2022`: [Chaofan Shou](https://scf.so/) received the [UCSB CS Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees). 🏆
+- `Jun 2022`: [Characterizing Internet Access and Quality Inequities in California](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/compass22.pdf) appeared at ACM COMPASS 2022.
+- `Apr 2022`: [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf) was presented at USENIX NSDI 2022 by Congcong Miao (Tencent).
+- `Feb 2022`: Spoke on democratizing networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/).
+- `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship. 🏆
+- `Nov 2021`: Organized the [NSF Workshop on Internet Frontiers & Opportunities](https://datascience.uchicago.edu/events/internet-frontiers-and-opportunities-workshop).
+- `Jul 2021`: [Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/non-binary-coverage.pdf) appeared at ICCCN 2021.
+- `Jun 2021`: [Continuous Flow Measurement with SuperFlow](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/superflow.pdf) appeared at IEEE/ACM IWQoS 2021.
+- `Mar 2021`: [Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/too_late_for_playback_pam_2021_camera_ready.pdf) appeared at PAM 2021.
+- `Oct 2020`: Organized the [NSF Workshop on NextG Security](https://nsf-nextg-security.cs.ucsb.edu/).
+- `Jul 2020`: [(How Much) Does a Private WAN Improve Cloud Performance?](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cloud_infocom_2020.pdf) appeared at IEEE INFOCOM 2020.
+- `Mar 2020`: [PacketScope: Monitoring the Packet Lifecycle Inside a Switch](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/packetscope.pdf) appeared at ACM SOSR 2020.
+- `Nov 2019`: [An Effort to Democratize Networking Research in the Era of AI/ML](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/democratize_netai.pdf) and [Beating BGP is Harder than We Thought](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/beating_bgp.pdf) appeared at ACM HotNets 2019.
+- `Apr 2019`: Organized the [NSF Workshop on Measurements for Self-Driving Networks](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/measure_selfdn_workshop.pdf).
 
-</details>  
+</details>
