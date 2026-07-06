@@ -47,10 +47,10 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **Google ML and Systems Junior Faculty Award**, 2025. [Announcement](https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/)
 - 🏆 **Google Research Scholar Award**, 2025. [Announcement](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - 🏆 **NSF CAREER Award**, 2025. [Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777)
-- 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2025. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf)
+- 🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**, IETF/IRTF, 2025. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf)
 - 🏆 **Marjorie & Charles Benton Opportunity Fund Fellowship**, Benton Institute, 2025. [Announcement](https://www.benton.org/content/benton-institute-broadband-society-announces-marjorie-charles-benton-opportunity-fund)
 - 🏆 **SIGCOMM Dissertation Award (Advisee: Udit Paul)**, 2024. [Dissertation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf)
-- 🏆 **IETF/IRTF Applied Networking Prize (ANRP)**, IETF/IRTF, 2023. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
+- 🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**, IETF/IRTF, 2023. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
 - 🏆 **Best Paper Honorable Mention**, ACM CCS, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
 - 🏆 **Distinguished Paper Award**, ACM IMC, 2022. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf)
 - 🏆 **SIGCOMM Dissertation Award Honorable Mention**, 2018. [Dissertation](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis.pdf)
@@ -61,13 +61,13 @@ Please don't hesitate to contact me if you have any questions. -->
 
 ## Selected Publications
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
-🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
+🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**
 - [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf), \
 Doctoral Dissertation, [Udit Paul](https://u-paul.github.io/), University of California Santa Barbara (UCSB), 2023. \
 🏆 **ACM SIGCOMM Doctoral Dissertation Award**
 - [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf), ACM CCS, 2022.\
 🏆 **Best Paper Honorable Mention**\
-🏆 **IETF/IRTF Applied Networking Prize (ANRP)**
+🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**
 - [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) ACM IMC, 2022. \
 🏆 **Distinguished Paper Award (Long)**
 - [Detecting Ephemeral Optical Events with OpTel](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/OpTel_camera_ready.pdf), USENIX NSDI, 2022.\
@@ -95,7 +95,7 @@ For the full record of policy briefs, amicus work, and community engagement, see
 
 ## Selected Talks
 - *Making the Self-Driving "Net" Work: Developing Production-Ready ML Models for Self-Driving Networks*, keynote, INDIS Workshop, SC25, 2025.
-- *Making the "Net" Work for All: From Measurement to Impact*, keynote, inaugural IMC Student Workshop, 2025.
+- *Making the "Net" Work for All: From Measurements to Impact*, keynote, inaugural IMC Student Workshop, 2025.
 - *In Search of a Networking Unicorn*, keynote, 8th KNIT Workshop, San Diego Supercomputer Center, 2024.
 - Invited briefing to the Virginia JCOTS full commission, Richmond, 2025.
 
@@ -168,7 +168,7 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `May 2025`: Received the **Marjorie & Charles Benton Opportunity Fund Fellowship**. 🏆
 - `Apr 2025`: Awarded the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777) to develop generalizable ML models for network operations. 🏆
 - `Apr 2025`: Awarded a Pew Charitable Trusts grant to measure the effectiveness of digital-inclusion approaches.
-- `Jan 2025`: Our SIGCOMM 2024 paper, [Assessing the Efficacy of the Connect America Fund](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), received the **IETF/IRTF Applied Networking Prize (ANRP)**, led by [Haarika Manda](https://haarikamanda.github.io/). 🏆
+- `Jan 2025`: Our SIGCOMM 2024 paper, [Assessing the Efficacy of the Connect America Fund](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), received the **IETF/IRTF Applied Networking Research Prize (ANRP)**, led by [Haarika Manda](https://haarikamanda.github.io/). 🏆
 - `Dec 2024`: [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf) was presented at ACM CoNEXT 2024, led by UCSB undergraduate [Chaofan Shou](https://scf.so/).
 - `Dec 2024`: [NetworkGym: RL Environments for Multi-Access Traffic Management](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/networkgym.pdf) appeared at NeurIPS 2024 (Datasets & Benchmarks Track).
 - `Nov 2024`: Spoke about production-ready ML models for networking at Google's AIOps Summit.
@@ -191,7 +191,7 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `Jun 2023`: [Udit Paul](https://u-paul.github.io/) received the UCSB Computer Science Outstanding Publication Award. 🏆
 - `Jun 2023`: [Roman Beltiukov](https://maybe-hello-world.github.io/) received the UCSB Computer Science Summer Fellowship. 🏆
 - `Jun 2023`: Organized the [NSF "Bridging the Divide" workshop](https://www.law.berkeley.edu/research/bclt/bcltevents/bridging-the-divide-answering-internet-policy-questions-with-cutting-edge-network-measurement-algorithms-datasets-and-platforms/) and the [SIGMETRICS Workshop on Measurements for Self-Driving Networks](https://measure-selfdn23.cs.ucsb.edu/).
-- `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **IETF/IRTF Applied Networking Prize (ANRP)**, led by [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/). 🏆
+- `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **IETF/IRTF Applied Networking Research Prize (ANRP)**, led by [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/). 🏆
 - `Nov 2022`: [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf) received the **Best Paper Honorable Mention** at ACM CCS 2022. 🏆
 - `Nov 2022`: Visited Lawrence Berkeley National Lab, hosted by [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/).
 - `Oct 2022`: Presented the [Trustee](https://trusteeml.github.io/) work at ETH Zurich, hosted by [Laurent Vanbever](https://vanbever.eu/).
