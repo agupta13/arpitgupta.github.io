@@ -28,8 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+$fraunces                   : "Fraunces", Georgia, "Times New Roman", serif;
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $fraunces;
 $caption-font-family        : $serif;
 
 /* type scale */
