@@ -110,6 +110,26 @@ Our broadband data work informs regulatory, legislative, and community decisions
 * **Affordable broadband for multi-dwelling units** (2023–): assessing broadband offerings in MDUs using the BQT tool.
 * **Santa Barbara County** (2023): report on the state of broadband affordability shared with the county.
 
+## Invited Talks & Keynotes
+
+### Keynotes
+* *Making the Self-Driving "Net" Work: Developing Production-Ready ML Models for Self-Driving Networks*, INDIS Workshop, SC25 (Supercomputing), St. Louis, MO, 2025.
+* *Making the "Net" Work for All: From Measurement to Impact*, inaugural IMC Student Workshop (ACM IMC 2025), 2025.
+* *In Search of a Networking Unicorn: Realizing Closed-Loop ML Pipelines for Networking*, 8th KNIT Workshop, San Diego Supercomputer Center, 2024.
+
+### Invited Talks & Panels
+* Automation and Data Generation panels, Workshop on Generative AI in Networking, University of Chicago Paris Center, France, 2026.
+* *Making Networks Reliable with AI* (panel), Google India Networking Research Summit, Bengaluru, India, 2026.
+* *Agentic AI in Network Measurement and Infrastructure* (moderated session), CAIDA AIMS Workshop, UC San Diego, 2026.
+* *Demystifying Network Foundation Models*, Google Networking Research Summit, Sunnyvale, CA, 2025.
+* *Making the Self-Driving "Net" Work*, 6GIC-CLICK Workshop on Telecom AI, University of Surrey, UK, 2025.
+* *Making the "Net" Work for All: Enabling Secure, Performant, and Equitable Internet Services*, AWS Networking Research Seminar; Georgia Tech; University of Chicago; Purdue University, 2024.
+* *Democratizing the Development of Production-ready ML Artifacts for Networking*, IIT Roorkee; IIT Delhi; IIIT Delhi, 2023.
+* *In Search of a Networking Unicorn: Realizing Closed-loop ML Pipelines for Networking*, IISER Bhopal; Stanford University, 2023.
+* *Closed-loop ML for Networking* (panel), Google Networking Research Summit, Sunnyvale, CA, 2023.
+* *AI/ML for Network Security: The Emperor has no Clothes*, ETH Zurich, Switzerland, 2022.
+* *Democratizing Networking Research in the Era of AI/ML*, Google Networking Research Summit (virtual), 2022.
+
 ## Representative Systems
 
 * [BQT / BQT+](https://address.cs.ucsb.edu/bqt/) — broadband plan querying tool

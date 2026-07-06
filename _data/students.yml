@@ -273,12 +273,14 @@ alumni_bsms:
     project: Dynamic Query Planning for Network Streaming Telemetry Systems
     type: MS Project
     affiliation: UCSB → Google
+    papers: [dynamap, dynamiq]
   - name: Navya Battula
     years: "2022-23"
     exit_year: 2023
     project: Flexible and scalable data preprocessing system for ML for Networks pipelines
     type: MS Thesis
     affiliation: UCSB → AI/ML Engineer, OQ Point
+    papers: [netfound]
   - name: Sam Liang
     years: "2021-22"
     exit_year: 2022
@@ -333,6 +335,7 @@ alumni_bsms:
     project: Dynamic Query Planning for Network Streaming Telemetry Systems
     type: BS Project
     affiliation: UCSB → Salesforce → UC Berkeley
+    papers: [dynamap]
   - name: Jake Miller
     years: "2020-21"
     exit_year: 2021
@@ -381,6 +384,7 @@ alumni_bsms:
     project: A data-driven approach for detecting network degradation
     type: BS Thesis
     affiliation: IIT Roorkee → Microsoft (Research Fellow)
+    papers: [clam]
   - name: Grant Withee
     years: "2021-22"
     exit_year: 2022
@@ -393,12 +397,14 @@ alumni_bsms:
     project: "NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation (co-author; see Publications)"
     type: High School Project
     affiliation: Cary Academy High School
+    papers: [netreplica]
   - name: Eugene Vuong
     years: "2025"
     exit_year: 2025
     project: "NetGent: Agent-Based Automation of Network Application Workflows (see Publications)"
     type: Cal-Bridge
     affiliation: CSU East Bay
+    papers: [netgent]
   - name: Rohan Bhatia
     years: "2019-20"
     exit_year: 2020
@@ -487,6 +493,7 @@ alumni_bsms:
     type: ERSP
     affiliation: UCSB
   # BITS Hyderabad (undergrad project before PhD at UCSB)
+    papers: [caf-sigcomm24, measuring-broadband-blog]
   - name: Haarika Manda
     years: "2022-23"
     exit_year: 2023
@@ -506,7 +513,7 @@ alumni_bsms:
     project: "Analyzing the Impact of Socioeconomic Factors on Broadband Pricing: Insights from the Broadband-plan Querying Tool"
     type: MS Project
     affiliation: UCSB
-    papers: [caf-sigcomm24]
+    papers: [caf-sigcomm24, measuring-broadband-blog]
   - name: Alexander Nguyen
     years: "2025"
     exit_year: 2025
@@ -537,10 +544,11 @@ alumni_bsms:
     project: "NetReplica (co-author; see Publications)"
     type: MS Project
     affiliation: UCSB
-    papers: [netreplica]
   - name: Punnal Ismail Khan
     years: "2021-25"
     exit_year: 2025
     project: "netMosaic: Harnessing Public Code Repositories to Develop Production-Ready ML Artifacts for Networking"
     type: MS Project
     affiliation: UCSB
+
+    papers: [panakos, harnessing-public-code]

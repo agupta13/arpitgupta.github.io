@@ -263,6 +263,7 @@ author_profile: true
           <th class="students-table__project">Project</th>
           <th class="students-table__type">Type</th>
           <th class="students-table__affiliation">Affiliation</th>
+          <th class="students-table__papers">Papers</th>
         </tr>
       </thead>
       <tbody>
@@ -274,6 +275,16 @@ author_profile: true
           <td class="students-table__project">{{ s.project }}</td>
           <td class="students-table__type">{{ s.type }}</td>
           <td class="students-table__affiliation">{{ s.affiliation }}</td>
+          <td class="students-table__papers">
+            {% assign pc = s.papers | size %}
+            {% if pc > 0 %}
+            <details class="paper-cell"><summary>{{ pc }}</summary>
+              <ul>
+                {% for pid in s.papers %}{% for pub in site.data.publications %}{% if pub.id == pid %}<li><a href="{{ pub.url }}">{{ pub.title }}</a></li>{% break %}{% endif %}{% endfor %}{% endfor %}
+              </ul>
+            </details>
+            {% endif %}
+          </td>
         </tr>
         {% endfor %}
       </tbody>

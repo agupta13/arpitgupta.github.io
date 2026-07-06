@@ -43,7 +43,7 @@ I also mentor students outside UCSB on their undergraduate thesis projects and r
 Please don't hesitate to contact me if you have any questions. -->
 
 ## Recognition
-- 🏆 **[UC Presidential Faculty Fellows Program (PFFP)](https://cs.ucsb.edu/happenings/announcement/arpit-gupta-selected-uc-presidential-faculty-fellows-program)**, University of California, 2026.
+- 🏆 **UC Presidential Faculty Fellows Program (PFFP)**, University of California, 2026. [Announcement](https://cs.ucsb.edu/happenings/announcement/arpit-gupta-selected-uc-presidential-faculty-fellows-program)
 - 🏆 **Google ML and Systems Junior Faculty Award**, 2025. [Announcement](https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/)
 - 🏆 **Google Research Scholar Award**, 2025. [Announcement](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - 🏆 **NSF CAREER Award**, 2025. [Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777)
@@ -87,10 +87,19 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
 ## Selected Impact
 - **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
 - **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
+- **Invited briefing** to the Virginia Joint Commission on Technology and Science (JCOTS) full commission, Richmond, 2025, presenting our broadband-affordability findings.
 - [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
 - [**Broadband competition and pricing analysis**](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf) used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
 
 For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
+
+## Selected Talks
+- *Making the Self-Driving "Net" Work: Developing Production-Ready ML Models for Self-Driving Networks*, keynote, INDIS Workshop, SC25, 2025.
+- *Making the "Net" Work for All: From Measurement to Impact*, keynote, inaugural IMC Student Workshop, 2025.
+- *In Search of a Networking Unicorn*, keynote, 8th KNIT Workshop, San Diego Supercomputer Center, 2024.
+- Invited briefing to the Virginia JCOTS full commission, Richmond, 2025.
+
+See my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#invited-talks--keynotes) for the full list of talks.
 
 <!-- ## Ongoing Projects
 - [BQT](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
