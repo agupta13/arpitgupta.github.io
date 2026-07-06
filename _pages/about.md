@@ -43,7 +43,7 @@ I also mentor students outside UCSB on their undergraduate thesis projects and r
 Please don't hesitate to contact me if you have any questions. -->
 
 ## Recognition
-- 🏆 **UC Presidential Faculty Fellows Program (PFFP)**, University of California, 2026.
+- 🏆 **[UC Presidential Faculty Fellows Program (PFFP)](https://cs.ucsb.edu/happenings/announcement/arpit-gupta-selected-uc-presidential-faculty-fellows-program)**, University of California, 2026.
 - 🏆 **Google ML and Systems Junior Faculty Award**, 2025. [Announcement](https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/)
 - 🏆 **Google Research Scholar Award**, 2025. [Announcement](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - 🏆 **NSF CAREER Award**, 2025. [Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777)
