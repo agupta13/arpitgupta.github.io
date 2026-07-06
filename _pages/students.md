@@ -92,6 +92,7 @@ author_profile: true
     </table>
   </div>
 
+  {% if site.data.students.current_ms.size > 0 %}
   <h3>MS Students</h3>
   <div class="table-responsive">
     <table class="students-table">
@@ -117,6 +118,7 @@ author_profile: true
       </tbody>
     </table>
   </div>
+  {% endif %}
 
   <h3>BS/MS Students</h3>
   <div class="table-responsive">

@@ -59,7 +59,6 @@ We are building a programmable experimentation infrastructure that enables scala
 * **[netUnicorn](https://netunicorn.cs.ucsb.edu/)** — distributed orchestration across heterogeneous environments; adopted as a reproducibility substrate.
 * **NetReplica** — an evolving bottleneck-aware emulation framework for controlled experimentation.
 * **NetGent** — an agentic workflow automation system that compiles high-level specifications into deterministic, reusable execution pipelines.
-* **[PINOT](https://pinot.cs.ucsb.edu/)** — a campus-scale programmable measurement infrastructure for collecting labeled network data; in use at LBNL/ESnet.
 
 These systems share a central architectural insight: complex operational tasks become reliable and scalable when decomposed into smaller, verifiable components — a principle mirrored in BQT+.
 

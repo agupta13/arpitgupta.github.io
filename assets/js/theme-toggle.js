@@ -5,7 +5,7 @@
   if (saved === "light" || saved === "dark") {
     root.setAttribute("data-theme", saved);
   } else {
-    root.setAttribute("data-theme", "light");
+    root.setAttribute("data-theme", "dark");
   }
 
   var updateAllPressed = function () {

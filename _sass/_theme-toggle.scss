@@ -3,7 +3,6 @@
    ========================================================================== */
 
 /* Light theme (default): UCSB brand (cs.ucsb.edu) — Navy #003660, text #3D4952, light gray surfaces */
-:root,
 html[data-theme="light"] {
   --bg: #ffffff;
   --surface: #eef0f2;
@@ -16,7 +15,8 @@ html[data-theme="light"] {
   --table-header-bg: #dce1e5;
 }
 
-/* Dark theme override */
+/* Dark theme (default) */
+:root,
 html[data-theme="dark"] {
   --bg: #0b0d10;
   --surface: #0f1216;

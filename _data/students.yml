@@ -75,12 +75,7 @@ current_phd:
     internships: []
     papers: []
 
-current_ms:
-  - name: Amrutha Kalle
-    years: "2025-*"
-    project: "US/CMS Network Traffic Classification using NetFound (jointly with Anna Giannakou, LBNL)"
-    type: MS Project
-    affiliation: UCSB
+current_ms: []
 current_high_school:
   - name: Sthanav Murali
     years: "2026-*"
@@ -227,7 +222,7 @@ alumni_phd:
     affiliation: UCSB
     website: "https://maybe-hello-world.github.io/"
     image: sylee-beltiukov.jpg
-    placement: ""
+    placement: "Google"
     honors:
       - "IRTF Applied Networking Research Prize (ANRP), IETF/IRTF, 2023."
       - "Best Paper Honorable Mention, ACM CCS, 2022."
@@ -271,7 +266,7 @@ alumni_bsms:
     exit_year: 2021
     project: Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events
     type: MS Project
-    affiliation: UCSB
+    affiliation: UCSB → Embedded SWE, Ciena
   - name: Rohan Bhatia
     years: "2020-22"
     exit_year: 2022
@@ -283,7 +278,7 @@ alumni_bsms:
     exit_year: 2023
     project: Flexible and scalable data preprocessing system for ML for Networks pipelines
     type: MS Thesis
-    affiliation: UCSB
+    affiliation: UCSB → AI/ML Engineer, OQ Point
   - name: Sam Liang
     years: "2021-22"
     exit_year: 2022
@@ -505,18 +500,44 @@ alumni_bsms:
     project: Replication of BST Methodology (IMC'23 Best Paper)
     type: BS Project
     affiliation: San Francisco State University
-  - name: Xuanhe Zhou
+  - name: Zephyr (Xuanhe) Zhou
     years: "2023-24"
     exit_year: 2024
     project: "Analyzing the Impact of Socioeconomic Factors on Broadband Pricing: Insights from the Broadband-plan Querying Tool"
     type: MS Project
     affiliation: UCSB
+    papers: [caf-sigcomm24]
   - name: Alexander Nguyen
     years: "2025"
     exit_year: 2025
     project: Assessing Density-Driven Disparities in Broadband Access and Pricing
     type: MS Project
     affiliation: UCSB
+  - name: Amrutha Kalle
+    years: "2025-26"
+    exit_year: 2026
+    project: "US/CMS Network Traffic Classification using netFound (with Anna Giannakou, LBNL)"
+    type: MS Project
+    affiliation: UCSB → Lawrence Livermore National Laboratory
+  - name: Khalid Mihlar
+    years: "2022-24"
+    exit_year: 2024
+    project: ""
+    type: MS
+    affiliation: UCSB → PhD, University of Utah
+  - name: Abhishek Kumar
+    years: "2024-26"
+    exit_year: 2026
+    project: ""
+    type: MS
+    affiliation: UCSB → Unwrap
+  - name: Jessica Nguyen
+    years: "2024-25"
+    exit_year: 2025
+    project: "NetReplica (co-author; see Publications)"
+    type: MS Project
+    affiliation: UCSB
+    papers: [netreplica]
   - name: Punnal Ismail Khan
     years: "2021-25"
     exit_year: 2025
