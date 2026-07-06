@@ -138,6 +138,10 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `Nov 2025`: Delivered a keynote at the INDIS Workshop (SC25).
 - `Nov 2025`: Our study, [Beyond Access: Broadband Affordability & Adoption](https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf), was delivered to the Virginia General Assembly (JCOTS).
 - `Sep 2025`: [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf) appeared at ACM SIGCOMM 2025.
+
+<details class="updates-more" markdown="1">
+<summary>Show earlier updates</summary>
+
 - `Jul 2025`: Received the **Google ML and Systems Junior Faculty Award** and the **Google Research Scholar Award**. 🏆
 - `Jun 2025`: [Laasya Koduru](https://lmkoduru.github.io/) received the **Department of Energy GEM Fellowship**. 🏆
 - `May 2025`: Received the **Marjorie & Charles Benton Opportunity Fund Fellowship**. 🏆
@@ -163,4 +167,6 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `Jun 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).  🏆  
 - `Apr 2022`: Congcong Miao (Tencent) will present our work on detecting ephemeral network events in optical transport network at NSDI 2022.
 - `Feb 2022`: I talked about our efforts to democratize networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/#content).
--  `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network. 🏆  
+-  `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network. 🏆
+
+</details>  

@@ -96,6 +96,29 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* Collapsible "earlier updates" (top 10 shown by default) */
+.updates-more {
+  margin-top: 0.2em;
+}
+.updates-more > summary {
+  cursor: pointer;
+  color: var(--link);
+  font-weight: 600;
+  font-size: 0.95em;
+  list-style: none;
+  width: max-content;
+  padding: 0.35em 0;
+  margin-bottom: 0.2em;
+}
+.updates-more > summary::-webkit-details-marker { display: none; }
+.updates-more > summary::before { content: "\25B8\00a0"; }        /* ▸ */
+.updates-more[open] > summary::before { content: "\25BE\00a0"; }  /* ▾ */
+.updates-more > summary:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
 /* Blockquote (the research "north star"-style quote) — editorial pull */
 .page__content blockquote {
   border-left: 3px solid var(--link);
