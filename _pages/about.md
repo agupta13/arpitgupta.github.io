@@ -17,14 +17,6 @@ I am an Associate Professor in [Computer Science at UC Santa Barbara](https://cs
 I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at UCSB, where I have been utilizing my system-building skills to address a variety of pressing digital inequity challenges, namely, ensuring secure, performant, and affordable "Internet for All." To this end, my current research focuses on democratizing the development of production-ready ML artifacts for self-driving networks (to ensure performant and secure connectivity with limited infrastructure and operational resources) and enabling data-driven policymaking (to ensure performant and affordable connectivity with limited capital resources).
 
 📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
-
-## Selected Impact
-- **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
-- **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
-- [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
-- [**Broadband competition and pricing analysis**](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf) used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
-
-For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 
@@ -92,6 +84,14 @@ Doctoral Dissertation, Arpit Gupta, Princeton University, 2018. \
 
 Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) for an extended list of **publications**. Citation metrics are available on my [Google Scholar profile](https://scholar.google.com/citations?user=lc3R9-wAAAAJ&hl=en).
 
+## Selected Impact
+- **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
+- **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
+- [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
+- [**Broadband competition and pricing analysis**](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf) used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
+
+For the full record of policy briefs, amicus work, and community engagement, see my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#impact--engagement).
+
 <!-- ## Ongoing Projects
 - [BQT](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt): A tool that queries broadband plan offerings from major ISPs in the US at street-level granularity.
 - [netFound](https://arxiv.org/pdf/2310.17025.pdf): A foundation model for networking data that employs self-supervised learning techniques on abundant unlabeled network data, passively collected from production environment using [PINOT](https://pinot.cs.ucsb.edu/) for task-agnostic pre-training and smaller-scale labeled network data, actively collected using PINOT and [netUnicorn](https://netunicorn.cs.ucsb.edu/) for task-specific fine-tuning.
@@ -127,11 +127,21 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The Current* (UCSB), Sep 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
 - [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB CS, Nov 2022.
 
-### Recent
-- `2026`: Awarded a DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities*, as Co-PI.
+### Updates
+- `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
+- `May 2026`: [Sylee (Roman) Beltiukov](https://maybe-hello-world.github.io/) graduated with his Ph.D., *Credible Machine Learning for Networking*. 🎓
 - `May 2026`: Delivered a Congressional staff briefing, "Building Trust in Public Institutions," at the Dirksen Senate Office Building as a UC Presidential Faculty Fellow.
+- `Mar 2026`: Selected for the [UC Presidential Faculty Fellows Program (PFFP)](https://cs.ucsb.edu/happenings/announcement/arpit-gupta-selected-uc-presidential-faculty-fellows-program). 🏆
+- `Jan 2026`: The California Public Advocates Office released [Broadband Competition and Pricing Strategies in California's Urban Markets](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf), built on our BQT data.
+- `Jan 2026`: Awarded a California Public Utilities Commission (CPUC) contract to effectively measure broadband affordability in California.
+- `Dec 2025`: [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089) appeared at NeurIPS 2025 (Datasets & Benchmarks Track).
 - `Nov 2025`: Delivered a keynote at the INDIS Workshop (SC25).
-- `April 2025`: The proposal, [CAREER: Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777), has been awarded the Faculty Early Career Development (CAREER) Award from the National Science Foundation (NSF). Please find more details about this project in this [article](https://engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology). 
+- `Nov 2025`: Our study, [Beyond Access: Broadband Affordability & Adoption](https://dls.virginia.gov/commissions/jcots/materials/broadband_report_nov_2025.pdf), was delivered to the Virginia General Assembly (JCOTS).
+- `Sep 2025`: [PreTE: Traffic Engineering with Predictive Failures](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf) appeared at ACM SIGCOMM 2025.
+- `Jul 2025`: Received the **Google ML and Systems Junior Faculty Award** and the **Google Research Scholar Award**. 🏆
+- `Jun 2025`: [Laasya Koduru](https://lmkoduru.github.io/) received the **Department of Energy GEM Fellowship**. 🏆
+- `May 2025`: Received the **Marjorie & Charles Benton Opportunity Fund Fellowship**. 🏆
+- `Apr 2025`: The proposal, [CAREER: Developing Generalizable ML Models for Diverse Learning Problems in Network Operations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443777), has been awarded the Faculty Early Career Development (CAREER) Award from the National Science Foundation (NSF). Please find more details about this project in this [article](https://engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology). 
 - `Jan 2025`: Our paper, [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024, received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Haarika Manda](https://haarikamanda.github.io/) and team for yet another recognition for their awesome work! 🏆
 - `Dec 2024`: [Chaofan Shou](https://scf.so/) presented our work on query planning for hybrid network telemetry systems at **CoNEXT, 2024**. This brings an end to our long (and painful) journey on this project. 
 - `Nov 2024`: I had the privilege to talk about our efforts to develop production-ready ML models for networking at Google's [AIOps Summit](#). Exciting times for networking! 
@@ -139,8 +149,8 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `Mar 2024`: Our paper, [Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/zapdos.pdf), got accepted at **IEEE Symposium on Security and Privacy (S&P), 2024**. Kudos to [Chris Misa](https://ix.cs.uoregon.edu/~cmisa/) for all the hard work and perseverance. This is the first work that demonstrates how we can leverage the fractal (self-similar) nature of IP addresses to design a more effective DDoS defense system, targeted primarily for small and medium enterprises (SMEs). This work is in line with my various ongoing efforts in our group that aim to ensure *secure and performant Internet connectivity for All*.
 - `Jan 2024`: Our paper, [Query Planning for Robust and Scalable Hybrid Network Telemetry Systems](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/dynamap.pdf), got accepted at **CoNEXT, 2024**. Kudos to [Chaofan Shou](https://scf.so/), a prodigious UCSB graduate, for his super-heroic effort. This work builds upon Sonata, developing a novel query planning technique to effectively handle changes in traffic or query workloads. This project holds special significance for me as a mentor because the lead author, [Chaofan Shou](https://scf.so/), was an undergraduate at UCSB when he completed this project.
 - `Aug 2023`: Our paper, [In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems](https://arxiv.org/pdf/2306.08853.pdf), got accepted at **ACM CCS'23**. Kudos to [Roman](https://maybe-hello-world.github.io/) for developing such an impressive and useful system! Please find more information about the project [here](https://netunicorn.cs.ucsb.edu/).
-- `June 2023`: Udit Paul received the [Computer Science Outstanding Publication Award](#).  🏆
-- `June 2023`: Udit Paul received the [Computer Science Outstanding Dissertation Award](#).  🏆
+- `Jun 2023`: Udit Paul received the [Computer Science Outstanding Publication Award](#).  🏆
+- `Jun 2023`: Udit Paul received the [Computer Science Outstanding Dissertation Award](#).  🏆
 - `May 2023`: Our paper, [Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://arxiv.org/pdf/2302.14216.pdf), got accepted at **SIGCOMM'23**. Kudos to [Udit Paul](https://u-paul.github.io/) for such an impressive work! Please find more information about our BQT tool [here](https://address.cs.ucsb.edu/#broadband-plan-querying-tool-bqt).
 - `Jan 2023`: Our paper, [Panakos: Chasing the Tails for Multidimensional Data Streams](https://dl.acm.org/doi/pdf/10.14778/3583140.3583147), got accepted at **VLDB'23**.  Kudos to [Fuheng Zhao](https://zhaofuheng.github.io/) and [Punnal Ismail Khan](https://punnal.github.io/) for their hard work and perseverance!
 - `Jan 2023`: Our project, [Trustee](https://trusteeml.github.io/), received the **Applied Networking Prize (ANRP)** from IETF/IRTF.  Kudos to [Arthur Jacobs](https://asjacobs92.github.io/) and [Roman Beltiukov](https://maybe-hello-world.github.io/) for yet another recognition for their awesome work! 🏆
@@ -148,9 +158,9 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - `Nov 2022`: I had the privilege to visit Lawrence Berkeley National Lab (LBNL). Special thanks to [Inder Monga](https://www.es.net/about/esnet-staff/esnet-leadership/inder/) for hosting me.
 - `Oct 2022`: I had the privilege to present the [Trustee](https://trusteeml.github.io/) work at ETH Zurich. Special thanks to [Laurent Vanbever](https://vanbever.eu/) for hosting me.
 - `Oct 2022`: Our paper, [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) received the **Distinguished Paper Award (Long)** at ACM SIGCOMM Internet Measurements Conference (IMC), 2022. Special congratulations to my student, [Udit Paul](https://u-paul.github.io/)! 🏆  
--  `June 2022`: Sanjay Chandrasekaran received the [Computer Science Outstanding Graduate Research Award](https://twitter.com/ucsbcs/status/1536401430885502977?s=20&t=MI_TLmE3VPdooGWmEWqLXQ). 🏆  
-- `June 2022`: Rohan Bhatia received the [Computer Science Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976).  🏆  
-- `June 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).  🏆  
+- `Jun 2022`: Sanjay Chandrasekaran received the [Computer Science Outstanding Graduate Research Award](https://twitter.com/ucsbcs/status/1536401430885502977?s=20&t=MI_TLmE3VPdooGWmEWqLXQ). 🏆  
+- `Jun 2022`: Rohan Bhatia received the [Computer Science Outstanding Teaching Assistant Award](https://twitter.com/ucsbcs/status/1536401997359742976).  🏆  
+- `Jun 2022`: Chaofan Shuo received the prestigious [Computer Science Outstanding Undergraduate Research Award](https://www.cs.ucsb.edu/index.php/happenings/announcement/congratulations-cs-undergraduate-awardees).  🏆  
 - `Apr 2022`: Congcong Miao (Tencent) will present our work on detecting ephemeral network events in optical transport network at NSDI 2022.
 - `Feb 2022`: I talked about our efforts to democratize networking research at Google's [Networking Research Summit](https://events.withgoogle.com/networking-research-summit-2022/2022-agenda/#content).
 -  `Jan 2022`: Sanjay Chandrasekaran received M-Lab's Research Fellowship 2022. Sanjay will be using the programmable research infrastructure at UCSB to study the relationship between the quality of experience (QoE) for applications and various QoS metrics from the network. 🏆  
