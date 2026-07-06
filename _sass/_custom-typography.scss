@@ -56,18 +56,20 @@ h1, h2, h3, h4,
   > h3:first-child { margin-top: 0.2em; }
 }
 
-/* Wide-screen composition: tighten the outer wrap so nav, content, and text
-   column align and the surplus becomes symmetric page margin rather than a
-   lonely empty band on the right (the "too much whitespace" on large displays). */
+/* Wide-screen composition. Minimal Mistakes reserves a large right padding on
+   .page (~200px) for a right-hand TOC sidebar this site doesn't use, which shoved
+   content left and left a dead whitespace band on the right of large displays.
+   Reclaim that padding and let the wrap use more of the screen width. */
 #main,
-.masthead__inner-wrap { max-width: 68rem; }
+.masthead__inner-wrap { max-width: 76rem; }
+.page { padding-right: 2.5rem; }
 
-/* Readable measure — prose is capped to roughly fill its column; tables/figures full width */
+/* Readable measure — prose fills the reclaimed column; tables/figures full width */
 .page__content {
   font-size: 1.05em;
 
   p, ul, ol, blockquote {
-    max-width: 54rem;
+    max-width: 56rem;
     line-height: 1.72;
   }
   li { margin-bottom: 0.3em; }
