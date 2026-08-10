@@ -173,7 +173,7 @@ bsms_other:
   - name: Irene Pattarachanyakul
     years: "2020-21"
     topic: Measuring TCP Roundtrip Time to Investigate Network Ephemeral Events
-    affiliation: UCSB
+    affiliation: UCSB → Embedded SWE, Ciena
   - name: Rohan Bhatia
     years: "2020-22"
     topic: Dynamic Query Planning for Network Streaming Telemetry Systems
@@ -181,7 +181,7 @@ bsms_other:
   - name: Navya Battula
     years: "2022-23"
     topic: Flexible and scalable data preprocessing system for ML for Networks pipelines
-    affiliation: UCSB
+    affiliation: UCSB → AI/ML Engineer, OQ Point
   - name: Chaofan Shou
     years: "2021-22"
     topic: Dynamic Query Planning for Network Streaming Telemetry Systems
@@ -544,6 +544,7 @@ alumni_bsms:
     project: "NetReplica (co-author; see Publications)"
     type: MS Project
     affiliation: UCSB
+    papers: [netreplica]
   - name: Punnal Ismail Khan
     years: "2021-25"
     exit_year: 2025

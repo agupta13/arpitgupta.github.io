@@ -180,6 +180,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
   research:
     output: true
     permalink: /:collection/:path/
@@ -220,6 +223,15 @@ defaults:
       type: publications
     values:
       layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
       author_profile: true
       share: true
       comments: true

@@ -87,7 +87,7 @@ Please check [this page](https://sites.cs.ucsb.edu/~arpitgupta/publications/) fo
 ## Selected Impact
 - **Amici curiae brief** in *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127), U.S. Supreme Court, 2024. [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
 - **Congressional staff briefing**, "Building Trust in Public Institutions," Dirksen Senate Office Building, 2026 (UC Presidential Faculty Fellows Program). [[Brief]](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf)
-- **Invited briefing** to the Virginia Joint Commission on Technology and Science (JCOTS) full commission, Richmond, 2025, presenting our broadband-affordability findings.
+- **Invited briefing** to the Virginia Joint Commission on Technology and Science (JCOTS) full commission, Richmond, Nov 2025, presenting our broadband-affordability findings.
 - [**Measuring Broadband Policy Success**](https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success), Harvard Law Review Blog, 2024.
 - [**Broadband competition and pricing analysis**](https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260114-public-advocates-broadband-competition-and-pricing-strategies-in-california-urban-markets.pdf) used by the California Public Advocates Office (CPUC), 2026, based on UCSB's Broadband Query Tool (BQT).
 
@@ -129,6 +129,12 @@ It has been an absolute honor and privilege to get the opportunities to organize
   - ACM CoNEXT: 2019 -->
 
 ## News
+
+### Media Coverage
+- [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The UCSB Current*, 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
+- [A CAREER Award to Democratize Advanced Network Management Technology](https://www.engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology), UCSB College of Engineering, 2025. ([CS Department](https://cs.ucsb.edu/happenings/news/career-award-democratize-advanced-network-management-technology))
+- [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The UCSB Current*, 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
+- [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB Computer Science, 2022.
 
 ### In the News
 - [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The Current* (UCSB), Aug 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
