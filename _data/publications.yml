@@ -1,6 +1,14 @@
 # Canonical publication list. Order = display order on Publications page.
 # Students page references by id for "Papers (N)" section.
 
+- id: a4ne-networking-education
+  title: "A First-Principles Framework for Networking Education"
+  url: "#"
+  authors: "J. Daneshamooz, S. Chandrasekaran, A. Gupta"
+  venue: "ACM SIGCOMM Workshop on Networking Education (A4NE)"
+  year: "2026"
+  category: workshop
+
 - id: what-we-cant-see
   title: "What We Can't See, We Can't Fix: The Journey to Build Independent and Accessible Broadband Data"
   url: "https://www.benton.org/blog/what-we-cant-see-we-cant-fix"

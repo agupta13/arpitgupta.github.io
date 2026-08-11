@@ -15,7 +15,7 @@ current_phd:
       - text: "M-Lab Research Fellowship 2022"
         url: "https://cs.ucsb.edu/index.php/happenings/news/sanjay-chandrasekaran-received-m-labs-research-fellowship-2022"
     internships: ["Google (2023, 2024)"]
-    papers: [netgent, netreplica, pinot]
+    papers: [a4ne-networking-education, netgent, netreplica, pinot]
 
   - slug: satyandra-guthula
     name: Satyandra Guthula
@@ -37,7 +37,7 @@ current_phd:
     image: jaber-daneshamooz.jpg
     honors: []
     internships: []
-    papers: [netgent, netreplica, netburst]
+    papers: [a4ne-networking-education, netgent, netreplica, netburst]
 
   - slug: haarika-manda
     name: Haarika Manda
