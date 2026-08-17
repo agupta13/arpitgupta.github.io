@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" font-family="Helvetica, Arial, sans-serif" role="img" aria-label="Left: a straight arrow from Question to Result labeled how the paper tells it. Right: a tangled scribble from Question to Result labeled how the research actually went.">
+  <rect x="0" y="0" width="820" height="380" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="1"/>
+  <line x1="410" y1="45" x2="410" y2="335" stroke="#dddddd" stroke-width="2" stroke-dasharray="6 7"/>
+
+  <!-- Left: the paper -->
+  <text x="205" y="66" text-anchor="middle" font-size="21" font-weight="700" fill="#222222">How the paper tells it</text>
+  <circle cx="80" cy="205" r="6" fill="#222222"/>
+  <line x1="80" y1="205" x2="322" y2="205" stroke="#222222" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="338,205 320,196 320,214" fill="#222222"/>
+  <text x="80" y="240" text-anchor="middle" font-size="15" fill="#555555">Question</text>
+  <text x="330" y="240" text-anchor="middle" font-size="15" fill="#555555">Result</text>
+
+  <!-- Right: the research -->
+  <text x="615" y="66" text-anchor="middle" font-size="21" font-weight="700" fill="#222222">How the research actually went</text>
+  <circle cx="470" cy="205" r="6" fill="#222222"/>
+  <path d="M 470 205 C 430 145 505 115 545 168 C 585 221 498 258 560 280 C 622 302 646 198 602 158 C 558 118 706 120 682 202 C 660 278 742 280 700 208 C 680 174 726 176 730 205"
+        fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="742,205 723,196 725,215" fill="#c0392b"/>
+  <text x="470" y="240" text-anchor="middle" font-size="15" fill="#555555">Question</text>
+  <text x="736" y="240" text-anchor="middle" font-size="15" fill="#555555">Result</text>
+</svg>

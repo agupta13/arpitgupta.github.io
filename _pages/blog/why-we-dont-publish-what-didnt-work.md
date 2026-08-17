@@ -13,6 +13,11 @@ published: false
 
 Research fields publish what works. What does not work usually stays unwritten. It lives in the memory of the people who ran the failed experiment, and it is lost when they move on. The next group starts the same experiment from scratch, pays the same cost to learn the same lesson, and loses it in turn. I think this is a mistake, and it is getting more expensive. I want to explain why, using a negative result from my own group. I also want to be honest that I helped bury that result.
 
+<figure style="margin: 1.5em 0; text-align: center;">
+  <img src="{{ base_path }}/images/blog/negatives-iceberg.jpg" alt="An Arctic iceberg with its large underwater mass visible through clear water." style="max-width: 100%; height: auto;" />
+  <figcaption style="font-size: 0.85em; color: var(--muted); margin-top: 0.5em;">Most of an iceberg sits below the waterline. Photo: Andreas Weith, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg">Wikimedia Commons</a>.</figcaption>
+</figure>
+
 ## A negative result from my own group
 
 A few years ago we tried to detect short-lived congestion events across a campus network. These are the brief episodes, lasting a second or two, that make a video call freeze and then recover before any monitoring system notices. We wanted to find them passively, by watching the traffic that already passes a single vantage point, instead of injecting our own test probes.
@@ -30,6 +35,11 @@ That is the finding: you cannot validate a passive inference method using passiv
 ## Most research runs on results that didn't work
 
 Set that project aside, because the pattern is general. Empirical work rarely moves in a straight line from question to answer. It cycles through four activities: you reproduce a published result, you push it until it breaks, you diagnose and fix what broke, and you establish something new. Two of those four are negative results. Finding the break and diagnosing it are how you learn what is actually true. Papers sometimes do report these intermediate negatives, but writing a paper is mostly compression, and a clean, linear story leaves little room for them. So the published version usually keeps the endpoint and drops the path that led there, even though that path carries much of what was learned.
+
+<figure style="margin: 1.5em 0; text-align: center;">
+  <img src="{{ base_path }}/images/blog/research-vs-paper.svg" alt="Left: a straight arrow from Question to Result, labeled how the paper tells it. Right: a tangled scribble from Question to Result, labeled how the research actually went." style="max-width: 100%; height: auto;" />
+  <figcaption style="font-size: 0.85em; color: var(--muted); margin-top: 0.5em;">The published paper reports a straight path from question to result. The research that produced it rarely looks like that.</figcaption>
+</figure>
 
 ## Two kinds of negative result
 
