@@ -37,7 +37,7 @@
 
 - id: splidt-nsdi26
   title: "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate"
-  url: "#"
+  url: "https://arxiv.org/pdf/2509.00397"
   authors: "M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz"
   venue: "USENIX NSDI"
   year: "2026"
@@ -96,7 +96,7 @@
 
 - id: splidt-sigcomm25
   title: "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate"
-  url: "#"
+  url: "https://arxiv.org/pdf/2509.00397"
   authors: "M. Parvez, A. Zulfiqar, R. Beltiukov, S.L. Feibish, W. Willinger, A. Gupta, M. Shahbaz"
   venue: "ACM SIGCOMM (Shorts)"
   year: "2025"
@@ -104,7 +104,7 @@
 
 - id: assessing-bead
   title: "Assessing the Broadband Service Gaps and Affordability Barriers in BEAD-Eligible Areas"
-  url: "#"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5376384"
   badge: policy
   authors: "L. Koduru, A. Rojas, A. Penate, Z. Zhou, F. Bar, E. Belding, H. Galperin, A. Gupta"
   venue: "Telecommunications Policy Research Conference (TPRC)"
@@ -113,7 +113,7 @@
 
 - id: evaluating-effects
   title: "Evaluating the Effects of and Interdependencies among Federal Broadband Funding Programs"
-  url: "#"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/evaluating-effects-tprc25.pdf"
   badge: policy
   authors: "L. Koduru, A. Gupta, E. Belding, T. Narechania"
   venue: "Telecommunications Policy Research Conference (TPRC)"
@@ -121,8 +121,8 @@
   category: policy
 
 - id: strategic-reporting
-  title: "Strategic Reporting in the National Broadband Map"
-  url: "#"
+  title: "Strategic Misreporting in the National Broadband Map"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386455"
   badge: policy
   authors: "Z. Wen, J. Bliton, L. Koduru, E. Belding, T. Narechania, A. Gupta, S. Hasan"
   venue: "Telecommunications Policy Research Conference (TPRC)"
@@ -430,7 +430,7 @@
 
 - id: preserving-privacy
   title: "Preserving Privacy at IXPs"
-  url: "#"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/preserving-privacy-ixp.pdf"
   authors: "Xiaohe Hu, Arpit Gupta, Aurojit Panda, Nick Feamster, Scott Shenker"
   venue: "ACM APNet, Beijing, China"
   year: "2018"
