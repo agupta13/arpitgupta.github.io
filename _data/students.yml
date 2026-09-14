@@ -4,19 +4,6 @@
 # For summary counts: add entries to current_bsms, current_ms, current_high_school, current_postdoc when applicable.
 
 current_phd:
-  - slug: sanjay-chandrasekaran
-    name: Sanjay Chandrasekaran
-    years: "2019-*"
-    topic: QoE Optimization
-    affiliation: UCSB
-    website: "http://sites.cs.ucsb.edu/~sanjaychandrasekaran/"
-    image: sanjay-chandrasekaran.jpg
-    honors:
-      - text: "M-Lab Research Fellowship 2022"
-        url: "https://cs.ucsb.edu/index.php/happenings/news/sanjay-chandrasekaran-received-m-labs-research-fellowship-2022"
-    internships: ["Google (2023, 2024)"]
-    papers: [a4ne-networking-education, netgent, netreplica, pinot]
-
   - slug: satyandra-guthula
     name: Satyandra Guthula
     years: "2022-*"
@@ -26,7 +13,7 @@ current_phd:
     image: satyandra-guthula.png
     honors: []
     internships: ["Lawrence Berkeley National Lab (2024, 2025)"]
-    papers: [demystifying-nfm, netreplica, netburst, netfound, when-something, harnessing-public-code]
+    papers: [ntcr-loom, demystifying-nfm, netreplica, netburst, netfound, when-something, harnessing-public-code]
 
   - slug: jaber-daneshamooz
     name: Jaber Daneshamooz
@@ -37,7 +24,7 @@ current_phd:
     image: jaber-daneshamooz.jpg
     honors: []
     internships: []
-    papers: [a4ne-networking-education, netgent, netreplica, netburst]
+    papers: [sigcse27-experiential-learning, ntcr-loom, ntcr-rethinking-nfm, a4ne-networking-education, netgent, netreplica, netburst]
 
   - slug: haarika-manda
     name: Haarika Manda
@@ -50,7 +37,7 @@ current_phd:
       - "NSF Graduate Research Fellowship (GRFP), 2024."
       - "IRTF Applied Networking Research Prize (ANRP), SIGCOMM, 2024."
     internships: ["Idaho National Lab (2024)"]
-    papers: [turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
+    papers: [ntcr-rethinking-nfm, turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: laasya-koduru
     name: Laasya Koduru
@@ -62,7 +49,7 @@ current_phd:
     honors:
       - "DOE GEM Fellowship."
     internships: ["Idaho National Lab (2025)"]
-    papers: [netgent, bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
+    papers: [tprc26-affordability-convex, netgent, bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: manni-moghimi
     name: Manni Moghimi
@@ -73,7 +60,7 @@ current_phd:
     image: manni-moghimi.jpg
     honors: []
     internships: []
-    papers: []
+    papers: [ntcr-rethinking-nfm]
 
 current_ms: []
 current_high_school:
@@ -88,7 +75,7 @@ current_postdoc: []      # add when listing current postdocs
 current_staff:
   - name: Eugene Vuong
     years: "2026-*"
-    project: Agentic systems for networking (NetGent, BQT-SaaS)
+    project: "Agentic systems for networking (NetGent, BQT-SaaS); CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026"
     type: Research Engineer (incoming PhD, Fall 2026)
     affiliation: UCSB
   - name: Shaunak G. Umarkhedi
@@ -214,6 +201,20 @@ bsms_other:
 # High school -> treat as Other BS/MS or separate; task said "BS/MS Alumni" and "keep whatever exists". Keeping as structured list under "Other" for undergrads; high school separate if desired. Task says "BS/MS Students" and "BS/MS Alumni" - so undergrads + MS go here. Current page has "Masters Students" and "Undergraduate Students". So ERSP/Cal-Bridge/Other are for undergrads; MS could be in Other. Done above.
 
 alumni_phd:
+  - slug: sanjay-chandrasekaran
+    name: Sanjay Chandrasekaran
+    years: "2019-2026"
+    thesis_title: "The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications"
+    thesis_url: "#"
+    affiliation: UCSB
+    website: "http://sites.cs.ucsb.edu/~sanjaychandrasekaran/"
+    image: sanjay-chandrasekaran.jpg
+    honors:
+      - "M-Lab Research Fellowship, 2022."
+      - "UCSB CS Outstanding Teaching Assistant Award, 2026."
+      - "UCSB CS Outstanding Graduate Research Award, 2022."
+    internships: ["Google (2023, 2024)"]
+    papers: [sigcse27-experiential-learning, a4ne-networking-education, netgent, netreplica, pinot]
   - slug: sylee-beltiukov
     name: Sylee Beltiukov
     years: "2021-2026"
@@ -228,7 +229,7 @@ alumni_phd:
       - "Best Paper Honorable Mention, ACM CCS, 2022."
       - "UCSB CS Summer Fellowship, 2023."
     internships: ["Google (2024, 2025)"]
-    papers: [demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
+    papers: [sigcse27-experiential-learning, ntcr-rethinking-nfm, demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
   - slug: udit-paul
     name: Udit Paul
     years: "2018-2023"
@@ -401,7 +402,7 @@ alumni_bsms:
   - name: Eugene Vuong
     years: "2025"
     exit_year: 2025
-    project: "NetGent: Agent-Based Automation of Network Application Workflows (see Publications)"
+    project: "NetGent: Agent-Based Automation of Network Application Workflows (see Publications); CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026"
     type: Cal-Bridge
     affiliation: CSU East Bay
     papers: [netgent]
@@ -420,7 +421,7 @@ alumni_bsms:
   - name: Ziv Weissman
     years: "2024-25"
     exit_year: 2025
-    project: "Early speed termination (CRA Outstanding Undergraduate Research Award nominee, 2025)"
+    project: "Early speed termination (CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026)"
     type: BS Project
     affiliation: UCSB → UC Berkeley (PhD)
   - name: Karthik Bhattaram

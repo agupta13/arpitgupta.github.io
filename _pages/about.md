@@ -110,6 +110,7 @@ See my [research page](https://sites.cs.ucsb.edu/~arpitgupta/research/#invited-t
 
 ## Workshops and Tutorials
 It has been an absolute honor and privilege to get the opportunities to organize different workshops (and tutorials) on topics related to digital equity and self-driving networks.
+- TPRC54 Pre-Conference Tutorial: *Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates*, American University Washington College of Law, Washington, DC, Sep 2026.
 - [ACM SIGCOMM 2023 Tutorial: Closed-Loop ML (for Networks) Pipelines](https://conferences.sigcomm.org/sigcomm/2023/tutorial-ml4nets.html), Sep 2023.
 - [Bridging the Divide: Answering Internet Policy Questions with Cutting-Edge Network Measurement Algorithms, Datasets, and Platforms](https://www.law.berkeley.edu/research/bclt/bcltevents/bridging-the-divide-answering-internet-policy-questions-with-cutting-edge-network-measurement-algorithms-datasets-and-platforms/), June 2023. [Workshop Report](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/nsf_bridging_the_divide_workshop_2023_report.pdf)
 - [ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks, 2023](https://measure-selfdn23.cs.ucsb.edu/), June 2023. [Workshop Report](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigmetrics_workshop_report.pdf)
@@ -131,12 +132,14 @@ It has been an absolute honor and privilege to get the opportunities to organize
 ## News
 
 ### Media Coverage
+- [Gigabit Competition Could Save Californians $1B Per Year, Says CPUC](https://broadbandbreakfast.com/gigabit-competition-could-save-californians-1b-per-year-says-cpuc/), *Broadband Breakfast*, 2026. (Coverage of the California Public Advocates Office report built on UCSB's Broadband Query Tool.)
 - [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The UCSB Current*, 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
 - [A CAREER Award to Democratize Advanced Network Management Technology](https://www.engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology), UCSB College of Engineering, 2025. ([CS Department](https://cs.ucsb.edu/happenings/news/career-award-democratize-advanced-network-management-technology))
 - [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The UCSB Current*, 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
 - [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB Computer Science, 2022.
 
 ### In the News
+- [Gigabit Competition Could Save Californians $1B Per Year, Says CPUC](https://broadbandbreakfast.com/gigabit-competition-could-save-californians-1b-per-year-says-cpuc/), *Broadband Breakfast*, Jan 2026.
 - [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The Current* (UCSB), Aug 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
 - [A CAREER Award to Democratize Advanced Network Management Technology](https://www.engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology), UCSB College of Engineering, May 2025. ([CS Department](https://cs.ucsb.edu/happenings/news/career-award-democratize-advanced-network-management-technology))
 - [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The Current* (UCSB), Sep 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
@@ -144,6 +147,13 @@ It has been an absolute honor and privilege to get the opportunities to organize
 
 ### Updates
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
+- `Sep 2026`: *Facilitating Experiential Learning in Networking Education* was accepted at **SIGCSE TS 2027** (25.8% acceptance), led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
+- `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *Loom* and *Rethinking Network Foundation Models*.
+- `Sep 2026`: Sanjay Chandrasekaran defended his Ph.D., *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. 🎓
+- `Sep 2026`: Presenting *Making the "Net" Work in the Agentic Era* in the UCSB Library's ["AI in Action"](https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action) speaker series.
+- `Sep 2026`: Co-presenting the TPRC54 pre-conference tutorial, *Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates*, in Washington, DC, with [Laasya Koduru](https://lmkoduru.github.io/) and Elizabeth Belding.
+- `Sep 2026`: *From Measurement to Policy Design*, our address-level convex-optimization framework for broadband affordability, is being presented at TPRC54, led by [Laasya Koduru](https://lmkoduru.github.io/).
+- `Aug 2026`: Our BQT+ availability and affordability analysis informed the **New York City Office of Technology & Innovation**'s Internet Access and Adoption Plan.
 - `Jun 2026`: Served on the Automation and Data Generation panels at the Workshop on Generative AI in Networking, University of Chicago Paris Center, France.
 - `May 2026`: [Sylee (Roman) Beltiukov](https://maybe-hello-world.github.io/) graduated with his Ph.D., *Credible Machine Learning for Networking*. 🎓
 - `May 2026`: Delivered a Congressional staff briefing, "Building Trust in Public Institutions," at the Dirksen Senate Office Building as a UC Presidential Faculty Fellow.

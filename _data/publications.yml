@@ -1,6 +1,35 @@
 # Canonical publication list. Order = display order on Publications page.
 # Students page references by id for "Papers (N)" section.
 
+- id: sigcse27-experiential-learning
+  title: "Facilitating Experiential Learning in Networking Education"
+  authors: "J. Daneshamooz, S. Chandrasekaran, S. Beltiukov, W. Willinger, A. Gupta"
+  venue: "ACM Technical Symposium on Computer Science Education (SIGCSE TS)"
+  year: "2027"
+  category: conference
+
+- id: ntcr-loom
+  title: "Loom: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
+  authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, A. Gupta, W. Willinger, A. Gupta"
+  venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
+  year: "2026"
+  category: workshop
+
+- id: ntcr-rethinking-nfm
+  title: "Rethinking Network Foundation Models: From Bigger Models to Better Data"
+  authors: "J. Daneshamooz, H. Manda, M. Moghimi, S. Beltiukov, W. Willinger, A. Gupta"
+  venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
+  year: "2026"
+  category: workshop
+
+- id: tprc26-affordability-convex
+  title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability Using Address-Level Data Collected with the Broadband-Plan Querying Tool (BQT+)"
+  badge: policy
+  authors: "L. Koduru, K. Allmann, T. Narechania, E. Belding, A. Gupta"
+  venue: "Research Conference on Communications, Information and Internet Policy (TPRC)"
+  year: "2026"
+  category: conference
+
 - id: a4ne-networking-education
   title: "A First-Principles Framework for Networking Education"
   url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/a4ne-networking-education.pdf"
