@@ -2,7 +2,8 @@
 {% assign v = include.venue | default: "" %}
 {% assign out = v %}
 {% if v != "" %}
-  {% if v contains "SIGCOMM" %}
+  {% if v contains "PRIME" or v contains "Policy-Relevant Internet Measurement" %}{% assign out = "ACM IMC PRIME Workshop" %}
+  {% elsif v contains "SIGCOMM" %}
     {% if v contains "Shorts" %}{% assign out = "ACM SIGCOMM (Shorts)" %}
     {% elsif v contains "CCR" or v contains "Computer Communication Review" %}{% assign out = "ACM SIGCOMM CCR" %}
     {% elsif v contains "CoNEXT" %}{% assign out = "ACM CoNEXT" %}
