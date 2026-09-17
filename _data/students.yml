@@ -13,7 +13,7 @@ current_phd:
     image: satyandra-guthula.png
     honors: []
     internships: ["Lawrence Berkeley National Lab (2024, 2025)"]
-    papers: [ntcr-loom, demystifying-nfm, netreplica, netburst, netfound, when-something, harnessing-public-code]
+    papers: [sigcse27-experiential-learning, pramana, ntcr-loom, demystifying-nfm, netreplica, netburst, netfound, when-something, harnessing-public-code]
 
   - slug: jaber-daneshamooz
     name: Jaber Daneshamooz
@@ -24,7 +24,7 @@ current_phd:
     image: jaber-daneshamooz.jpg
     honors: []
     internships: []
-    papers: [sigcse27-experiential-learning, ntcr-loom, ntcr-rethinking-nfm, a4ne-networking-education, netgent, netreplica, netburst]
+    papers: [pramana, sigcse27-experiential-learning, ntcr-loom, ntcr-rethinking-nfm, a4ne-networking-education, bqtplus, netgent, netreplica, netburst]
 
   - slug: haarika-manda
     name: Haarika Manda
@@ -37,7 +37,7 @@ current_phd:
       - "NSF Graduate Research Fellowship (GRFP), 2024."
       - "IRTF Applied Networking Research Prize (ANRP), SIGCOMM, 2024."
     internships: ["Idaho National Lab (2024)"]
-    papers: [ntcr-rethinking-nfm, turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
+    papers: [prime-early-termination, pramana, ntcr-rethinking-nfm, turbotest, beyond-access, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: laasya-koduru
     name: Laasya Koduru
@@ -49,7 +49,7 @@ current_phd:
     honors:
       - "DOE GEM Fellowship."
     internships: ["Idaho National Lab (2025)"]
-    papers: [tprc26-affordability-convex, netgent, bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
+    papers: [prime-bqtplus, tprc26-affordability-convex, bqtplus, netgent, bead-affordability-policy-brief, beyond-access, assessing-bead, evaluating-effects, strategic-reporting, caf-sigcomm24, measuring-broadband-blog]
 
   - slug: manni-moghimi
     name: Manni Moghimi
@@ -60,7 +60,19 @@ current_phd:
     image: manni-moghimi.jpg
     honors: []
     internships: []
-    papers: [ntcr-rethinking-nfm]
+    papers: [pramana, ntcr-rethinking-nfm]
+
+  - slug: eugene-vuong
+    name: Eugene Vuong
+    years: "2026-*"
+    topic: TBD
+    affiliation: UCSB
+    website: "https://github.com/EugeneVuong"
+    image: eugene-vuong.jpg
+    honors:
+      - "CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026."
+    internships: []
+    papers: [pramana, bqtplus, netgent]
 
 current_ms: []
 current_high_school:
@@ -74,12 +86,12 @@ current_postdoc: []      # add when listing current postdocs
 # Research staff & external collaborators (rendered as its own section).
 current_staff:
   - name: Eugene Vuong
-    years: "2026-*"
+    years: "Winter–Spring 2026"
     project: "Agentic systems for networking (NetGent, BQT-SaaS); CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026"
-    type: Research Engineer (incoming PhD, Fall 2026)
+    type: Research Engineer (now PhD student)
     affiliation: UCSB
   - name: Shaunak G. Umarkhedi
-    years: "2025-*"
+    years: "2025 – Spring 2026"
     project: NetVibe
     type: Research Collaborator
     affiliation: M.S., Cornell University
@@ -229,7 +241,7 @@ alumni_phd:
       - "Best Paper Honorable Mention, ACM CCS, 2022."
       - "UCSB CS Summer Fellowship, 2023."
     internships: ["Google (2024, 2025)"]
-    papers: [sigcse27-experiential-learning, ntcr-rethinking-nfm, demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
+    papers: [pramana, llm-contextualize, sigcse27-experiential-learning, ntcr-rethinking-nfm, bqtplus, demystifying-nfm, splidt-nsdi26, splidt-sigcomm25, netfound, netunicorn, when-something, netai-manifesto-1, netai-manifesto-2, harnessing-public-code, trustee, pinot]
   - slug: udit-paul
     name: Udit Paul
     years: "2018-2023"
@@ -405,7 +417,7 @@ alumni_bsms:
     project: "NetGent: Agent-Based Automation of Network Application Workflows (see Publications); CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026"
     type: Cal-Bridge
     affiliation: CSU East Bay
-    papers: [netgent]
+    papers: [bqtplus, netgent]
   - name: Rohan Bhatia
     years: "2019-20"
     exit_year: 2020
@@ -521,6 +533,7 @@ alumni_bsms:
     project: Assessing Density-Driven Disparities in Broadband Access and Pricing
     type: MS Project
     affiliation: UCSB
+    papers: [bqtplus]
   - name: Amrutha Kalle
     years: "2025-26"
     exit_year: 2026

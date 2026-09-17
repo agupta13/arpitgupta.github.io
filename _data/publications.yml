@@ -3,13 +3,13 @@
 
 - id: sigcse27-experiential-learning
   title: "Facilitating Experiential Learning in Networking Education"
-  authors: "J. Daneshamooz, S. Chandrasekaran, S. Beltiukov, W. Willinger, A. Gupta"
+  authors: "J. Daneshamooz, S. Chandrasekaran, S. Guthula, S. Beltiukov, W. Willinger, A. Gupta"
   venue: "ACM Technical Symposium on Computer Science Education (SIGCSE TS)"
   year: "2027"
   category: conference
 
 - id: ntcr-loom
-  title: "Loom: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
+  title: "NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, A. Gupta, W. Willinger, A. Gupta"
   venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
   year: "2026"
@@ -47,6 +47,16 @@
   year: "2026"
   category: policy
 
+- id: pffp-brief
+  title: "Create Independent Broadband Data for Public Accountability"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pffp-brief.pdf"
+  badge: policy
+  authors: "A. Gupta"
+  venue: "Policy Brief, UC Presidential Faculty Fellows Program"
+  year: "2026"
+  category: policy
+  extra: "Presented at the Congressional Staff Briefing \"Building Trust in Public Institutions,\" Dirksen Senate Office Building, Washington DC, May 2026"
+
 - id: bead-affordability-policy-brief
   title: "Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations"
   url: "https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf"
@@ -71,6 +81,24 @@
   venue: "USENIX NSDI"
   year: "2026"
   category: conference
+
+- id: bqtplus
+  title: "Robust and Extensible Measurement of Broadband Plans with BQT+"
+  url: "https://arxiv.org/pdf/2602.16969"
+  badge: preprint
+  authors: "L. Koduru, S. Beltiukov, A. Nguyen, E. Vuong, J. Daneshamooz, T. Narechania, E. Belding, A. Gupta"
+  venue: "arXiv preprint arXiv:2602.16969"
+  year: "2026"
+  category: preprint
+
+- id: pramana
+  title: "Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research"
+  url: "https://arxiv.org/abs/2607.26352"
+  badge: preprint
+  authors: "J. Daneshamooz, E. Vuong, A. Ramanathan, M. Moghimi, H. Manda, S. Kumar, S. Thode, S. Guthula, S. Beltiukov, D. Han, T. Mangla, S. Abdu Jyothi, W. Willinger, A. Gupta"
+  venue: "arXiv preprint arXiv:2607.26352"
+  year: "2026"
+  category: preprint
 
 - id: beyond-access
   title: "Beyond Access: Broadband Affordability & Adoption"
@@ -111,6 +139,38 @@
   badge: preprint
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, S. Chandrasekaran, A. Gupta, A. Gupta, W. Willinger"
   venue: "arXiv preprint arXiv:2507.13476"
+  year: "2025"
+  category: preprint
+
+- id: llm-contextualize
+  title: "Leveraging Large Language Models to Contextualize Network Measurements"
+  url: "https://arxiv.org/abs/2505.19305"
+  authors: "S. Beltiukov, K. Bhattaram, E. Cheng, V. Kanigicherla, A. Singh, K. Thampiratwong, A. Gupta"
+  venue: "2nd Policy-Relevant Internet Measurement Workshop (PRIME), co-located with ACM IMC"
+  year: "2025"
+  category: workshop
+
+- id: prime-bqtplus
+  title: "Enabling Data-Driven Policymaking using Broadband-Plan Querying Tool (BQT+)"
+  url: "https://arxiv.org/abs/2511.05838"
+  authors: "L. Koduru, S. Beltiukov, J. Daneshamooz, E. Vuong, A. Gupta, E. Belding, T. Narechania"
+  venue: "2nd Policy-Relevant Internet Measurement Workshop (PRIME), co-located with ACM IMC"
+  year: "2025"
+  category: workshop
+
+- id: prime-early-termination
+  title: "The Policy Implications of Early Termination in Internet Speed Testing"
+  authors: "H. Manda, M. Sagar, Yogesh, K. Singh, C. Zhao, T. Mangla, P. Gill, E. Belding, A. Gupta"
+  venue: "2nd Policy-Relevant Internet Measurement Workshop (PRIME), co-located with ACM IMC"
+  year: "2025"
+  category: workshop
+
+- id: multifractal-ip
+  title: "The Multifractal IP Address Structure: Physical Explanation and Implications"
+  url: "https://arxiv.org/abs/2504.01374"
+  badge: preprint
+  authors: "C. Misa, R. Durairajan, A. Gupta, R. Rejaie, W. Willinger"
+  venue: "arXiv preprint arXiv:2504.01374"
   year: "2025"
   category: preprint
 

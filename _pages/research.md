@@ -32,7 +32,7 @@ BQT has informed regulatory and policy discussions across states and agencies, s
 
 * [What We Can't See, We Can't Fix](https://www.benton.org/blog/what-we-cant-see-we-cant-fix)
 
-BQT+ advances this platform through agentic system design: decomposing complex ISP interaction processes into reusable, adaptive components that scale across providers while preserving methodological rigor.
+[BQT+](https://arxiv.org/abs/2602.16969) advances this platform through agentic system design: decomposing complex ISP interaction processes into reusable, adaptive components that scale across providers while preserving methodological rigor.
 
 BQT/BQT+ has enabled a series of research contributions grounded in rigorous measurement and statistical modeling:
 
@@ -57,8 +57,8 @@ My group closes that gap through controllable data generation, structured repres
 We are building a programmable experimentation infrastructure that enables scalable and verifiable network research:
 
 * **[netUnicorn](https://netunicorn.cs.ucsb.edu/)** — distributed orchestration across heterogeneous environments; adopted as a reproducibility substrate.
-* **NetReplica** — an evolving bottleneck-aware emulation framework for controlled experimentation.
-* **NetGent** — an agentic workflow automation system that compiles high-level specifications into deterministic, reusable execution pipelines.
+* **[NetReplica](https://arxiv.org/abs/2507.13476)** — an evolving bottleneck-aware emulation framework for controlled experimentation.
+* **[NetGent](https://arxiv.org/abs/2509.00625)** — an agentic workflow automation system that compiles high-level specifications into deterministic, reusable execution pipelines.
 
 These systems share a central architectural insight: complex operational tasks become reliable and scalable when decomposed into smaller, verifiable components — a principle mirrored in BQT+.
 
@@ -67,8 +67,8 @@ These systems share a central architectural insight: complex operational tasks b
 Building on this substrate, we introduced:
 
 * **[netFound](https://arxiv.org/abs/2310.17025)** — a domain-specific network foundation model that learns spatial, temporal, and hierarchical structure directly from packet-level telemetry.
-* **NetBurst** — ongoing modeling of bursty, event-driven network dynamics for improved temporal abstraction and forecasting.
-* **Intrinsic Evaluation Framework** (NeurIPS 2025) — a representation-level validation methodology decoupling embedding quality from downstream task artifacts.
+* **[NetBurst](https://arxiv.org/abs/2510.22397)** — ongoing modeling of bursty, event-driven network dynamics for improved temporal abstraction and forecasting.
+* **[Intrinsic Evaluation Framework](https://arxiv.org/abs/2509.23089)** (NeurIPS 2025) — a representation-level validation methodology decoupling embedding quality from downstream task artifacts.
 * **[Trustee](https://trusteeml.github.io/)** (ANRP recognition) — advancing interpretability and structured introspection for learning-based network systems.
 
 netFound and NetBurst are in tech-transfer at ESnet and Google within the DOE Genesis Mission.
@@ -133,14 +133,14 @@ Our broadband data work informs regulatory, legislative, and community decisions
 
 ## Representative Systems
 
-* [BQT / BQT+](https://address.cs.ucsb.edu/bqt/) — broadband plan querying tool
+* [BQT / BQT+](https://address.cs.ucsb.edu/bqt/) — broadband plan querying tool ([BQT+ paper](https://arxiv.org/abs/2602.16969))
 * NetVibe — evolving longitudinal latency intelligence platform
 * [netUnicorn](https://netunicorn.cs.ucsb.edu/) — distributed orchestration platform
 * [netFound](https://arxiv.org/abs/2310.17025) — network foundation model
-* NetBurst — event-centric forecasting system
-* NetReplica — evolving bottleneck-aware emulation framework
-* NetGent — agentic workflow automation system
-* Intrinsic Evaluation Framework — representation analysis for network foundation models
+* [NetBurst](https://arxiv.org/abs/2510.22397) — event-centric forecasting system
+* [NetReplica](https://arxiv.org/abs/2507.13476) — evolving bottleneck-aware emulation framework
+* [NetGent](https://arxiv.org/abs/2509.00625) — agentic workflow automation system
+* [Intrinsic Evaluation Framework](https://arxiv.org/abs/2509.23089) — representation analysis for network foundation models
 * [Trustee](https://trusteeml.github.io/) — interpretability framework for ML-based network systems
 
 ### Funding
