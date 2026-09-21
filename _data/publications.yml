@@ -134,7 +134,7 @@
   category: workshop
 
 - id: netreplica
-  title: "NetReplica: Toward a Programmable Substrate for Last-Mile Data Generation"
+  title: "NetReplica: A Programmable Substrate for Bottleneck-Centric Network Data Generation"
   url: "https://arxiv.org/pdf/2507.13476"
   badge: preprint
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, S. Chandrasekaran, A. Gupta, A. Gupta, W. Willinger"

@@ -44,14 +44,14 @@ Jaber's counterpoint, worth keeping: reviewers found "Replica" confusing, since
 the system *generates* bottleneck regimes rather than replaying captured traffic.
 Expect this to resurface — it is a real objection to the name, not just churn.
 
-Current state — the site now leads the record on both:
+Current state (updated 2026-09-21) — arXiv is resolved; NTC-R is not:
 
 | Where | Says | Should say |
 |---|---|---|
 | Site (`publications.yml`) | NetReplica (both papers) | ✅ done |
 | CV (`publications.bib`) | NetReplica (both papers) | ✅ done |
-| arXiv 2507.13476 (v3) | **NetForge** | NetReplica — Jaber to retitle |
-| NTC-R submission of record | **Loom** | NetReplica — check with chairs |
+| arXiv 2507.13476 | NetReplica (v4, 2026-09-17) | ✅ done — Jaber retitled |
+| NTC-R submission of record | **Loom** | NetReplica — Jaber emailed chairs 2026-09-17, unconfirmed |
 
 **Titles need to diverge.** Both papers now read almost identically:
 
