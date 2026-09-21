@@ -9,7 +9,7 @@
   category: conference
 
 - id: ntcr-loom
-  title: "NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
+  title: "Loom: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, A. Gupta, W. Willinger, A. Gupta"
   venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
   year: "2026"

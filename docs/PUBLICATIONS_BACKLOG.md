@@ -35,38 +35,47 @@ Fix: add `url:` (arXiv `/abs/` or a PDF under `pdfs/`) for each.
   student-assignment lines (Srish Nigam, Sthanav Murali).
 - Also not linked from `_pages/research.md`, unlike the other named systems.
 
-## 4. Naming — NetReplica
+## 4. Naming — NetReplica and Loom
 
-Decision (Arpit → Jaber, Slack, 2026-09-16): **one name in the public domain —
-NetReplica.** An alias is fine for a blind submission; the arXiv release is not.
+**Current decision (2026-09-21): Loom stays a separate artifact for now.**
+The NTC-R paper keeps the name Loom; the arXiv paper is NetReplica. Two names,
+two artifacts — this supersedes the 2026-09-16 "one name in the public domain"
+position, which had briefly renamed the NTC-R paper to NetReplica.
 
-Jaber's counterpoint, worth keeping: reviewers found "Replica" confusing, since
-the system *generates* bottleneck regimes rather than replaying captured traffic.
-Expect this to resurface — it is a real objection to the name, not just churn.
+History, because it explains the state of things:
 
-Current state (updated 2026-09-21) — arXiv is resolved; NTC-R is not:
+- 2026-09-16 — arXiv 2507.13476 was found retitled to **NetForge** in v3. Arpit:
+  an alias is fine for a blind submission, but the public arXiv release must not
+  fork the name. Site and CV were set to NetReplica for both papers.
+- Jaber's counterpoint, still worth keeping: reviewers found "Replica" confusing,
+  since the system *generates* bottleneck regimes rather than replaying captured
+  traffic. That objection has not gone away.
+- 2026-09-17 — Jaber retitled arXiv to **NetReplica** (v4), abstract included.
+  That half is settled and correct.
+- 2026-09-17 — Jaber emailed the NTC-R chairs asking to rename the paper to
+  NetReplica. **Given the 2026-09-21 decision, that request should be withdrawn**
+  so the camera-ready stays Loom. Not yet confirmed either way.
 
-| Where | Says | Should say |
+| Where | Name | State |
 |---|---|---|
-| Site (`publications.yml`) | NetReplica (both papers) | ✅ done |
-| CV (`publications.bib`) | NetReplica (both papers) | ✅ done |
-| arXiv 2507.13476 | NetReplica (v4, 2026-09-17) | ✅ done — Jaber retitled |
-| NTC-R submission of record | **Loom** | NetReplica — Jaber emailed chairs 2026-09-17, unconfirmed |
+| arXiv 2507.13476 | NetReplica (v4, 2026-09-17) | ✅ settled |
+| NTC-R paper | Loom | ✅ site + CV reverted 2026-09-21 |
+| GitHub repo | `SNL-UCSB/netforge` | left alone — renaming breaks links |
 
-**Titles need to diverge.** Both papers now read almost identically:
-
-- arXiv: *NetReplica: A Programmable Substrate for **Bottleneck-Centric Network Data Generation***
-- NTC-R: *NetReplica: A **Bottleneck-Regime** Substrate for **Reproducible Network Data Generation***
+Keeping the two names also resolves what was a real problem while both were
+called NetReplica: the titles were near-identical
+("A Programmable Substrate for Bottleneck-Centric Network Data Generation" vs
+"A Bottleneck-Regime Substrate for Reproducible Network Data Generation") and
+read as duplicates on the Publications page.
 
 They are genuinely different papers — arXiv argues a data-generation substrate
 built on Cross-Traffic Profiles, evaluated via an ABR case study (47% gain on
 Fugu); NTC-R argues experiments run at the level of *executions, not regimes*,
 evidenced by a 66-paper corpus audit (255/387 experiments) and a
-congestion-control-classifier reproduction. The NTC-R subtitle should carry that
-reframing instead of restating the arXiv one. Wording is Arpit's/Jaber's call.
+congestion-control-classifier reproduction.
 
-Left alone deliberately: the GitHub repo is still `SNL-UCSB/netforge`
-(`cv.tex:458` links it). Renaming breaks existing links.
+If the one-name position is revisited later, the NTC-R subtitle should carry its
+own reframing rather than restating the arXiv one.
 
 ## 5. Smaller items
 
