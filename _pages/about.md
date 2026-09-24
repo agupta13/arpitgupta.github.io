@@ -148,13 +148,16 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB CS, Nov 2022.
 
 ### Updates
+<!-- HOLD FOR RELEASE IN OCTOBER 2026 (held back 2026-09-24; the grant has not started yet).
+Uncomment this line once October begins.
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
+-->
 - `Sep 2026`: *Facilitating Experiential Learning in Networking Education* was accepted at **SIGCSE TS 2027** (25.8% acceptance), led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *Loom* and *Rethinking Network Foundation Models*.
 - `Sep 2026`: Sanjay Chandrasekaran defended his Ph.D., *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. 🎓
 - `Sep 2026`: Presenting *Making the "Net" Work in the Agentic Era* in the UCSB Library's ["AI in Action"](https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action) speaker series ([The Current](https://news.ucsb.edu/2026/022806/ucsb-researchers-discuss-ai-role-computing-and-cognition))
-- `Sep 2026`: [BQT](https://bqt.cs.ucsb.edu/), our broadband querying tool since 2022, opens to outside users in beta — the infrastructure behind our CAF, BEAD, and affordability studies, now reachable through an agent-driven interface. Introduced at our TPRC54 pre-conference tutorial in Washington, DC; access is limited while we scale.
-- `Sep 2026`: Co-presenting the TPRC54 pre-conference tutorial, *Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates*, in Washington, DC, with [Laasya Koduru](https://lmkoduru.github.io/) and Elizabeth Belding.
+- `Sep 2026`: [BQT](https://bqt.cs.ucsb.edu/), our broadband querying tool since 2022, opens to outside users in beta: the infrastructure behind our CAF, BEAD, and affordability studies, now reachable through an agent-driven interface. Access is limited while we scale and free for now; we would welcome your feedback.
+- `Sep 2026`: Co-presenting the TPRC54 pre-conference tutorial, *Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates*, in Washington, DC, with [Laasya Koduru](https://lmkoduru.github.io/), Eugene Vuong, Tejas Narechania, and Elizabeth Belding.
 - `Sep 2026`: *From Measurement to Policy Design*, our address-level convex-optimization framework for broadband affordability, is being presented at TPRC54, led by [Laasya Koduru](https://lmkoduru.github.io/).
 - `Aug 2026`: Our BQT+ availability and affordability analysis informed the **New York City Office of Technology & Innovation**'s Internet Access and Adoption Plan.
 - `Jun 2026`: Served on the Automation and Data Generation panels at the Workshop on Generative AI in Networking, University of Chicago Paris Center, France.
