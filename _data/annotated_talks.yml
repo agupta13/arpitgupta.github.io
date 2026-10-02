@@ -1,6 +1,6 @@
 # Annotated talks: slides with an edited transcript, stepped build by build.
 # One entry per talk, newest first. Each talk's page lives at /annotated-talks/<slug>/
-# (a standalone index.html plus its frames/ folder).
+# (a standalone index.html plus its frames/ folder). They are listed at the top of /talks/.
 - title: "Making the “Net” Work in the Agentic Era"
   slug: making-the-net-work-in-the-agentic-era
   event: "AI in Action: Conversations with UCSB Researchers"
