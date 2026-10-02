@@ -9,6 +9,9 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Annotated Talks"
+    url: /annotated-talks/
+
   - title: "Teaching"
     url: /teaching/
 

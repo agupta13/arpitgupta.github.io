@@ -1,0 +1,12 @@
+# Annotated talks: slides with an edited transcript, stepped build by build.
+# One entry per talk, newest first. Each talk's page lives at /annotated-talks/<slug>/
+# (a standalone index.html plus its frames/ folder).
+- title: "Making the “Net” Work in the Agentic Era"
+  slug: making-the-net-work-in-the-agentic-era
+  event: "AI in Action: Conversations with UCSB Researchers"
+  venue: "UCSB Library"
+  date: 2026-09-29
+  slides: 21
+  thumbnail: annotated-talks/making-the-net-work-in-the-agentic-era/frames/s09_3.jpg
+  summary: "How do we make secure and performant Internet access affordable for all? Data-driven policymaking, self-driving networks, and teaching for human-in-the-loop systems."
+  blog: blogs/making-the-net-work-in-the-agentic-era.html

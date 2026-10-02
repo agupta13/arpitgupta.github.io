@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="f7t"><style>
+.node { fill: #ffffff; stroke: #d3d9e1; stroke-width: 1.5; }
+.node-plain { fill: #eceff3; stroke: #d3d9e1; stroke-width: 1.5; }
+.node-accent { fill: #0b2b70; }
+.net { fill: #eceff3; stroke: #d3d9e1; stroke-width: 1.5; }
+.tag { fill: #eceff3; }
+.tag-red { fill: #eceff3; stroke: #c4122f; stroke-width: 1.5; }
+.callout-box { fill: #eceff3; stroke: #d3d9e1; }
+.gate { fill: #ffffff; stroke: #c4122f; stroke-width: 2; }
+.tri { fill: none; stroke: #3a4757; stroke-width: 1.5; }
+.dot { fill: #ffffff; stroke: #3a4757; stroke-width: 1.5; }
+.dot-net { fill: #c9d0d9; stroke: #3a4757; stroke-width: 1.2; }
+.waist-a { fill: #f2bf2f; }
+.waist-b { fill: #c9d0d9; }
+.bar-muted { fill: #c9d0d9; }
+.bar-navy { fill: #0b2b70; }
+.bar-red { fill: #c4122f; }
+.grid line { stroke: #d3d9e1; stroke-dasharray: 2 3; }
+.ln { stroke: #3a4757; stroke-width: 1.5; fill: none; }
+.ln-thin { stroke: #5f6b79; stroke-width: 1; }
+.ln-dash { stroke: #5f6b79; stroke-width: 1.5; stroke-dasharray: 6 5; }
+.ln-dot { stroke: #5f6b79; stroke-width: 2; stroke-dasharray: 2 5; }
+.ln-red { stroke: #c4122f; stroke-width: 1.5; stroke-dasharray: 6 4; }
+.ah { fill: #3a4757; }
+.ahr { fill: #c4122f; }
+text { font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif; }
+.t-strong { font-weight: 700; font-size: 15px; fill: #15202c; }
+.t-small { font-weight: 400; font-size: 13px; fill: #5f6b79; }
+.t-tag { font-weight: 700; font-size: 14.5px; fill: #0b2b70; }
+.t-label { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace !important; font-weight: 500; font-size: 11px; letter-spacing: .12em; fill: #5f6b79; }
+.t-red { fill: #c4122f; }
+.t-red-small { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace !important; font-size: 11.5px; fill: #c4122f; }
+.t-on-accent { fill: #ffffff; }
+.t-on-gold { fill: #1a1a1a; }
+.t-on-muted { fill: #15202c; }
+.t-num { font-weight: 700; font-size: 26px; fill: #0b2b70; }
+.t-num-sm { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace !important; font-weight: 500; font-size: 14px; fill: #15202c; font-variant-numeric: tabular-nums; }
+.t-tick { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace !important; font-size: 12px; fill: #5f6b79; }
+.t-display { font-weight: 700; font-size: 22px; fill: #15202c; }
+ text{font-family:"Roboto Condensed","Arial Narrow","Helvetica Neue",Arial,sans-serif} svg{background:#ffffff}</style><rect width="100%" height="100%" fill="#ffffff"/>
+<title id="f7t">The AI agent trilemma: general-purpose, high-stakes, automated. Today you only get two of the three. BQT-SaaS is general-purpose and high-stakes, so a person approves its plans. A self-driving network needs all three.</title>
+<polygon points="250,52 80,252 420,252" class="tri"/>
+<rect x="170" y="22" width="160" height="40" rx="8" class="tag-red"/><text x="250" y="48" class="t-strong t-red" text-anchor="middle">General-purpose</text>
+<rect x="20" y="236" width="130" height="40" rx="8" class="tag-red"/><text x="85" y="262" class="t-strong t-red" text-anchor="middle">High-stakes</text>
+<rect x="352" y="236" width="130" height="40" rx="8" class="tag-red"/><text x="417" y="262" class="t-strong t-red" text-anchor="middle">Automated</text>
+<text x="250" y="182" class="t-display" text-anchor="middle">AI trilemma</text>
+<text x="250" y="206" class="t-small" text-anchor="middle">pick two</text>
+<line x1="150" y1="150" x2="122" y2="140" class="ln-thin"/>
+<text x="118" y="128" class="t-small" text-anchor="end">BQT-SaaS:</text>
+<text x="118" y="144" class="t-small" text-anchor="end">a person approves</text>
+<rect x="520" y="96" width="180" height="108" rx="10" class="callout-box"/>
+<text x="610" y="128" class="t-strong" text-anchor="middle">Self-driving</text>
+<text x="610" y="148" class="t-strong" text-anchor="middle">networks need</text>
+<text x="610" y="176" class="t-display t-red" text-anchor="middle">all three</text>
+</svg>

@@ -10,6 +10,11 @@ author_profile: true
 {% include base_path %}
 <ul class="blog-index-list" style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 1.25em;">
+    <a href="{{ base_path }}/blogs/making-the-net-work-in-the-agentic-era.html"><strong>Making the "Net" Work in the Agentic Era</strong></a>
+    <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">From my AI in Action talk at the UCSB Library: making secure and performant Internet access affordable for all, with better data, self-driving networks, and students ready to be the human in the loop.</p>
+    <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">October 2, 2026</p>
+  </li>
+  <li style="margin-bottom: 1.25em;">
     <a href="{{ base_path }}/blogs/the-paper-behind-the-paper.html"><strong>The Paper Behind the Paper</strong></a>
     <p style="margin: 0.25em 0 0; font-size: 0.95em; color: var(--muted);">What version histories reveal about research writing: identity stability, framing cost, and the patterns that style guides miss.</p>
     <p style="margin: 0.15em 0 0; font-size: 0.85em; color: var(--muted);">March 12, 2026</p>
