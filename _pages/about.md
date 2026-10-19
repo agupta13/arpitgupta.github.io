@@ -70,6 +70,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **Internet-2 Innovation Award**, 2013. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf)
 
 ## Selected Publications
+- [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141), USENIX NSDI, 2026.
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
 🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**
 - [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf), \
