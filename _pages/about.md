@@ -18,15 +18,7 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at 
 
 📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
 
-## Recent News
-- **Oct 2026:** Two papers accepted at the NTC-R workshop at ACM CoNEXT 2026: *Rethinking Network Foundation Models: From Bigger Models to Better Data* and *NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation*.
-- **Sep 2026:** *Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research* accepted at ACM HotNets 2026. [arXiv](https://arxiv.org/abs/2607.26352)
-- **Sep 2026:** *Facilitating Experiential Learning in Networking Education* accepted at ACM SIGCSE TS 2027.
-- **Sep 2026:** 🎓 Sanjay Chandrasekaran defended the PhD dissertation *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. Congratulations, Dr. Chandrasekaran!
-- **Sep 2026:** Public beta of the [Broadband-Plan Querying Tool (BQT)](https://bqt.cs.ucsb.edu/) launched at the TPRC54 tutorial in Washington, DC.
-- **Sep 2026:** Spoke at the UCSB Library's *AI in Action* series: [*Making the "Net" Work in the Agentic Era*](https://sites.cs.ucsb.edu/~arpitgupta/annotated-talks/making-the-net-work-in-the-agentic-era/) (annotated slides).
-- **Jul 2026:** *A First-Principles Framework for Networking Education* accepted at the A4NE workshop at ACM SIGCOMM 2026.
-- **May 2026:** 🎓 Sylee Beltiukov defended the PhD dissertation *Credible Machine Learning for Networking: Diagnosis, Data Collection, and Network-Native Representation Learning* and joined Google. Congratulations, Dr. Beltiukov!
+
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 
@@ -152,29 +144,23 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The UCSB Current*, 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
 - [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB Computer Science, 2022.
 
-### In the News
-- [UCSB researchers discuss AI role in computing and cognition](https://news.ucsb.edu/2026/022806/ucsb-researchers-discuss-ai-role-computing-and-cognition), *The Current* (UCSB), Sep 2026.
-- [Gigabit Competition Could Save Californians $1B Per Year, Says CPUC](https://broadbandbreakfast.com/gigabit-competition-could-save-californians-1b-per-year-says-cpuc/), *Broadband Breakfast*, Jan 2026.
-- [Google honors UCSB computer scientist for pioneering low-cost AI network models](https://news.ucsb.edu/2025/022002/google-honors-ucsb-computer-scientist-pioneering-low-cost-ai-network-models), *The Current* (UCSB), Aug 2025. ([College of Engineering](https://engineering.ucsb.edu/news/arpit-gupta-receives-google-funding-develop-network-foundation-models))
-- [A CAREER Award to Democratize Advanced Network Management Technology](https://www.engineering.ucsb.edu/news/career-award-democratize-advanced-network-management-technology), UCSB College of Engineering, May 2025. ([CS Department](https://cs.ucsb.edu/happenings/news/career-award-democratize-advanced-network-management-technology))
-- [Federal broadband subsidies boosted rural internet, but service faded once funding ended](https://news.ucsb.edu/2024/021617/federal-broadband-subsidies-boosted-rural-internet-service-faded-once-funding-ended), *The Current* (UCSB), Sep 2024. ([College of Engineering](https://engineering.ucsb.edu/news/federal-subsidies-boosted-rural-internet-service-faded-when-funding-ended))
-- [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB CS, Nov 2022.
-
 ### Updates
 <!-- HOLD FOR RELEASE IN OCTOBER 2026 (held back 2026-09-24; the grant has not started yet).
 Uncomment this line once October begins.
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
 -->
+- `Sep 2026`: [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://arxiv.org/abs/2607.26352) was accepted at **ACM HotNets 2026**, led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: *Facilitating Experiential Learning in Networking Education* was accepted at **SIGCSE TS 2027** (25.8% acceptance), led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
-- `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *Loom* and *Rethinking Network Foundation Models*.
+- `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *NetReplica* and *Rethinking Network Foundation Models*.
 - `Sep 2026`: Sanjay Chandrasekaran defended his Ph.D., *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. 🎓
 - `Sep 2026`: Presenting *Making the "Net" Work in the Agentic Era* in the UCSB Library's ["AI in Action"](https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action) speaker series ([The Current](https://news.ucsb.edu/2026/022806/ucsb-researchers-discuss-ai-role-computing-and-cognition))
 - `Sep 2026`: [BQT](https://bqt.cs.ucsb.edu/), our broadband querying tool since 2022, opens to outside users in beta: the infrastructure behind our CAF, BEAD, and affordability studies, now reachable through an agent-driven interface. Access is limited while we scale and free for now; we would welcome your feedback.
 - `Sep 2026`: Co-presenting the TPRC54 pre-conference tutorial, *Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates*, in Washington, DC, with [Laasya Koduru](https://lmkoduru.github.io/), Eugene Vuong, Tejas Narechania, and Elizabeth Belding.
 - `Sep 2026`: *From Measurement to Policy Design*, our address-level convex-optimization framework for broadband affordability, is being presented at TPRC54, led by [Laasya Koduru](https://lmkoduru.github.io/).
 - `Aug 2026`: Our BQT+ availability and affordability analysis informed the **New York City Office of Technology & Innovation**'s Internet Access and Adoption Plan.
+- `Jul 2026`: *A First-Principles Framework for Networking Education* was accepted at the **A4NE** workshop, co-located with ACM SIGCOMM 2026.
 - `Jun 2026`: Served on the Automation and Data Generation panels at the Workshop on Generative AI in Networking, University of Chicago Paris Center, France.
-- `May 2026`: [Sylee (Roman) Beltiukov](https://maybe-hello-world.github.io/) graduated with his Ph.D., *Credible Machine Learning for Networking*. 🎓
+- `May 2026`: [Sylee (Roman) Beltiukov](https://maybe-hello-world.github.io/) graduated with their Ph.D., *Credible Machine Learning for Networking*, and joined Google. 🎓
 - `May 2026`: Delivered a Congressional staff briefing, "Building Trust in Public Institutions," at the Dirksen Senate Office Building as a UC Presidential Faculty Fellow.
 - `May 2026`: Sanjay Chandrasekaran received the UCSB CS Outstanding Teaching Assistant Award. 🏆
 - `May 2026`: [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141) appeared at USENIX NSDI 2026, led by [Haarika Manda](https://haarikamanda.github.io/).
