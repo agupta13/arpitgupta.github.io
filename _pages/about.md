@@ -72,7 +72,8 @@ Please don't hesitate to contact me if you have any questions. -->
 ## Selected Publications
 - [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141), USENIX NSDI, 2026.
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
-🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**
+🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**\
+⚖️ **Basis for our amici curiae brief to the U.S. Supreme Court**, *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127). [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
 - [Towards Bridging the Divide: Enhancing Understanding of Digital Inequity](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/thesis_paul.pdf), \
 Doctoral Dissertation, [Udit Paul](https://u-paul.github.io/), University of California Santa Barbara (UCSB), 2023. \
 🏆 **ACM SIGCOMM Doctoral Dissertation Award**
