@@ -62,6 +62,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **Internet-2 Innovation Award**, 2013. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf)
 
 ## Selected Publications
+- [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://arxiv.org/abs/2607.26352), ACM HotNets, 2026.
 - [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141), USENIX NSDI, 2026.
 - [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089), NeurIPS (Datasets and Benchmarks Track), 2025.
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
