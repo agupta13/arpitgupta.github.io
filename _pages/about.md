@@ -22,10 +22,11 @@ I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at 
 - **Oct 2026:** Two papers accepted at the NTC-R workshop at ACM CoNEXT 2026: *Rethinking Network Foundation Models: From Bigger Models to Better Data* and *NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation*.
 - **Sep 2026:** *Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research* accepted at ACM HotNets 2026. [arXiv](https://arxiv.org/abs/2607.26352)
 - **Sep 2026:** *Facilitating Experiential Learning in Networking Education* accepted at ACM SIGCSE TS 2027.
-- **Sep 2026:** 🎓 Sanjay Chandrasekaran defended his PhD. Congratulations, Dr. Chandrasekaran!
+- **Sep 2026:** 🎓 Sanjay Chandrasekaran defended the PhD dissertation *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. Congratulations, Dr. Chandrasekaran!
 - **Sep 2026:** Public beta of the [Broadband-Plan Querying Tool (BQT)](https://bqt.cs.ucsb.edu/) launched at the TPRC54 tutorial in Washington, DC.
 - **Sep 2026:** Spoke at the UCSB Library's *AI in Action* series: [*Making the "Net" Work in the Agentic Era*](https://sites.cs.ucsb.edu/~arpitgupta/annotated-talks/making-the-net-work-in-the-agentic-era/) (annotated slides).
 - **Jul 2026:** *A First-Principles Framework for Networking Education* accepted at the A4NE workshop at ACM SIGCOMM 2026.
+- **May 2026:** 🎓 Sylee Beltiukov defended the PhD dissertation *Credible Machine Learning for Networking: Diagnosis, Data Collection, and Network-Native Representation Learning* and joined Google. Congratulations, Dr. Beltiukov!
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 

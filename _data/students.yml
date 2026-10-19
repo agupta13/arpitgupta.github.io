@@ -232,7 +232,7 @@ alumni_phd:
     years: "2021-2026"
     thesis_title: "Credible Machine Learning for Networking: Diagnosis, Data Collection, and Network-Native Representation Learning"
     thesis_url: "#"
-    affiliation: UCSB
+    affiliation: Google
     website: "https://maybe-hello-world.github.io/"
     image: sylee-beltiukov.jpg
     placement: "Google"
