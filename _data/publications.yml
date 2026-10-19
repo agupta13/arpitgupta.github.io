@@ -9,7 +9,7 @@
   category: conference
 
 - id: ntcr-loom
-  title: "Loom: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
+  title: "NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, A. Gupta, W. Willinger, A. Gupta"
   venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
   year: "2026"
@@ -94,11 +94,10 @@
 - id: pramana
   title: "Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research"
   url: "https://arxiv.org/abs/2607.26352"
-  badge: preprint
   authors: "J. Daneshamooz, E. Vuong, A. Ramanathan, M. Moghimi, H. Manda, S. Kumar, S. Thode, S. Guthula, S. Beltiukov, D. Han, T. Mangla, S. Abdu Jyothi, W. Willinger, A. Gupta"
-  venue: "arXiv preprint arXiv:2607.26352"
+  venue: "ACM Workshop on Hot Topics in Networks (HotNets)"
   year: "2026"
-  category: preprint
+  category: workshop
 
 - id: beyond-access
   title: "Beyond Access: Broadband Affordability & Adoption"

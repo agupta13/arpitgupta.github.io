@@ -17,6 +17,15 @@ I am an Associate Professor in [Computer Science at UC Santa Barbara](https://cs
 I co-direct the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu/) at UCSB, where I have been utilizing my system-building skills to address a variety of pressing digital inequity challenges, namely, ensuring secure, performant, and affordable "Internet for All." To this end, my current research focuses on democratizing the development of production-ready ML artifacts for self-driving networks (to ensure performant and secure connectivity with limited infrastructure and operational resources) and enabling data-driven policymaking (to ensure performant and affordable connectivity with limited capital resources).
 
 📄 You can download my [**CV**](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/cv.pdf) here.
+
+## Recent News
+- **Oct 2026:** Two papers accepted at the NTC-R workshop at ACM CoNEXT 2026: *Rethinking Network Foundation Models: From Bigger Models to Better Data* and *NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation*.
+- **Sep 2026:** *Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research* accepted at ACM HotNets 2026. [arXiv](https://arxiv.org/abs/2607.26352)
+- **Sep 2026:** *Facilitating Experiential Learning in Networking Education* accepted at ACM SIGCSE TS 2027.
+- **Sep 2026:** 🎓 Sanjay Chandrasekaran defended his PhD. Congratulations, Dr. Chandrasekaran!
+- **Sep 2026:** Public beta of the [Broadband-Plan Querying Tool (BQT)](https://bqt.cs.ucsb.edu/) launched at the TPRC54 tutorial in Washington, DC.
+- **Sep 2026:** Spoke at the UCSB Library's *AI in Action* series: [*Making the "Net" Work in the Agentic Era*](https://sites.cs.ucsb.edu/~arpitgupta/annotated-talks/making-the-net-work-in-the-agentic-era/) (annotated slides).
+- **Jul 2026:** *A First-Principles Framework for Networking Education* accepted at the A4NE workshop at ACM SIGCOMM 2026.
 <!-- 
 I also serve on Technical Advisory Board for two "ML for Networking" companies: [Beegol](https://beegol.com/) and [Meter](https://www.meter.com/). -->
 
