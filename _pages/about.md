@@ -71,6 +71,7 @@ Please don't hesitate to contact me if you have any questions. -->
 
 ## Selected Publications
 - [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141), USENIX NSDI, 2026.
+- [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089), NeurIPS (Datasets and Benchmarks Track), 2025.
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
 🏆 **IETF/IRTF Applied Networking Research Prize (ANRP)**\
 ⚖️ **Basis for our amici curiae brief to the U.S. Supreme Court**, *Wisconsin Bell v. U.S. ex rel. Heath* (No. 23-1127). [Brief](https://www.supremecourt.gov/DocketPDF/23/23-1127/327232/20241001102442280_23-1127%20Amici%20Brief.pdf)
