@@ -145,10 +145,7 @@ It has been an absolute honor and privilege to get the opportunities to organize
 - [Paper Coauthored by Arpit Gupta Awarded Best Paper Honorable Mention at ACM CCS](https://www.cs.ucsb.edu/happenings/news/paper-coauthored-arpit-gupta-awarded-best-paper-honorable-mention-acm-ccs), UCSB Computer Science, 2022.
 
 ### Updates
-<!-- HOLD FOR RELEASE IN OCTOBER 2026 (held back 2026-09-24; the grant has not started yet).
-Uncomment this line once October begins.
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
--->
 - `Sep 2026`: [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://arxiv.org/abs/2607.26352) was accepted at **ACM HotNets 2026**, led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: *Facilitating Experiential Learning in Networking Education* was accepted at **SIGCSE TS 2027** (25.8% acceptance), led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *NetReplica* and *Rethinking Network Foundation Models*.
