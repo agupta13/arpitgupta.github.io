@@ -62,7 +62,7 @@ Please don't hesitate to contact me if you have any questions. -->
 - 🏆 **Internet-2 Innovation Award**, 2013. [Paper](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sdx.pdf)
 
 ## Selected Publications
-- [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://arxiv.org/abs/2607.26352), ACM HotNets, 2026.
+- [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pramana_hotnets26.pdf), ACM HotNets, 2026.
 - [TurboTest: Learning When Less is Enough through Early Termination of Internet Speed Tests](https://arxiv.org/pdf/2510.21141), USENIX NSDI, 2026.
 - [Demystifying Network Foundation Models](https://arxiv.org/pdf/2509.23089), NeurIPS (Datasets and Benchmarks Track), 2025.
 - [Assessing the Efficacy of the Connect America Fund in Addressing Internet Access Inequities in the US](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/caf-sigcomm24.pdf), ACM SIGCOMM, 2024.\
@@ -147,7 +147,7 @@ It has been an absolute honor and privilege to get the opportunities to organize
 
 ### Updates
 - `Oct 2026`: New DOE/LBNL Laboratory Directed Research & Development (LDRD) grant, *Making Agentic AI Safe for DOE User Facilities* (Co-PI), begins.
-- `Sep 2026`: [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://arxiv.org/abs/2607.26352) was accepted at **ACM HotNets 2026**, led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
+- `Sep 2026`: [Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pramana_hotnets26.pdf) was accepted at **ACM HotNets 2026**, led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: *Facilitating Experiential Learning in Networking Education* was accepted at **SIGCSE TS 2027** (25.8% acceptance), led by [Jaber Daneshamooz](https://github.com/jaber-the-great).
 - `Sep 2026`: Two papers accepted at the **NTC-R** workshop (Network Traffic Classification — Reloaded), co-located with ACM CoNEXT 2026: *NetReplica* and *Rethinking Network Foundation Models*.
 - `Sep 2026`: Sanjay Chandrasekaran defended his Ph.D., *The Cost of Delay: Investigating the Impact of Last-mile Latency Inflations on Real-time Applications*. 🎓

@@ -93,7 +93,7 @@
 
 - id: pramana
   title: "Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research"
-  url: "https://arxiv.org/abs/2607.26352"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/pramana_hotnets26.pdf"
   authors: "J. Daneshamooz, E. Vuong, A. Ramanathan, M. Moghimi, H. Manda, S. Kumar, S. Thode, S. Guthula, S. Beltiukov, D. Han, T. Mangla, S. Abdu Jyothi, W. Willinger, A. Gupta"
   venue: "ACM Workshop on Hot Topics in Networks (HotNets)"
   year: "2026"
