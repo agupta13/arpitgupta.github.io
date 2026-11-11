@@ -85,6 +85,11 @@ current_postdoc: []      # add when listing current postdocs
 
 # Research staff & external collaborators (rendered as its own section).
 current_staff:
+  - name: Yeasul Kim
+    years: "Fall 2026 –"
+    project: Programmable data generation for network security
+    type: Visiting Researcher
+    affiliation: ""
   - name: Eugene Vuong
     years: "Winter–Spring 2026"
     project: "Agentic systems for networking (NetGent, BQT-SaaS); CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026"
