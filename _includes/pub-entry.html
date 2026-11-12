@@ -1,4 +1,4 @@
-{%- assign url = include.pub.paperurl | default: include.pub.pdf | default: "#" -%}
+{%- assign url = include.pub.paperurl | default: include.pub.pdf | default: include.pub.url | default: "#" -%}
 <p>
 <a href="{{ url }}">{{ include.pub.title }}</a>
 {%- if include.pub.pubtype == "preprint" %} <span class="pub-badge pub-badge--preprint">Preprint</span>

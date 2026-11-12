@@ -3,6 +3,7 @@
 
 - id: sigcse27-experiential-learning
   title: "Facilitating Experiential Learning in Networking Education"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sigcse_ts27.pdf"
   authors: "J. Daneshamooz, S. Chandrasekaran, S. Guthula, S. Beltiukov, W. Willinger, A. Gupta"
   venue: "ACM Technical Symposium on Computer Science Education (SIGCSE TS)"
   year: "2027"
@@ -10,6 +11,7 @@
 
 - id: ntcr-loom
   title: "NetReplica: A Bottleneck-Regime Substrate for Reproducible Network Data Generation"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/netreplica_ntcr26.pdf"
   authors: "J. Daneshamooz, S. Guthula, J. Nguyen, W. Chen, A. Gupta, W. Willinger, A. Gupta"
   venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
   year: "2026"
@@ -17,6 +19,7 @@
 
 - id: ntcr-rethinking-nfm
   title: "Rethinking Network Foundation Models: From Bigger Models to Better Data"
+  url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/rethinking_ntcr26.pdf"
   authors: "J. Daneshamooz, H. Manda, M. Moghimi, S. Beltiukov, W. Willinger, A. Gupta"
   venue: "Workshop on Network Traffic Classification — Reloaded (NTC-R), co-located with ACM CoNEXT"
   year: "2026"
