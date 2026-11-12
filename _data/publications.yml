@@ -122,7 +122,7 @@
 - id: prete
   title: "PreTE: Traffic Engineering with Predictive Failures"
   url: "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/prete.pdf"
-  authors: "C. Miao, Z. Zhong, A. Gupta, Y. Zhang, Q. Yuan, Z. He, X. Zou"
+  authors: "C. Miao, Z. Zhong, Y. Zhao, A. Gupta, Y. Zhang, S. Li, Z. He, X. Zou, J. Wang"
   venue: "ACM SIGCOMM"
   year: "2025"
   category: conference
