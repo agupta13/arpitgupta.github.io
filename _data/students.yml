@@ -9,7 +9,7 @@ current_phd:
     years: "2022-*"
     topic: Network Foundation Models
     affiliation: UCSB
-    website: "https://www.linkedin.com/in/satyandra-guthula-59b25363/"
+    website: "https://satyandrag.com/"
     image: satyandra-guthula.png
     honors: []
     internships: ["Lawrence Berkeley National Lab (2024, 2025)"]
@@ -56,7 +56,7 @@ current_phd:
     years: "2025-*"
     topic: Broadband Quality Data Infrastructure
     affiliation: UCSB
-    website: "https://github.com/Manni-MinM"
+    website: "https://manni-minm.github.io/"
     image: manni-moghimi.jpg
     honors: []
     internships: []
@@ -67,7 +67,7 @@ current_phd:
     years: "2026-*"
     topic: TBD
     affiliation: UCSB
-    website: "https://github.com/EugeneVuong"
+    website: "https://eugenevuong.github.io/"
     image: eugene-vuong.jpg
     honors:
       - "CRA Outstanding Undergraduate Researcher — Honorable Mention, 2026."
